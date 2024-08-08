@@ -1,4 +1,13 @@
-# 2.0.0-beta.1
+## 2.0.1-beta.1
+* Added Popovers To Pedigrees!
+  * They currently only show the dateOfBirth and id (owner and other info coming soon (LA scores, milk test, etc.))
+* Fixed the color of links in light mode
+* Increased the contrast when displaying the tattoo location
+
+# 2.0.0
+* Added Pedigrees!
+
+## 2.0.0-beta.1
 * Added A Pedigree On Each Does Page
   * This will utilize `related` goats and find the ones that match
 # 1.0.1
