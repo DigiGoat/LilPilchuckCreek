@@ -28,20 +28,6 @@
     "animalTattoo": []
   },
   {
-    "name": "Little Redhouse Swt HM Alabama",
-    "dateOfBirth": "2022-03-09T08:34:20",
-    "normalizeId": "PD2219322",
-    "id": 2219322,
-    "sex": "Male",
-    "damId": 1808777,
-    "sireId": 2157990,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": []
-  },
-  {
     "name": "Leisure Time ST Tiger L Vis?",
     "dateOfBirth": "2021-03-20T15:40:54",
     "normalizeId": "PD2207575",
@@ -51,20 +37,6 @@
     "sireId": 1517170,
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": []
-  },
-  {
-    "name": "Be Well FRB Rosemary",
-    "dateOfBirth": "2021-04-21T21:50:13",
-    "normalizeId": "PD2187575",
-    "id": 2187575,
-    "sex": "Female",
-    "damId": 1898840,
-    "sireId": 1893457,
-    "ownerAccount": {
-      "displayName": "Brittany C Mathis"
     },
     "colorAndMarking": "",
     "animalTattoo": []
@@ -322,20 +294,6 @@
     "animalTattoo": []
   },
   {
-    "name": "Rainy Rock CH Showstopper ",
-    "dateOfBirth": "2018-05-19T00:00:00",
-    "normalizeId": "PD2106362",
-    "id": 1898840,
-    "sex": "Female",
-    "damId": 1679473,
-    "sireId": 1669059,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": []
-  },
-  {
     "name": "Hetlandcreek SS Avachinsky",
     "dateOfBirth": "2020-03-25T00:00:00",
     "normalizeId": "PD2104507",
@@ -364,20 +322,6 @@
     "animalTattoo": []
   },
   {
-    "name": "Flat Rock's Bentley",
-    "dateOfBirth": "2020-04-04T00:00:00",
-    "normalizeId": "PD2100979",
-    "id": 1893457,
-    "sex": "Male",
-    "damId": 1476707,
-    "sireId": 1872517,
-    "ownerAccount": {
-      "displayName": "Audrey & Brad Ohlgren Family Turner"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": []
-  },
-  {
     "name": "Redstone IMAX Warlock",
     "dateOfBirth": "2019-08-09T00:00:00",
     "normalizeId": "PD2098546",
@@ -401,20 +345,6 @@
     "sireId": 1730006,
     "ownerAccount": {
       "displayName": "Mark & Samantha Mielbrecht"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": []
-  },
-  {
-    "name": "Leisure Time ZZ Sweet Peach",
-    "dateOfBirth": "2019-04-05T00:00:00",
-    "normalizeId": "PD2016420",
-    "id": 1808777,
-    "sex": "Female",
-    "damId": 1643395,
-    "sireId": 1644245,
-    "ownerAccount": {
-      "displayName": "Tyler Fattori"
     },
     "colorAndMarking": "",
     "animalTattoo": []
