@@ -83,32 +83,5 @@
     "ownerAccount": {
       "displayName": "Kolton Bloom"
     }
-  },
-  {
-    "name": "Be Well BM Ruta Graveolens",
-    "dateOfBirth": "2023-03-14T11:11:58",
-    "normalizeId": "PD2294587",
-    "id": 2294587,
-    "sex": "Male",
-    "damId": 2187575,
-    "sireId": 2219322,
-    "ownerAccount": {
-      "displayName": "Kolton Bloom"
-    },
-    "colorAndMarking": "Silver Buckskin",
-    "animalTattoo": [
-      {
-        "tattoo": "8673",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "R7",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ]
   }
 ]
