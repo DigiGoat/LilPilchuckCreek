@@ -224,32 +224,5 @@
     "ownerAccount": {
       "displayName": "Kolton Bloom"
     }
-  },
-  {
-    "name": "Gillis Family Farm Crystal",
-    "dateOfBirth": "2021-05-26T00:00:00",
-    "normalizeId": "PD2175097",
-    "id": 2175097,
-    "sex": "Female",
-    "damId": 1808133,
-    "sireId": 1905303,
-    "ownerAccount": {
-      "displayName": "Kolton Bloom"
-    },
-    "colorAndMarking": "Chocolate Buckskin With White Poll And Tail",
-    "animalTattoo": [
-      {
-        "tattoo": "GFF5",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "N50",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ]
   }
 ]
