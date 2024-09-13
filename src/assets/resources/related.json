@@ -210,20 +210,6 @@
     "animalTattoo": []
   },
   {
-    "name": "TUA Farms SH Minuette",
-    "dateOfBirth": "2019-04-17T00:00:00",
-    "normalizeId": "PD2015776",
-    "id": 1808133,
-    "sex": "Female",
-    "damId": 1739428,
-    "sireId": 1597887,
-    "ownerAccount": {
-      "displayName": "Stephanie Vierling"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": []
-  },
-  {
     "name": "TUA Farms MB Calico Rose",
     "dateOfBirth": "2019-03-06T00:00:00",
     "normalizeId": "PD2008577",
@@ -350,6 +336,20 @@
     "animalTattoo": []
   },
   {
+    "name": "TUA Farms SH Minuette",
+    "dateOfBirth": "2019-04-17T00:00:00",
+    "normalizeId": "PD2015776",
+    "id": 1808133,
+    "sex": "Female",
+    "damId": 1739428,
+    "sireId": 1597887,
+    "ownerAccount": {
+      "displayName": "Stephanie Vierling"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": []
+  },
+  {
     "name": "Leisure Time PD Copper Penny",
     "dateOfBirth": "2018-02-24T00:00:00",
     "normalizeId": "PD1962296",
@@ -359,20 +359,6 @@
     "sireId": 1486576,
     "ownerAccount": {
       "displayName": ""
-    },
-    "colorAndMarking": "",
-    "animalTattoo": []
-  },
-  {
-    "name": "Hetlandcreek ILM Adagio",
-    "dateOfBirth": "2018-03-17T00:00:00",
-    "normalizeId": "PD1947093",
-    "id": 1739428,
-    "sex": "Female",
-    "damId": 1301729,
-    "sireId": 1466770,
-    "ownerAccount": {
-      "displayName": "Amy York"
     },
     "colorAndMarking": "",
     "animalTattoo": []
@@ -513,20 +499,6 @@
     "sireId": 1391527,
     "ownerAccount": {
       "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": []
-  },
-  {
-    "name": "Almar Acres HS Smokin Hot",
-    "dateOfBirth": "2016-03-15T00:00:00",
-    "normalizeId": "PD1805632",
-    "id": 1597887,
-    "sex": "Male",
-    "damId": 1381382,
-    "sireId": 1459120,
-    "ownerAccount": {
-      "displayName": ""
     },
     "colorAndMarking": "",
     "animalTattoo": []
