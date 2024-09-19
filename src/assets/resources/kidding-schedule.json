@@ -1,23 +1,33 @@
 [
   {
-    "description": "With this breeding, we're hoping to see some udder attachments improvements from Steel's lines."
+    "description": "With this breeding, we're hoping to see some udder attachments improvements from Steel's lines.",
+    "dam": "PD2174259",
+    "sire": "PD1851708"
   },
   {
-    "description": "Sugar is still immature, so it's difficult to know what traits she won't grow out of. But, for now we're going to mix in some of Steel's excelling body capacity."
+    "description": "Sugar is still immature, so it's difficult to know what traits she won't grow out of. But, for now we're going to mix in some of Steel's excelling body capacity.",
+    "dam": "PD2315360",
+    "sire": "PD1851708"
   },
   {
-    "sire": "TBD"
+    "sire": "TBD",
+    "dam": "PD2293424"
   },
   {
-    "sire": "TBD"
+    "sire": "TBD",
+    "dam": "PD2293211"
   },
   {
-    "sire": "TBD"
+    "sire": "TBD",
+    "dam": "PD2326883"
   },
   {
-    "sire": "TBD"
+    "sire": "TBD",
+    "dam": "PD2332175"
   },
   {
-    "description": "Fiona and Magma are both very young and immature, so this will be a chance to see what traits each of them throw.\n\n> [!Note] \n> This breeding may be cancelled depending on Fiona's growth"
+    "description": "Fiona and Magma are both very young and immature, so this will be a chance to see what traits each of them throw.\n\n> [!Note] \n> This breeding may be cancelled depending on Fiona's growth",
+    "dam": "PD2390049",
+    "sire": "PD2396439"
   }
 ]
