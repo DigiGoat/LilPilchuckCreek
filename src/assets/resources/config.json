@@ -1,1 +1,24 @@
-{"homeTitle":"Lil Pilchuck Creek Farm","menubarTitle":"Lil Pilchuck Creek Farm","tabTitle":"Lil Pilchuck","owner":"Kolton & Karen Bloom","email":"info@LilPilchuckCreek.org","colors":{"tertiary":"hsl(26, 40%, 20%)","light":{"tertiary":"hsl(26, 40%, 50%)","main":"hsl(26, 40%, 60%)","secondary":"hsl(26, 40%, 55%)","quaternary":"hsl(26, 40%, 45%)"},"secondary":"hsl(26, 40%, 15%)","main":"hsl(26, 40%, 10%)","quaternary":"hsl(26, 40%, 25%)"},"analytics":{"gtag":"G-MGXLCR5HYS","clarity":"ng4ccmnim4"}}
+{
+  "homeTitle": "Lil Pilchuck Creek Farm",
+  "menubarTitle": "Lil Pilchuck Creek Farm",
+  "tabTitle": "Lil Pilchuck",
+  "owner": "Kolton & Karen Bloom",
+  "email": "info@LilPilchuckCreek.org",
+  "colors": {
+    "tertiary": "hsl(26, 40%, 20%)",
+    "light": {
+      "tertiary": "hsl(26, 40%, 50%)",
+      "main": "hsl(26, 40%, 60%)",
+      "secondary": "hsl(26, 40%, 55%)",
+      "quaternary": "hsl(26, 40%, 45%)"
+    },
+    "secondary": "hsl(26, 40%, 15%)",
+    "main": "hsl(26, 40%, 10%)",
+    "quaternary": "hsl(26, 40%, 25%)"
+  },
+  "analytics": {
+    "gtag": "G-MGXLCR5HYS",
+    "clarity": "ng4ccmnim4"
+  },
+  "kiddingSchedule": true
+}
