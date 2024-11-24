@@ -11,7 +11,20 @@
       "displayName": "Kolton Bloom"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2024-06-12T00:00:00",
+        "generalAppearance": "A",
+        "dairyStrength": "A",
+        "bodyCapacity": "A",
+        "mammarySystem": "G",
+        "finalScore": 77,
+        "isPermanent": false,
+        "id": 324082
+      }
+    ]
   },
   {
     "name": "Highland Ranch VP Rein Me In",
@@ -25,7 +38,8 @@
       "displayName": "Christine Harris"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": []
   },
   {
     "name": "Leisure Time ST Tiger L Vis?",
@@ -39,7 +53,8 @@
       "displayName": "Kristine Struve-Hagan"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": []
   },
   {
     "name": "Gillis Family Farm Crystal",
@@ -53,7 +68,20 @@
       "displayName": "Kolton Bloom"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2023-07-31T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 305567
+      }
+    ]
   },
   {
     "name": "Gillis Family Farm Mystic",
@@ -67,7 +95,20 @@
       "displayName": "Kolton Bloom"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2024-06-12T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "G",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 324083
+      }
+    ]
   },
   {
     "name": "Little Redhouse Lapochka",
@@ -81,7 +122,31 @@
       "displayName": "Wendy Webster"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2023-08-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 305429
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2024-06-11T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 323975
+      }
+    ]
   },
   {
     "name": "TUA Farms MB Bold N Bright",
@@ -95,7 +160,31 @@
       "displayName": "Amy York"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-06-21T00:00:00",
+        "generalAppearance": "v",
+        "dairyStrength": "g",
+        "bodyCapacity": "v",
+        "mammarySystem": "v",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 305234
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2024-09-26T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 327446
+      }
+    ]
   },
   {
     "name": "Wolfivan Pappy Van Winkle",
@@ -109,7 +198,8 @@
       "displayName": "Trenne Earl"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": []
   },
   {
     "name": "Redstone Warlock Raynman",
@@ -123,7 +213,8 @@
       "displayName": "Trenne Earl"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": []
   },
   {
     "name": "Timbuckdoe Farm AW Aleut Storm",
@@ -137,7 +228,20 @@
       "displayName": "Kolton Bloom"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-07-31T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "G",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 304836
+      }
+    ]
   },
   {
     "name": "Gillis Family Farm Oh Snap!",
@@ -151,7 +255,20 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-12T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "+",
+        "bodyCapacity": "V",
+        "mammarySystem": " ",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 286297
+      }
+    ]
   },
   {
     "name": "Leisure Time ZZ Jubilation",
@@ -165,7 +282,31 @@
       "displayName": "Kristine Struve-Hagan"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-11T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": "+",
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 286128
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2023-07-31T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 304407
+      }
+    ]
   },
   {
     "name": "Leisure Time Dirty Lil Secret",
@@ -179,7 +320,20 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-12T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "+",
+        "finalScore": 82,
+        "isPermanent": false,
+        "id": 285723
+      }
+    ]
   },
   {
     "name": "Leisure Time ZZ Aleutian Wind",
@@ -193,7 +347,8 @@
       "displayName": "Pamela Stubbe"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": []
   },
   {
     "name": "Hetlandcreek ZZ Blackbird Fly",
@@ -207,7 +362,42 @@
       "displayName": "Trenne Earl"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-11T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 285465
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2023-08-01T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 303847
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2024-06-13T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": true,
+        "id": 324157
+      }
+    ]
   },
   {
     "name": "TUA Farms MB Calico Rose",
@@ -221,7 +411,8 @@
       "displayName": "Pamela Stubbe"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": []
   },
   {
     "name": "Hetlandcreek ILM Star Magnolia",
@@ -235,7 +426,42 @@
       "displayName": "Long Acres Farm"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2019-06-17T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 269655
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-10T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 285064
+      },
+      {
+        "lactationNumber": 6,
+        "appraisalDate": "2024-06-12T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": true,
+        "id": 324080
+      }
+    ]
   },
   {
     "name": "Stayawhile HC Forged Steel",
@@ -249,7 +475,31 @@
       "displayName": "Kolton Bloom"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-06-17T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "+",
+        "mammarySystem": null,
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 269984
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-10T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": " ",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 284591
+      }
+    ]
   },
   {
     "name": "SG Stayawhile TV Camera Ready",
@@ -263,7 +513,42 @@
       "displayName": "Jodi Mcdowell"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2015-06-07T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 226603
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2016-06-09T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 238170
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2018-07-13T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 260893
+      }
+    ]
   },
   {
     "name": "Rosasharn NP Honey Moon Cruz",
@@ -277,7 +562,31 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-08-16T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 223843
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-06-07T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 226600
+      }
+    ]
   },
   {
     "name": "Hetlandcreek SS Avachinsky",
@@ -291,7 +600,42 @@
       "displayName": "Trenne Earl"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-11T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 286246
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2023-07-27T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 304599
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2024-06-13T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 324156
+      }
+    ]
   },
   {
     "name": "Highland Ranch PD Vegas Prize",
@@ -305,7 +649,8 @@
       "displayName": "Elianna Mielbrecht"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": []
   },
   {
     "name": "Redstone IMAX Warlock",
@@ -319,7 +664,8 @@
       "displayName": "Karyn Dufloth"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": []
   },
   {
     "name": "Highland Ranch AD Rein E Day",
@@ -333,7 +679,20 @@
       "displayName": "Mark & Samantha Mielbrecht"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-10T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 285532
+      }
+    ]
   },
   {
     "name": "TUA Farms SH Minuette",
@@ -347,7 +706,20 @@
       "displayName": "Stephanie Vierling"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-12T00:00:00",
+        "generalAppearance": "A",
+        "dairyStrength": "+",
+        "bodyCapacity": "A",
+        "mammarySystem": "+",
+        "finalScore": 76,
+        "isPermanent": false,
+        "id": 285454
+      }
+    ]
   },
   {
     "name": "Leisure Time PD Copper Penny",
@@ -361,7 +733,8 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": []
   },
   {
     "name": "Agape's Prize Sulaymaan Quinn",
@@ -375,7 +748,8 @@
       "displayName": "Brianna Beckley"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": []
   },
   {
     "name": "Leisure Time ZZ Tigerlily ",
@@ -389,7 +763,31 @@
       "displayName": "Kristine Struve-Hagan"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-11T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "+",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 284939
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2023-07-31T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 88,
+        "isPermanent": true,
+        "id": 303461
+      }
+    ]
   },
   {
     "name": "SG Leisure Time ZZ Scandalous ",
@@ -403,7 +801,53 @@
       "displayName": "Kristine Struve-Hagan"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-06-18T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 276021
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-11T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 284938
+      },
+      {
+        "lactationNumber": 5,
+        "appraisalDate": "2023-07-31T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 303460
+      },
+      {
+        "lactationNumber": 6,
+        "appraisalDate": "2024-06-13T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": true,
+        "id": 324106
+      }
+    ]
   },
   {
     "name": "Hetlandcreek PD Steel Guitar",
@@ -417,7 +861,8 @@
       "displayName": "Brittany C Mathis"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": []
   },
   {
     "name": "Redstone DHRV Rayna James",
@@ -431,7 +876,31 @@
       "displayName": "Alexis Bachrach"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-10-05T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "+",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 264138
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2022-10-18T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": true,
+        "id": 292569
+      }
+    ]
   },
   {
     "name": "Old Mountain Farm M Bold N",
@@ -445,7 +914,20 @@
       "displayName": "Courtney Boyer"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-06-20T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 270776
+      }
+    ]
   },
   {
     "name": "TUA Farms SP Sweet N Sassy",
@@ -459,7 +941,42 @@
       "displayName": "Amy York"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-09-29T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "A",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 284609
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-06-21T00:00:00",
+        "generalAppearance": "g",
+        "dairyStrength": "g",
+        "bodyCapacity": "v",
+        "mammarySystem": "v",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 303238
+      },
+      {
+        "lactationNumber": 6,
+        "appraisalDate": "2024-09-26T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 88,
+        "isPermanent": true,
+        "id": 327449
+      }
+    ]
   },
   {
     "name": "Hetlandcreek JDI Rose'",
@@ -473,7 +990,42 @@
       "displayName": "Kristy Muir"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 261907
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2019-06-17T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 269653
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2022-04-08T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "G",
+        "finalScore": 85,
+        "isPermanent": true,
+        "id": 292475
+      }
+    ]
   },
   {
     "name": "Hetlandcreek Sharp Dressed Man",
@@ -487,7 +1039,20 @@
       "displayName": "Kristine Struve-Hagan"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": null,
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 260609
+      }
+    ]
   },
   {
     "name": "Leisure Time TW Pixie Dust",
@@ -501,7 +1066,53 @@
       "displayName": "Kristine Struve-Hagan"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "+",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 260606
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-06-18T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 270344
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-11T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 284587
+      },
+      {
+        "lactationNumber": 6,
+        "appraisalDate": "2023-07-31T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": true,
+        "id": 303227
+      }
+    ]
   },
   {
     "name": "SG Sugar Moon NS Alejandro",
@@ -515,7 +1126,8 @@
       "displayName": "Belinda Cardinal"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": []
   },
   {
     "name": "GCH Hetlandcreek HB Swan Harmonica",
@@ -529,7 +1141,31 @@
       "displayName": "Denise Hetland"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 261906
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2019-06-17T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 269652
+      }
+    ]
   },
   {
     "name": "Camanna RA Uliana",
@@ -543,7 +1179,42 @@
       "displayName": "Elisabeth Olsen"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2017-06-19T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 250654
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2018-08-04T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 262740
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2019-06-20T00:00:00",
+        "generalAppearance": "A",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 270772
+      }
+    ]
   },
   {
     "name": "Leisure Time GL Satyr ",
@@ -557,7 +1228,31 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-09-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 244928
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 260600
+      }
+    ]
   },
   {
     "name": "SGCH Joyful Hearts KR Phoebe",
@@ -571,7 +1266,53 @@
       "displayName": "Renee Wolf"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-05-26T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 237676
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2017-06-08T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 248625
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2019-04-16T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 267256
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "1800-01-01T00:00:00",
+        "generalAppearance": null,
+        "dairyStrength": null,
+        "bodyCapacity": null,
+        "mammarySystem": null,
+        "finalScore": null,
+        "isPermanent": false,
+        "id": 281176
+      }
+    ]
   },
   {
     "name": "SGCH Leisure Time TW Silver Joy",
@@ -585,7 +1326,53 @@
       "displayName": "Kristine Struve-Hagan"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2016-09-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 244920
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2017-06-07T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 250473
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 260595
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-06-18T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 91,
+        "isPermanent": true,
+        "id": 270339
+      }
+    ]
   },
   {
     "name": "SG 5 Fold Farm CC Ginger Snap",
@@ -599,7 +1386,31 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2015-06-16T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "+",
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 227698
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-12T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 87,
+        "isPermanent": true,
+        "id": 284256
+      }
+    ]
   },
   {
     "name": "Alethia ET I'm A Love Machine",
@@ -613,7 +1424,8 @@
       "displayName": "Denise Hetland"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": []
   },
   {
     "name": "Fuji Farm ATS MI Incentivo",
@@ -627,7 +1439,20 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-08-16T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 220455
+      }
+    ]
   },
   {
     "name": "SGCH AGS Honey Goat Blondie",
@@ -641,7 +1466,53 @@
       "displayName": "Jodi Mcdowell"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2014-08-16T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 220447
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2016-06-09T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "+",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 238164
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2017-06-12T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 249627
+      },
+      {
+        "lactationNumber": 7,
+        "appraisalDate": "2018-07-13T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 88,
+        "isPermanent": true,
+        "id": 260889
+      }
+    ]
   },
   {
     "name": "Rosasharn AX Noble Prince",
@@ -655,7 +1526,31 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2012-08-15T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": null,
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 201459
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2013-07-25T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 208622
+      }
+    ]
   },
   {
     "name": "Rosasharn BB Honey Moon",
@@ -669,6 +1564,30 @@
       "displayName": "Bruce & Terry Sentas"
     },
     "colorAndMarking": "",
-    "animalTattoo": []
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2012-08-15T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 201447
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2013-07-25T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "+",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 208606
+      }
+    ]
   }
 ]
