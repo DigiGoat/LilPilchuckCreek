@@ -26,7 +26,20 @@
     "ownerAccount": {
       "displayName": "Kolton Bloom"
     },
-    "description": "Mystic is a personal favorite on the farm, sweet as she is beautiful. Mystic did very well at our first show season, taking Reserve Junior Grand Champion at the 2022 Evergreen State Fair. She has a strong production background. Her dam is an elite doe, with 813 as a first freshener."
+    "description": "Mystic is a personal favorite on the farm, sweet as she is beautiful. Mystic did very well at our first show season, taking Reserve Junior Grand Champion at the 2022 Evergreen State Fair. She has a strong production background. Her dam is an elite doe, with 813 as a first freshener.",
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2024-06-12T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "G",
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 324083
+      }
+    ]
   },
   {
     "name": "TUA Farms RMI Sugar N Spice",
@@ -55,7 +68,20 @@
     "ownerAccount": {
       "displayName": "Kolton Bloom"
     },
-    "description": "Sugar is lacking maturity, but displaying great length of body and a well-proportioned udder. We're looking forward to seeing how she matures with future freshenings."
+    "description": "Sugar is lacking maturity, but displaying great length of body and a well-proportioned udder. We're looking forward to seeing how she matures with future freshenings.",
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2024-06-12T00:00:00",
+        "generalAppearance": "A",
+        "dairyStrength": "A",
+        "bodyCapacity": "A",
+        "mammarySystem": "G",
+        "finalScore": 77,
+        "isPermanent": false,
+        "id": 324082
+      }
+    ]
   },
   {
     "name": "Little Redhouse Zayushka",
@@ -83,7 +109,8 @@
     "sireId": 2157990,
     "ownerAccount": {
       "displayName": "Kolton Bloom"
-    }
+    },
+    "linearAppraisals": []
   },
   {
     "name": "Little Redhouse Bluebird Sky",
@@ -112,7 +139,8 @@
     "ownerAccount": {
       "displayName": "Kolton Bloom"
     },
-    "description": ""
+    "description": "",
+    "linearAppraisals": []
   },
   {
     "name": "Lil Pilchuck Creek Ameth Jewel",
@@ -141,7 +169,8 @@
     "ownerAccount": {
       "displayName": "Kolton Bloom"
     },
-    "description": "Jewel is our first keeper doe to give us an idea of what conformation runs in the herd. We are looking forward to how she matures."
+    "description": "Jewel is our first keeper doe to give us an idea of what conformation runs in the herd. We are looking forward to how she matures.",
+    "linearAppraisals": []
   },
   {
     "name": "Leisure Time TL Black Beauty",
@@ -170,7 +199,8 @@
     "ownerAccount": {
       "displayName": "Kolton Bloom"
     },
-    "description": "Our first goat to receive a leg, Beauty is developing to be a very promising goat. She not only won *Best Junior Doe* at the `Barn In The USA` show, but she also took *Reserve Junior Doe* in a ring the day before."
+    "description": "Our first goat to receive a leg, Beauty is developing to be a very promising goat. She not only won *Best Junior Doe* at the `Barn In The USA` show, but she also took *Reserve Junior Doe* in a ring the day before.",
+    "linearAppraisals": []
   },
   {
     "name": "Lil Pilchuck AS Princess Fiona",
@@ -199,7 +229,8 @@
       }
     ],
     "nickname": "Fiona",
-    "description": "We've been waiting a few years for a doeling out of Mystic, and the wait is finally over! We're hoping to see some improvements in Fiona's udder attachments when compared to her dam."
+    "description": "We've been waiting a few years for a doeling out of Mystic, and the wait is finally over! We're hoping to see some improvements in Fiona's udder attachments when compared to her dam.",
+    "linearAppraisals": []
   },
   {
     "name": "Lil Pilchuck AS Frosty Blizard",
@@ -228,6 +259,7 @@
     "ownerAccount": {
       "displayName": "Kolton Bloom"
     },
-    "description": "Named after her frosted ears, Frost is one of the first **Lil Pilchuck Creek** does."
+    "description": "Named after her frosted ears, Frost is one of the first **Lil Pilchuck Creek** does.",
+    "linearAppraisals": []
   }
 ]
