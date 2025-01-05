@@ -691,6 +691,17 @@
         "finalScore": 89,
         "isPermanent": false,
         "id": 285532
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2024-06-12T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 329006
       }
     ]
   },
