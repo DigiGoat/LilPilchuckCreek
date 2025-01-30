@@ -8,17 +8,34 @@
     "damId": 1808133,
     "sireId": 1905303,
     "ownerAccount": {
-      "displayName": ""
+      "displayName": "Kolton Bloom"
     },
-    "colorAndMarking": "",
+    "colorAndMarking": "Chocolate Buckskin With White Poll And Tail",
     "animalTattoo": [
       {
         "tattoo": "GFF5",
-        "tattooLocation": {}
+        "tattooLocation": {
+          "name": "RE"
+        }
       },
       {
         "tattoo": "N50",
-        "tattooLocation": {}
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2023-07-31T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 305567
       }
     ]
   },
@@ -33,16 +50,21 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": "",
+    "colorAndMarking": "Silver Buckskin",
     "animalTattoo": [
       {
         "tattoo": "8673",
-        "tattooLocation": {}
+        "tattooLocation": {
+          "name": "RE"
+        }
       },
       {
         "tattoo": "R7",
-        "tattooLocation": {}
+        "tattooLocation": {
+          "name": "LE"
+        }
       }
-    ]
+    ],
+    "linearAppraisals": []
   }
 ]
