@@ -135,7 +135,16 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": "",
-    "nickname": "Winslow"
+    "colorAndMarking": "Chamoisee With Abundant White",
+    "nickname": "Winslow",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "S7",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": []
   }
 ]
