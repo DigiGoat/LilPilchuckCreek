@@ -123,5 +123,18 @@
     },
     "description": "A young buck with a great future ahead of him. We're looking forward to seeing how he matures.",
     "linearAppraisals": []
+  },
+  {
+    "name": "Highland Ranch VP Winslow",
+    "dateOfBirth": "2024-05-04T18:03:06",
+    "normalizeId": "PD2401466",
+    "id": 2401466,
+    "sex": "Male",
+    "damId": 1834015,
+    "sireId": 1894947,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": ""
   }
 ]
