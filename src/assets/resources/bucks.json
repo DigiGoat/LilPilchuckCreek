@@ -50,6 +50,14 @@
         "isPermanent": false,
         "id": 284591
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2017,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -92,7 +100,8 @@
         "isPermanent": false,
         "id": 304836
       }
-    ]
+    ],
+    "awards": []
   },
   {
     "name": "Long Acres Farm Red Hot Magma",
@@ -122,7 +131,15 @@
       "displayName": "Kolton Bloom"
     },
     "description": "A young buck with a great future ahead of him. We're looking forward to seeing how he matures.",
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2024,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Highland Ranch VP Winslow",
@@ -145,6 +162,7 @@
         }
       }
     },
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": []
   }
 ]
