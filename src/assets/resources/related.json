@@ -24,7 +24,8 @@
         "isPermanent": false,
         "id": 324082
       }
-    ]
+    ],
+    "awards": []
   },
   {
     "name": "Highland Ranch VP Rein Me In",
@@ -39,7 +40,8 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": []
   },
   {
     "name": "Little Redhouse Swt HM Alabama",
@@ -54,7 +56,8 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": []
   },
   {
     "name": "Leisure Time ST Tiger L Vis?",
@@ -69,7 +72,8 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": []
   },
   {
     "name": "Be Well FRB Rosemary",
@@ -107,7 +111,8 @@
         "isPermanent": false,
         "id": 324146
       }
-    ]
+    ],
+    "awards": []
   },
   {
     "name": "Gillis Family Farm Crystal",
@@ -134,7 +139,8 @@
         "isPermanent": false,
         "id": 305567
       }
-    ]
+    ],
+    "awards": []
   },
   {
     "name": "Gillis Family Farm Mystic",
@@ -161,7 +167,8 @@
         "isPermanent": false,
         "id": 324083
       }
-    ]
+    ],
+    "awards": []
   },
   {
     "name": "Little Redhouse Lapochka",
@@ -199,7 +206,8 @@
         "isPermanent": false,
         "id": 323975
       }
-    ]
+    ],
+    "awards": []
   },
   {
     "name": "TUA Farms MB Bold N Bright",
@@ -237,7 +245,8 @@
         "isPermanent": false,
         "id": 327446
       }
-    ]
+    ],
+    "awards": []
   },
   {
     "name": "Wolfivan Pappy Van Winkle",
@@ -252,7 +261,15 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2021,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Redstone Warlock Raynman",
@@ -267,7 +284,15 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Timbuckdoe Farm AW Aleut Storm",
@@ -294,7 +319,8 @@
         "isPermanent": false,
         "id": 304836
       }
-    ]
+    ],
+    "awards": []
   },
   {
     "name": "Gillis Family Farm Oh Snap!",
@@ -321,6 +347,14 @@
         "isPermanent": false,
         "id": 286297
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2019,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -336,7 +370,15 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Leisure Time ZZ Jubilation",
@@ -374,6 +416,32 @@
         "isPermanent": false,
         "id": 304407
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 4
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2021,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -401,7 +469,8 @@
         "isPermanent": false,
         "id": 285736
       }
-    ]
+    ],
+    "awards": []
   },
   {
     "name": "Leisure Time Dirty Lil Secret",
@@ -428,6 +497,32 @@
         "isPermanent": false,
         "id": 285723
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 7
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2021,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -443,7 +538,15 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2019,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Hetlandcreek ZZ Blackbird Fly",
@@ -492,7 +595,8 @@
         "isPermanent": true,
         "id": 324157
       }
-    ]
+    ],
+    "awards": []
   },
   {
     "name": "TUA Farms SH Minuette",
@@ -519,7 +623,8 @@
         "isPermanent": false,
         "id": 285454
       }
-    ]
+    ],
+    "awards": []
   },
   {
     "name": "TUA Farms MB Calico Rose",
@@ -534,7 +639,8 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": []
   },
   {
     "name": "Hetlandcreek ILM Star Magnolia",
@@ -583,6 +689,32 @@
         "isPermanent": true,
         "id": 324080
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 8
+      }
     ]
   },
   {
@@ -620,6 +752,14 @@
         "finalScore": 85,
         "isPermanent": false,
         "id": 284591
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2017,
+        "awardCount": 1
       }
     ]
   },
@@ -670,6 +810,38 @@
         "isPermanent": false,
         "id": 260893
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2015,
+        "awardCount": 2
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2015,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -708,6 +880,20 @@
         "isPermanent": false,
         "id": 226600
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2013,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -723,7 +909,21 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 4
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Hetlandcreek SS Avachinsky",
@@ -772,6 +972,32 @@
         "isPermanent": false,
         "id": 324156
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 7
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2021,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -787,7 +1013,8 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": []
   },
   {
     "name": "Redstone IMAX Warlock",
@@ -802,7 +1029,15 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2021,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Highland Ranch AD Rein E Day",
@@ -840,7 +1075,8 @@
         "isPermanent": false,
         "id": 329006
       }
-    ]
+    ],
+    "awards": []
   },
   {
     "name": "Leisure Time ZZ Sweet Peach",
@@ -878,6 +1114,32 @@
         "isPermanent": false,
         "id": 303853
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 5
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2021,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -893,7 +1155,15 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Leisure Time ZZ GQ",
@@ -908,7 +1178,15 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Hetlandcreek ILM Adagio",
@@ -957,6 +1235,32 @@
         "isPermanent": true,
         "id": 303520
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 6
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -972,7 +1276,21 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2019,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Leisure Time ZZ Tigerlily ",
@@ -1009,6 +1327,26 @@
         "finalScore": 88,
         "isPermanent": true,
         "id": 303461
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 3
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2021,
+        "awardCount": 1
       }
     ]
   },
@@ -1070,6 +1408,38 @@
         "isPermanent": true,
         "id": 324106
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2019,
+        "awardCount": 6
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -1085,7 +1455,8 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": []
   },
   {
     "name": "Hetlandcreek ILM Vesuvius",
@@ -1134,6 +1505,32 @@
         "isPermanent": true,
         "id": 303424
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 6
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -1172,6 +1569,32 @@
         "isPermanent": true,
         "id": 292569
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2018,
+        "awardCount": 7
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -1198,6 +1621,20 @@
         "finalScore": 85,
         "isPermanent": false,
         "id": 270776
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2021,
+        "awardCount": 1
       }
     ]
   },
@@ -1248,6 +1685,44 @@
         "isPermanent": true,
         "id": 327449
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Protein)",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2019,
+        "awardCount": 5
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Butterfat)",
+        "awardYear": 2019,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -1297,6 +1772,26 @@
         "isPermanent": true,
         "id": 292475
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 7
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -1323,6 +1818,26 @@
         "finalScore": 84,
         "isPermanent": false,
         "id": 260609
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2020,
+        "awardCount": 1
       }
     ]
   },
@@ -1361,6 +1876,26 @@
         "finalScore": 91,
         "isPermanent": false,
         "id": 284588
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2020,
+        "awardCount": 3
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milk Competition",
+        "awardYear": 2020,
+        "awardCount": 1
       }
     ]
   },
@@ -1422,6 +1957,32 @@
         "isPermanent": true,
         "id": 303227
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2018,
+        "awardCount": 3
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -1482,6 +2043,14 @@
         "isPermanent": true,
         "id": 284498
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2016,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -1497,7 +2066,33 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2019,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Highland Ranch 8SR It's Payday",
@@ -1512,7 +2107,15 @@
     },
     "colorAndMarking": "",
     "animalTattoo": {},
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "GCH Hetlandcreek HB Swan Harmonica",
@@ -1549,6 +2152,38 @@
         "finalScore": 90,
         "isPermanent": false,
         "id": 269652
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Butterfat)",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2018,
+        "awardCount": 6
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Protein)",
+        "awardYear": 2018,
+        "awardCount": 1
       }
     ]
   },
@@ -1599,6 +2234,38 @@
         "isPermanent": false,
         "id": 270772
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2018,
+        "awardCount": 4
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Butterfat)",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -1636,6 +2303,14 @@
         "finalScore": 84,
         "isPermanent": false,
         "id": 260600
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2019,
+        "awardCount": 1
       }
     ]
   },
@@ -1685,6 +2360,68 @@
         "finalScore": 91,
         "isPermanent": false,
         "id": 267256
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SGCH",
+        "awardDescription": "Superior Genetics Grand Champion",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2016,
+        "awardCount": 2
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milk Competition",
+        "awardYear": 2016,
+        "awardCount": 2
       }
     ]
   },
@@ -1746,6 +2483,62 @@
         "isPermanent": true,
         "id": 270339
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SGCH",
+        "awardDescription": "Superior Genetics Grand Champion",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2016,
+        "awardCount": 3
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2016,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -1784,6 +2577,38 @@
         "isPermanent": true,
         "id": 284256
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -1799,7 +2624,27 @@
     },
     "colorAndMarking": "",
     "animalTattoo": {},
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 ST Buck And 2 AR/ST Does",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Fuji Farm ATS MI Incentivo",
@@ -1825,6 +2670,20 @@
         "finalScore": 86,
         "isPermanent": false,
         "id": 220455
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2018,
+        "awardCount": 1
       }
     ]
   },
@@ -1886,6 +2745,62 @@
         "isPermanent": true,
         "id": 260889
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "SGCH",
+        "awardDescription": "Superior Genetics Grand Champion",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2015,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -1924,6 +2839,44 @@
         "isPermanent": false,
         "id": 208622
       }
+    ],
+    "awards": [
+      {
+        "awardCode": "++B (AR)",
+        "awardDescription": "3 AR Does And 2 AR Bucks",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "2 AR Bucks",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "++B (ST)",
+        "awardDescription": "2 ST Bucks",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 ST Buck And 2 AR/ST Does",
+        "awardYear": 2016,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2011,
+        "awardCount": 1
+      }
     ]
   },
   {
@@ -1961,6 +2914,38 @@
         "finalScore": 84,
         "isPermanent": false,
         "id": 208606
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2012,
+        "awardCount": 4
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2012,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2012,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2012,
+        "awardCount": 1
       }
     ]
   }
