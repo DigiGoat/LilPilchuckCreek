@@ -38,7 +38,8 @@
         "id": 305567
       }
     ],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Be Well BM Ruta Graveolens",
@@ -67,6 +68,7 @@
       }
     ],
     "linearAppraisals": [],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": "2024-05-01T10:48:31"
   }
 ]
