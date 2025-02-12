@@ -58,7 +58,8 @@
         "awardYear": 2017,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Timbuckdoe Farm AW Aleut Storm",
@@ -101,7 +102,8 @@
         "id": 304836
       }
     ],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Long Acres Farm Red Hot Magma",
@@ -139,7 +141,8 @@
         "awardYear": 2024,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Highland Ranch VP Winslow",
@@ -163,6 +166,7 @@
       }
     },
     "linearAppraisals": [],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   }
 ]
