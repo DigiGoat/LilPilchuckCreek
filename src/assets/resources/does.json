@@ -40,7 +40,8 @@
         "id": 324083
       }
     ],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "TUA Farms RMI Sugar N Spice",
@@ -83,7 +84,8 @@
         "id": 324082
       }
     ],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Little Redhouse Zayushka",
@@ -113,7 +115,8 @@
       "displayName": "Kolton Bloom"
     },
     "linearAppraisals": [],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Little Redhouse Bluebird Sky",
@@ -144,7 +147,8 @@
     },
     "description": "",
     "linearAppraisals": [],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Lil Pilchuck Creek Ameth Jewel",
@@ -175,7 +179,8 @@
     },
     "description": "Jewel is our first keeper doe to give us an idea of what conformation runs in the herd. We are looking forward to how she matures.",
     "linearAppraisals": [],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Leisure Time TL Black Beauty",
@@ -206,7 +211,8 @@
     },
     "description": "Our first goat to receive a leg, Beauty is developing to be a very promising goat. She not only won *Best Junior Doe* at the `Barn In The USA` show, but she also took *Reserve Junior Doe* in a ring the day before.",
     "linearAppraisals": [],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Lil Pilchuck AS Princess Fiona",
@@ -237,7 +243,8 @@
     "nickname": "Fiona",
     "description": "We've been waiting a few years for a doeling out of Mystic, and the wait is finally over! We're hoping to see some improvements in Fiona's udder attachments when compared to her dam.",
     "linearAppraisals": [],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Lil Pilchuck AS Frosty Blizard",
@@ -268,6 +275,7 @@
     },
     "description": "Named after her frosted ears, Frost is one of the first **Lil Pilchuck Creek** does.",
     "linearAppraisals": [],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   }
 ]
