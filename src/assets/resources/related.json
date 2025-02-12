@@ -25,7 +25,8 @@
         "id": 324082
       }
     ],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Highland Ranch VP Rein Me In",
@@ -41,7 +42,8 @@
     "colorAndMarking": "",
     "animalTattoo": [],
     "linearAppraisals": [],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Little Redhouse Swt HM Alabama",
@@ -57,7 +59,8 @@
     "colorAndMarking": "",
     "animalTattoo": [],
     "linearAppraisals": [],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Leisure Time ST Tiger L Vis?",
@@ -73,7 +76,8 @@
     "colorAndMarking": "",
     "animalTattoo": [],
     "linearAppraisals": [],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Be Well FRB Rosemary",
@@ -112,7 +116,8 @@
         "id": 324146
       }
     ],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Gillis Family Farm Crystal",
@@ -140,7 +145,8 @@
         "id": 305567
       }
     ],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Gillis Family Farm Mystic",
@@ -168,7 +174,8 @@
         "id": 324083
       }
     ],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Little Redhouse Lapochka",
@@ -207,7 +214,8 @@
         "id": 323975
       }
     ],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "TUA Farms MB Bold N Bright",
@@ -246,7 +254,8 @@
         "id": 327446
       }
     ],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Wolfivan Pappy Van Winkle",
@@ -269,7 +278,8 @@
         "awardYear": 2021,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Redstone Warlock Raynman",
@@ -292,7 +302,8 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Timbuckdoe Farm AW Aleut Storm",
@@ -320,7 +331,8 @@
         "id": 304836
       }
     ],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Gillis Family Farm Oh Snap!",
@@ -355,7 +367,8 @@
         "awardYear": 2019,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Highland Ranch PD Vegas Prize",
@@ -378,7 +391,8 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Leisure Time ZZ Jubilation",
@@ -442,7 +456,8 @@
         "awardYear": 2021,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Hetlandcreek GQ Haleakala",
@@ -470,7 +485,8 @@
         "id": 285736
       }
     ],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Leisure Time Dirty Lil Secret",
@@ -523,7 +539,8 @@
         "awardYear": 2021,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Leisure Time ZZ Aleutian Wind",
@@ -546,7 +563,8 @@
         "awardYear": 2019,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Hetlandcreek ZZ Blackbird Fly",
@@ -596,7 +614,8 @@
         "id": 324157
       }
     ],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "TUA Farms SH Minuette",
@@ -624,7 +643,8 @@
         "id": 285454
       }
     ],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "TUA Farms MB Calico Rose",
@@ -640,7 +660,8 @@
     "colorAndMarking": "",
     "animalTattoo": [],
     "linearAppraisals": [],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Hetlandcreek ILM Star Magnolia",
@@ -715,7 +736,8 @@
         "awardYear": 2020,
         "awardCount": 8
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Stayawhile HC Forged Steel",
@@ -761,7 +783,8 @@
         "awardYear": 2017,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "SG Stayawhile TV Camera Ready",
@@ -842,7 +865,8 @@
         "awardYear": 2015,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Rosasharn NP Honey Moon Cruz",
@@ -894,7 +918,8 @@
         "awardYear": 2013,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": "2020-03-09T00:00:00"
   },
   {
     "name": "Rainy Rock CH Showstopper ",
@@ -923,7 +948,8 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Hetlandcreek SS Avachinsky",
@@ -998,7 +1024,8 @@
         "awardYear": 2021,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Flat Rock's Bentley",
@@ -1014,7 +1041,8 @@
     "colorAndMarking": "",
     "animalTattoo": [],
     "linearAppraisals": [],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Redstone IMAX Warlock",
@@ -1037,7 +1065,8 @@
         "awardYear": 2021,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Highland Ranch AD Rein E Day",
@@ -1076,7 +1105,8 @@
         "id": 329006
       }
     ],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Leisure Time ZZ Sweet Peach",
@@ -1140,7 +1170,8 @@
         "awardYear": 2021,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Leisure Time PD Copper Penny",
@@ -1163,7 +1194,8 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Leisure Time ZZ GQ",
@@ -1186,7 +1218,8 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Hetlandcreek ILM Adagio",
@@ -1261,7 +1294,8 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Agape's Prize Sulaymaan Quinn",
@@ -1290,7 +1324,8 @@
         "awardYear": 2019,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Leisure Time ZZ Tigerlily ",
@@ -1348,7 +1383,8 @@
         "awardYear": 2021,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "SG Leisure Time ZZ Scandalous ",
@@ -1440,7 +1476,8 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Hetlandcreek PD Steel Guitar",
@@ -1456,7 +1493,8 @@
     "colorAndMarking": "",
     "animalTattoo": [],
     "linearAppraisals": [],
-    "awards": []
+    "awards": [],
+    "dateOfDeath": null
   },
   {
     "name": "Hetlandcreek ILM Vesuvius",
@@ -1531,7 +1569,8 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Redstone DHRV Rayna James",
@@ -1595,7 +1634,8 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Old Mountain Farm M Bold N",
@@ -1636,7 +1676,8 @@
         "awardYear": 2021,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "TUA Farms SP Sweet N Sassy",
@@ -1723,7 +1764,8 @@
         "awardYear": 2019,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Hetlandcreek JDI Rose'",
@@ -1792,7 +1834,8 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Hetlandcreek Sharp Dressed Man",
@@ -1839,7 +1882,8 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "GCH Almar Acres RK Idaho Girl",
@@ -1897,7 +1941,8 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Leisure Time TW Pixie Dust",
@@ -1983,7 +2028,8 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Almar Acres HS Smokin Hot",
@@ -2051,7 +2097,8 @@
         "awardYear": 2016,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "SG Sugar Moon NS Alejandro",
@@ -2092,7 +2139,8 @@
         "awardYear": 2019,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Highland Ranch 8SR It's Payday",
@@ -2115,7 +2163,8 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "GCH Hetlandcreek HB Swan Harmonica",
@@ -2185,7 +2234,8 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Camanna RA Uliana",
@@ -2266,7 +2316,8 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Leisure Time GL Satyr ",
@@ -2312,7 +2363,8 @@
         "awardYear": 2019,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "SGCH Joyful Hearts KR Phoebe",
@@ -2423,7 +2475,8 @@
         "awardYear": 2016,
         "awardCount": 2
       }
-    ]
+    ],
+    "dateOfDeath": "2023-01-03T13:31:27"
   },
   {
     "name": "SGCH Leisure Time TW Silver Joy",
@@ -2539,7 +2592,8 @@
         "awardYear": 2016,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "SG 5 Fold Farm CC Ginger Snap",
@@ -2609,7 +2663,8 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Alethia ET I'm A Love Machine",
@@ -2644,7 +2699,8 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Fuji Farm ATS MI Incentivo",
@@ -2685,7 +2741,8 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "SGCH AGS Honey Goat Blondie",
@@ -2801,7 +2858,8 @@
         "awardYear": 2015,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": "2021-09-14T11:06:25"
   },
   {
     "name": "Rosasharn AX Noble Prince",
@@ -2877,7 +2935,8 @@
         "awardYear": 2011,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": "2016-02-25T00:00:00"
   },
   {
     "name": "Rosasharn BB Honey Moon",
@@ -2947,6 +3006,7 @@
         "awardYear": 2012,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   }
 ]
