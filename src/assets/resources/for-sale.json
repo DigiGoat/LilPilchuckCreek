@@ -36,11 +36,12 @@
     "colorAndMarking": "[Sky](/does/Sky) x [Magma](/bucks/Magma) Doeling"
   },
   {
-    "name": "Sugar+Steel Doe",
+    "name": "Sugar Doe",
     "dateOfBirth": "march 29 2025",
     "damId": "PD2315360",
     "sireId": "PD1851708",
-    "price": "400"
+    "price": "400",
+    "description": "[Sugar](/does/Sugar) x [Steel](/bucks/Steel) Doeling"
   },
   {
     "name": "Mystic Doe",
