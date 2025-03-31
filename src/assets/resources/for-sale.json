@@ -6,6 +6,12 @@
     "name": "Sugar Wether"
   },
   {
-    "name": "SkyWether"
+    "name": "Sky Wether",
+    "nickname": "Bert",
+    "dateOfBirth": "march 29 2025",
+    "sex": "Male",
+    "pet": true,
+    "damId": "PD2293211",
+    "sireId": "PD2396439"
   }
 ]
