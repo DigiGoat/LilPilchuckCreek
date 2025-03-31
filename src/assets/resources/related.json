@@ -1,5 +1,29 @@
 [
   {
+    "name": "Long Acres Farm Red Hot Magma",
+    "dateOfBirth": "2024-04-08T12:42:55",
+    "normalizeId": "PD2396439",
+    "id": 2396439,
+    "sex": "Male",
+    "damId": 1749308,
+    "sireId": 1644023,
+    "ownerAccount": {
+      "displayName": "Kolton Bloom"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2024,
+        "awardCount": 1
+      }
+    ],
+    "dateOfDeath": null
+  },
+  {
     "name": "TUA Farms RMI Sugar N Spice",
     "dateOfBirth": "2023-02-16T16:01:16",
     "normalizeId": "PD2315360",
@@ -25,6 +49,23 @@
         "id": 324082
       }
     ],
+    "awards": [],
+    "dateOfDeath": null
+  },
+  {
+    "name": "Little Redhouse Bluebird Sky",
+    "dateOfBirth": "2023-03-10T16:26:58",
+    "normalizeId": "PD2293211",
+    "id": 2293211,
+    "sex": "Female",
+    "damId": 1808723,
+    "sireId": 1929176,
+    "ownerAccount": {
+      "displayName": "Kolton Bloom"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [],
     "awards": [],
     "dateOfDeath": null
   },
@@ -960,7 +1001,7 @@
     "damId": 1723846,
     "sireId": 1808722,
     "ownerAccount": {
-      "displayName": "Trenne Earl"
+      "displayName": "Brittany C Mathis"
     },
     "colorAndMarking": "",
     "animalTattoo": [],
@@ -1028,7 +1069,7 @@
     "dateOfDeath": null
   },
   {
-    "name": "Flat Rock's Bentley",
+    "name": "Flat Rock'S Bentley",
     "dateOfBirth": "2020-04-04T00:00:00",
     "normalizeId": "PD2100979",
     "id": 1893457,
@@ -1298,7 +1339,7 @@
     "dateOfDeath": null
   },
   {
-    "name": "Agape's Prize Sulaymaan Quinn",
+    "name": "Agape'S Prize Sulaymaan Quinn",
     "dateOfBirth": "2018-04-22T00:00:00",
     "normalizeId": "PD1939070",
     "id": 1731386,
@@ -2043,7 +2084,7 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -2112,7 +2153,7 @@
       "displayName": "Belinda Cardinal"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [],
     "awards": [
       {
@@ -2143,7 +2184,7 @@
     "dateOfDeath": null
   },
   {
-    "name": "Highland Ranch 8SR It's Payday",
+    "name": "Highland Ranch 8SR IT'S Payday",
     "dateOfBirth": "2016-04-01T00:00:00",
     "normalizeId": "PD1782925",
     "id": 1575120,
@@ -2667,7 +2708,7 @@
     "dateOfDeath": null
   },
   {
-    "name": "Alethia ET I'm A Love Machine",
+    "name": "Alethia ET I'M A Love Machine",
     "dateOfBirth": "2014-02-01T00:00:00",
     "normalizeId": "PD1674729",
     "id": 1466770,
@@ -2864,6 +2905,7 @@
   {
     "name": "Rosasharn AX Noble Prince",
     "dateOfBirth": "2011-05-01T00:00:00",
+    "dateOfDeath": "2016-02-25T00:00:00",
     "normalizeId": "PD1574754",
     "id": 1366576,
     "sex": "Male",
@@ -2935,12 +2977,12 @@
         "awardYear": 2011,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": "2016-02-25T00:00:00"
+    ]
   },
   {
     "name": "Rosasharn BB Honey Moon",
     "dateOfBirth": "2010-03-15T00:00:00",
+    "dateOfDeath": null,
     "normalizeId": "PD1520305",
     "id": 1312026,
     "sex": "Female",
@@ -3006,7 +3048,6 @@
         "awardYear": 2012,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": null
+    ]
   }
 ]
