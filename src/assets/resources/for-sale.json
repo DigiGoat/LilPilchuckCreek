@@ -42,6 +42,10 @@
     "price": "400"
   },
   {
-    "name": "Mystic Doe"
+    "name": "Mystic Doe",
+    "dateOfBirth": "march 29 2025",
+    "damId": "PD2174259",
+    "sireId": "PD2396439",
+    "price": "400"
   }
 ]
