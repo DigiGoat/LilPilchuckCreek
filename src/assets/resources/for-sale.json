@@ -28,11 +28,12 @@
     "price": "100"
   },
   {
-    "name": "Sky+Magma Doe",
+    "name": "Sky Doe",
     "dateOfBirth": "march 29 2025",
     "damId": "PD2293211",
     "sireId": "PD2396439",
-    "price": "400"
+    "price": "400",
+    "colorAndMarking": "[Sky](/does/Sky) x [Magma](/bucks/Magma) Doeling"
   },
   {
     "name": "Sugar+Steel Doe",
