@@ -1,6 +1,12 @@
 [
   {
-    "name": "Mystic Wether"
+    "name": "Mystic Wether",
+    "dateOfBirth": "march 29 2025",
+    "sex": "Male",
+    "pet": true,
+    "price": "100",
+    "damId": "PD2174259",
+    "sireId": "PD2396439"
   },
   {
     "name": "Sugar Wether",
