@@ -53,7 +53,12 @@
     "description": "[Mystic](/does/Mystic) x [Magma](/bucks/Magma) Doeling\n\nWe haven't yet decided which of the two doelings that we are going to keep out of [Mystic](/does/Mystic), but we do plan to retain one"
   },
   {
-    "name": "Zaya Doe 1"
+    "name": "Zaya Doe 1",
+    "dateOfBirth": "April 2 2025",
+    "description": "[Zaya](/does/Zaya) x [Storm](/bucks/Storm) Doeling",
+    "price": "350",
+    "damId": "PD2293424",
+    "sireId": "PD2131517"
   },
   {
     "name": "Zaya Doe 2"
