@@ -53,6 +53,23 @@
     "dateOfDeath": null
   },
   {
+    "name": "Little Redhouse Zayushka",
+    "dateOfBirth": "2023-03-09T16:28:33",
+    "normalizeId": "PD2293424",
+    "id": 2293424,
+    "sex": "Female",
+    "damId": 2168575,
+    "sireId": 2157990,
+    "ownerAccount": {
+      "displayName": "Kolton Bloom"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [],
+    "awards": [],
+    "dateOfDeath": null
+  },
+  {
     "name": "Little Redhouse Bluebird Sky",
     "dateOfBirth": "2023-03-10T16:26:58",
     "normalizeId": "PD2293211",
@@ -1997,7 +2014,7 @@
       "displayName": "Kristine Struve-Hagan"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": 1,
@@ -2788,6 +2805,7 @@
   {
     "name": "SGCH AGS Honey Goat Blondie",
     "dateOfBirth": "2011-05-26T00:00:00",
+    "dateOfDeath": "2021-09-14T11:06:25",
     "normalizeId": "PD1582972",
     "id": 1374801,
     "sex": "Female",
@@ -2899,8 +2917,7 @@
         "awardYear": 2015,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": "2021-09-14T11:06:25"
+    ]
   },
   {
     "name": "Rosasharn AX Noble Prince",
