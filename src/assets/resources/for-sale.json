@@ -59,6 +59,12 @@
     "name": "Zaya Doe 2"
   },
   {
-    "name": "Zaya Wether"
+    "name": "Zaya Wether",
+    "dateOfBirth": "April 2 2025",
+    "sex": "Male",
+    "pet": true,
+    "price": "100",
+    "damId": "PD2293424",
+    "sireId": "PD2131517"
   }
 ]
