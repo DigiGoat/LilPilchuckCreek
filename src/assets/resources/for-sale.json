@@ -61,7 +61,12 @@
     "sireId": "PD2131517"
   },
   {
-    "name": "Zaya Doe 2"
+    "name": "Zaya Doe 2",
+    "dateOfBirth": "april 2 2025",
+    "description": "[Zaya](/does/Zaya) x [Storm](/bucks/Storm) Doeling",
+    "price": "350",
+    "damId": "PD2293424",
+    "sireId": "PD2131517"
   },
   {
     "name": "Zaya Wether",
