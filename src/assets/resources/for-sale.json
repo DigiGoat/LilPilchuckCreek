@@ -73,7 +73,7 @@
     "dateOfBirth": "April 2 2025",
     "sex": "Male",
     "pet": true,
-    "price": "100",
+    "price": "$125.00",
     "damId": "PD2293424",
     "sireId": "PD2131517"
   }
