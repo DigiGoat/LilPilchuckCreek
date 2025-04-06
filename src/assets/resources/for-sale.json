@@ -105,7 +105,12 @@
     "sireId": "PD1851708"
   },
   {
-    "name": "Jewel Doe 1"
+    "name": "Jewel Doe 1",
+    "nickname": "Oreo",
+    "dateOfBirth": "april 5 2025",
+    "price": "350",
+    "damId": "PD2326883",
+    "sireId": "PD1851708"
   },
   {
     "name": "Jewel Doe 2"
