@@ -24,6 +24,40 @@
     "dateOfDeath": null
   },
   {
+    "name": "Leisure Time TL Black Beauty",
+    "dateOfBirth": "2023-05-11T18:10:02",
+    "normalizeId": "PD2332175",
+    "id": 2332175,
+    "sex": "Female",
+    "damId": 1882650,
+    "sireId": 2207575,
+    "ownerAccount": {
+      "displayName": "Kolton Bloom"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [],
+    "awards": [],
+    "dateOfDeath": null
+  },
+  {
+    "name": "Lil Pilchuck Creek Ameth Jewel",
+    "dateOfBirth": "2023-04-17T09:08:14",
+    "normalizeId": "PD2326883",
+    "id": 2326883,
+    "sex": "Female",
+    "damId": 2175097,
+    "sireId": 1924035,
+    "ownerAccount": {
+      "displayName": "Kolton Bloom"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [],
+    "awards": [],
+    "dateOfDeath": null
+  },
+  {
     "name": "TUA Farms RMI Sugar N Spice",
     "dateOfBirth": "2023-02-16T16:01:16",
     "normalizeId": "PD2315360",
@@ -1907,7 +1941,7 @@
       "displayName": "Kristine Struve-Hagan"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -1955,7 +1989,7 @@
       "displayName": "Elianna Mielbrecht"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": 1,
@@ -2209,7 +2243,7 @@
     "damId": 1311442,
     "sireId": 1513663,
     "ownerAccount": {
-      "displayName": "Michele Poortinga"
+      "displayName": ""
     },
     "colorAndMarking": "",
     "animalTattoo": {},
@@ -2222,7 +2256,7 @@
         "awardCount": 1
       }
     ],
-    "dateOfDeath": null
+    "dateOfDeath": "2024-12-27T20:31:59"
   },
   {
     "name": "GCH Hetlandcreek HB Swan Harmonica",
@@ -2727,6 +2761,7 @@
   {
     "name": "Alethia ET I'M A Love Machine",
     "dateOfBirth": "2014-02-01T00:00:00",
+    "dateOfDeath": null,
     "normalizeId": "PD1674729",
     "id": 1466770,
     "sex": "Male",
@@ -2757,12 +2792,12 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": null
+    ]
   },
   {
     "name": "Fuji Farm ATS MI Incentivo",
     "dateOfBirth": "2013-04-07T00:00:00",
+    "dateOfDeath": null,
     "normalizeId": "PD1645763",
     "id": 1437700,
     "sex": "Male",
@@ -2799,8 +2834,7 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": null
+    ]
   },
   {
     "name": "SGCH AGS Honey Goat Blondie",
