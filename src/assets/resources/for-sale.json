@@ -96,6 +96,12 @@
     "description": "Blue eyes & likely polled"
   },
   {
-    "name": "Jewel Wether"
+    "name": "Jewel Wether",
+    "dateOfBirth": "april 5 2025",
+    "sex": "Male",
+    "pet": true,
+    "price": "100",
+    "damId": "PD2326883",
+    "sireId": "PD1851708"
   }
 ]
