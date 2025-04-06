@@ -92,7 +92,8 @@
     "description": "[Beauty](/does/Beauty) x [Storm](/bucks/Storm) Doeling",
     "price": "400",
     "damId": "PD2332175",
-    "sireId": "PD2131517"
+    "sireId": "PD2131517",
+    "colorAndMarking": "Buckskin"
   },
   {
     "name": "Beauty Wether",
