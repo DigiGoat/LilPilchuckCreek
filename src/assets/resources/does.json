@@ -287,6 +287,9 @@
     "nickname": "Poppy"
   },
   {
-    "name": "Lil Pilchuck AS Name TBD"
+    "name": "Lil Pilchuck AS Name TBD",
+    "dateOfBirth": "april 5 2025",
+    "damId": "PD2332175",
+    "sireId": "PD2131517"
   }
 ]
