@@ -78,6 +78,11 @@
     "sireId": "PD2131517"
   },
   {
-    "name": "Beauty Doe"
+    "name": "Beauty Doe",
+    "dateOfBirth": "April 5 2025",
+    "description": "[Beauty](/does/Beauty) x [Storm](/bucks/Storm) Doeling",
+    "price": "350",
+    "damId": "PD2332175",
+    "sireId": "PD2131517"
   }
 ]
