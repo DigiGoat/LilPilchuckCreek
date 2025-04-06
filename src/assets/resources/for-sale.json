@@ -86,6 +86,13 @@
     "sireId": "PD2131517"
   },
   {
-    "name": "Beauty Wethet"
+    "name": "Beauty Wether",
+    "dateOfBirth": "April 5 2025",
+    "sex": "Male",
+    "pet": true,
+    "price": "150",
+    "damId": "PD2332175",
+    "sireId": "PD2131517",
+    "description": "Blue eyes & likely polled"
   }
 ]
