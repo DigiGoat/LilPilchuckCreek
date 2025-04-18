@@ -111,7 +111,7 @@
     "dateOfBirth": "april 5 2025",
     "sex": "Male",
     "pet": true,
-    "price": "100",
+    "price": "",
     "damId": "PD2326883",
     "sireId": "PD1851708",
     "colorAndMarking": "Black w/ Frosted Ears"
