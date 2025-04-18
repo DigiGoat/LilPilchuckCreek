@@ -80,7 +80,7 @@
     "dateOfBirth": "April 2 2025",
     "sex": "Male",
     "pet": true,
-    "price": "$125.00",
+    "price": "",
     "damId": "PD2293424",
     "sireId": "PD2131517",
     "description": "Likely polled",
