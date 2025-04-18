@@ -100,7 +100,7 @@
     "dateOfBirth": "April 5 2025",
     "sex": "Male",
     "pet": true,
-    "price": "150",
+    "price": "",
     "damId": "PD2332175",
     "sireId": "PD2131517",
     "description": "Blue eyes & likely polled",
