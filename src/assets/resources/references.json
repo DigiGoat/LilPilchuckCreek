@@ -1,47 +1,5 @@
 [
   {
-    "name": "Gillis Family Farm Crystal",
-    "dateOfBirth": "2021-05-26T00:00:00",
-    "normalizeId": "PD2175097",
-    "id": 2175097,
-    "sex": "Female",
-    "damId": 1808133,
-    "sireId": 1905303,
-    "ownerAccount": {
-      "displayName": "Kolton Bloom"
-    },
-    "colorAndMarking": "Chocolate Buckskin With White Poll And Tail",
-    "animalTattoo": [
-      {
-        "tattoo": "GFF5",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "N50",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2023-07-31T00:00:00",
-        "generalAppearance": "G",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 305567
-      }
-    ],
-    "awards": [],
-    "dateOfDeath": null
-  },
-  {
     "name": "Be Well BM Ruta Graveolens",
     "dateOfBirth": "2023-03-14T11:11:58",
     "normalizeId": "PD2294587",
