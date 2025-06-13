@@ -9,21 +9,57 @@
     "damId": 1460028,
     "sireId": 1450716,
     "ownerAccount": {
-      "displayName": ""
+      "displayName": "Kolton Bloom"
     },
-    "colorAndMarking": "",
+    "colorAndMarking": "Black w/Moonspots; White Belt,Ears,Muzzle; Roaning",
     "animalTattoo": [
       {
         "tattoo": "MCD6",
-        "tattooLocation": {}
+        "tattooLocation": {
+          "name": "RE"
+        }
       },
       {
         "tattoo": "J5",
-        "tattooLocation": {}
+        "tattooLocation": {
+          "name": "LE"
+        }
       }
     ],
     "description": "Unfortunately, Steel was unable to handle the heat wave that we experienced and peacefully passed away June 10th, 2025. We are looking forward to seeing how the few kids that we got out of him do.\n\nHis dam is on the Elite Does list and has been on the ADGA Top Ten list 3 years. Steel is very dairy and so far, has put udders on his daughters. We are excited to mix his genetics into our farm.",
-    "nickname": "Steel"
+    "nickname": "Steel",
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-06-17T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "+",
+        "mammarySystem": null,
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 269984
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-10T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": " ",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 284591
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2017,
+        "awardCount": 1
+      }
+    ]
   },
   {
     "name": "Lil Pilchuck Creek Ameth Jewel",
