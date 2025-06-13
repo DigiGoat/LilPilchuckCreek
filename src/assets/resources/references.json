@@ -22,5 +22,29 @@
         "tattooLocation": {}
       }
     ]
+  },
+  {
+    "name": "Lil Pilchuck Creek Ameth Jewel",
+    "dateOfBirth": "2023-04-17T09:08:14",
+    "dateOfDeath": null,
+    "normalizeId": "PD2326883",
+    "id": 2326883,
+    "sex": "Female",
+    "damId": 2175097,
+    "sireId": 1924035,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [
+      {
+        "tattoo": "BFFN",
+        "tattooLocation": {}
+      },
+      {
+        "tattoo": "R2",
+        "tattooLocation": {}
+      }
+    ]
   }
 ]
