@@ -41,7 +41,143 @@
       }
     ],
     "awards": [],
-    "dateOfDeath": null
+    "dateOfDeath": null,
+    "usdaId": "NDUSA000002174259",
+    "usdaKey": 1913267,
+    "lactationRecords": [
+      {
+        "startDate": "2024-03-21",
+        "isCurrent": false,
+        "lactationNumber": "2",
+        "daysInMilk": "276",
+        "stats": {
+          "milk": {
+            "achieved": "1310",
+            "projected": "1441"
+          },
+          "butterfat": {
+            "achieved": "80",
+            "projected": "85"
+          },
+          "protein": {
+            "achieved": "56",
+            "projected": "57"
+          }
+        },
+        "tests": [
+          {
+            "testNumber": 1,
+            "testDate": "2024-04-03",
+            "milk": "6.5",
+            "butterfatPct": "6.3",
+            "proteinPct": "3.7",
+            "daysInMilk": "14"
+          },
+          {
+            "testNumber": 2,
+            "testDate": "2024-05-02",
+            "milk": "7.1",
+            "butterfatPct": "6.1",
+            "proteinPct": "3.5",
+            "daysInMilk": "43"
+          },
+          {
+            "testNumber": 3,
+            "testDate": "2024-06-27",
+            "milk": "5.5",
+            "butterfatPct": "6.1",
+            "proteinPct": "3.7",
+            "daysInMilk": "99"
+          },
+          {
+            "testNumber": 4,
+            "testDate": "2024-07-18",
+            "milk": "5.0",
+            "butterfatPct": "5.3",
+            "proteinPct": "3.8",
+            "daysInMilk": "120"
+          },
+          {
+            "testNumber": 5,
+            "testDate": "2024-08-18",
+            "milk": "4.5",
+            "butterfatPct": "5.4",
+            "proteinPct": "4.2",
+            "daysInMilk": "151"
+          },
+          {
+            "testNumber": 6,
+            "testDate": "2024-09-13",
+            "milk": "4.4",
+            "butterfatPct": "5.6",
+            "proteinPct": "4.5",
+            "daysInMilk": "177"
+          },
+          {
+            "testNumber": 7,
+            "testDate": "2024-10-04",
+            "milk": "3.0",
+            "butterfatPct": "6.9",
+            "proteinPct": "5.3",
+            "daysInMilk": "198"
+          },
+          {
+            "testNumber": 8,
+            "testDate": "2024-11-19",
+            "milk": "3.1",
+            "butterfatPct": "6.7",
+            "proteinPct": "5.3",
+            "daysInMilk": "244"
+          }
+        ]
+      },
+      {
+        "startDate": "2025-03-29",
+        "isCurrent": true,
+        "lactationNumber": "3",
+        "daysInMilk": "63",
+        "stats": {
+          "milk": {
+            "achieved": "360",
+            "projected": "1552"
+          },
+          "butterfat": {
+            "achieved": "20",
+            "projected": "87"
+          },
+          "protein": {
+            "achieved": "13",
+            "projected": "55"
+          }
+        },
+        "tests": [
+          {
+            "testNumber": 1,
+            "testDate": "2025-04-19",
+            "milk": "6.1",
+            "butterfatPct": "5.6",
+            "proteinPct": "3.5",
+            "daysInMilk": "22"
+          },
+          {
+            "testNumber": 2,
+            "testDate": "2025-05-09",
+            "milk": "6.1",
+            "butterfatPct": "5.5",
+            "proteinPct": "3.5",
+            "daysInMilk": "42"
+          },
+          {
+            "testNumber": 3,
+            "testDate": "2025-05-30",
+            "milk": "5.4",
+            "butterfatPct": "5.6",
+            "proteinPct": "3.6",
+            "daysInMilk": "63"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "TUA Farms RMI Sugar N Spice",
@@ -85,7 +221,127 @@
       }
     ],
     "awards": [],
-    "dateOfDeath": null
+    "dateOfDeath": null,
+    "usdaId": "NDUSA000002315360",
+    "usdaKey": 2056127,
+    "lactationRecords": [
+      {
+        "startDate": "2024-05-19",
+        "isCurrent": false,
+        "lactationNumber": "1",
+        "daysInMilk": "196",
+        "stats": {
+          "milk": {
+            "achieved": "370",
+            "projected": "581"
+          },
+          "butterfat": {
+            "achieved": "26",
+            "projected": "40"
+          },
+          "protein": {
+            "achieved": "17",
+            "projected": "25"
+          }
+        },
+        "tests": [
+          {
+            "testNumber": 1,
+            "testDate": "2024-06-27",
+            "milk": "2.8",
+            "butterfatPct": "6.6",
+            "proteinPct": "3.6",
+            "daysInMilk": "40"
+          },
+          {
+            "testNumber": 2,
+            "testDate": "2024-07-18",
+            "milk": "2.5",
+            "butterfatPct": "5.7",
+            "proteinPct": "3.8",
+            "daysInMilk": "61"
+          },
+          {
+            "testNumber": 3,
+            "testDate": "2024-08-18",
+            "milk": "2.2",
+            "butterfatPct": "6.3",
+            "proteinPct": "4.4",
+            "daysInMilk": "92"
+          },
+          {
+            "testNumber": 4,
+            "testDate": "2024-09-13",
+            "milk": "1.8",
+            "butterfatPct": "7.2",
+            "proteinPct": "5.0",
+            "daysInMilk": "118"
+          },
+          {
+            "testNumber": 5,
+            "testDate": "2024-10-04",
+            "milk": "1.3",
+            "butterfatPct": "7.9",
+            "proteinPct": "5.6",
+            "daysInMilk": "139"
+          },
+          {
+            "testNumber": 6,
+            "testDate": "2024-11-19",
+            "milk": "0.8",
+            "butterfatPct": "9.4",
+            "proteinPct": "5.9",
+            "daysInMilk": "185"
+          }
+        ]
+      },
+      {
+        "startDate": "2025-03-29",
+        "isCurrent": true,
+        "lactationNumber": "2",
+        "daysInMilk": "63",
+        "stats": {
+          "milk": {
+            "achieved": "210",
+            "projected": "955"
+          },
+          "butterfat": {
+            "achieved": "12",
+            "projected": "59"
+          },
+          "protein": {
+            "achieved": "9",
+            "projected": "38"
+          }
+        },
+        "tests": [
+          {
+            "testNumber": 1,
+            "testDate": "2025-04-19",
+            "milk": "3.7",
+            "butterfatPct": "5.4",
+            "proteinPct": "4.0",
+            "daysInMilk": "22"
+          },
+          {
+            "testNumber": 2,
+            "testDate": "2025-05-09",
+            "milk": "3.4",
+            "butterfatPct": "5.5",
+            "proteinPct": "4.0",
+            "daysInMilk": "42"
+          },
+          {
+            "testNumber": 3,
+            "testDate": "2025-05-30",
+            "milk": "2.6",
+            "butterfatPct": "7.1",
+            "proteinPct": "4.3",
+            "daysInMilk": "63"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Little Redhouse Zayushka",
@@ -116,7 +372,57 @@
     },
     "linearAppraisals": [],
     "awards": [],
-    "dateOfDeath": null
+    "dateOfDeath": null,
+    "usdaId": "NDUSA000002293424",
+    "usdaKey": 2045007,
+    "lactationRecords": [
+      {
+        "startDate": "2025-04-02",
+        "isCurrent": true,
+        "lactationNumber": "1",
+        "daysInMilk": "59",
+        "stats": {
+          "milk": {
+            "achieved": "200",
+            "projected": "1114"
+          },
+          "butterfat": {
+            "achieved": "11",
+            "projected": "62"
+          },
+          "protein": {
+            "achieved": "8",
+            "projected": "45"
+          }
+        },
+        "tests": [
+          {
+            "testNumber": 1,
+            "testDate": "2025-04-19",
+            "milk": "3.9",
+            "butterfatPct": "5.1",
+            "proteinPct": "4.2",
+            "daysInMilk": "18"
+          },
+          {
+            "testNumber": 2,
+            "testDate": "2025-05-09",
+            "milk": "3.3",
+            "butterfatPct": "5.2",
+            "proteinPct": "4.1",
+            "daysInMilk": "38"
+          },
+          {
+            "testNumber": 3,
+            "testDate": "2025-05-30",
+            "milk": "3.2",
+            "butterfatPct": "6.7",
+            "proteinPct": "4.4",
+            "daysInMilk": "59"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Little Redhouse Bluebird Sky",
@@ -148,7 +454,57 @@
     "description": "",
     "linearAppraisals": [],
     "awards": [],
-    "dateOfDeath": null
+    "dateOfDeath": null,
+    "usdaId": "NDUSA000002293211",
+    "usdaKey": 2049237,
+    "lactationRecords": [
+      {
+        "startDate": "2025-03-29",
+        "isCurrent": true,
+        "lactationNumber": "1",
+        "daysInMilk": "63",
+        "stats": {
+          "milk": {
+            "achieved": "170",
+            "projected": "982"
+          },
+          "butterfat": {
+            "achieved": "11",
+            "projected": "57"
+          },
+          "protein": {
+            "achieved": "7",
+            "projected": "37"
+          }
+        },
+        "tests": [
+          {
+            "testNumber": 1,
+            "testDate": "2025-04-19",
+            "milk": "2.8",
+            "butterfatPct": "5.8",
+            "proteinPct": "3.7",
+            "daysInMilk": "22"
+          },
+          {
+            "testNumber": 2,
+            "testDate": "2025-05-09",
+            "milk": "3.0",
+            "butterfatPct": "5.8",
+            "proteinPct": "3.9",
+            "daysInMilk": "42"
+          },
+          {
+            "testNumber": 3,
+            "testDate": "2025-05-30",
+            "milk": "2.8",
+            "butterfatPct": "5.8",
+            "proteinPct": "4.1",
+            "daysInMilk": "63"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Leisure Time TL Black Beauty",
@@ -180,7 +536,57 @@
     "description": "Our first goat to receive a leg, Beauty is developing to be a very promising goat. She not only won *Best Junior Doe* at the `Barn In The USA` show, but she also took *Reserve Junior Doe* in a ring the day before.",
     "linearAppraisals": [],
     "awards": [],
-    "dateOfDeath": null
+    "dateOfDeath": null,
+    "usdaId": "NDUSA000002332175",
+    "usdaKey": 2072511,
+    "lactationRecords": [
+      {
+        "startDate": "2025-04-05",
+        "isCurrent": true,
+        "lactationNumber": "1",
+        "daysInMilk": "56",
+        "stats": {
+          "milk": {
+            "achieved": "200",
+            "projected": "1209"
+          },
+          "butterfat": {
+            "achieved": "12",
+            "projected": "64"
+          },
+          "protein": {
+            "achieved": "7",
+            "projected": "43"
+          }
+        },
+        "tests": [
+          {
+            "testNumber": 1,
+            "testDate": "2025-04-19",
+            "milk": "3.6",
+            "butterfatPct": "5.5",
+            "proteinPct": "3.7",
+            "daysInMilk": "15"
+          },
+          {
+            "testNumber": 2,
+            "testDate": "2025-05-09",
+            "milk": "4.0",
+            "butterfatPct": "5.5",
+            "proteinPct": "3.6",
+            "daysInMilk": "35"
+          },
+          {
+            "testNumber": 3,
+            "testDate": "2025-05-30",
+            "milk": "3.7",
+            "butterfatPct": "5.3",
+            "proteinPct": "3.7",
+            "daysInMilk": "56"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Lil Pilchuck AS Princess Fiona",
@@ -212,7 +618,10 @@
     "description": "We've been waiting a few years for a doeling out of Mystic, and the wait is finally over! We're hoping to see some improvements in Fiona's udder attachments when compared to her dam.",
     "linearAppraisals": [],
     "awards": [],
-    "dateOfDeath": null
+    "dateOfDeath": null,
+    "usdaId": "NDUSA000002390049",
+    "usdaKey": 2118742,
+    "lactationRecords": []
   },
   {
     "name": "Lil Pilchuck AS Frosty Blizard",
@@ -244,7 +653,10 @@
     "description": "Named after her frosted ears, Frost is one of the first **Lil Pilchuck Creek** does.",
     "linearAppraisals": [],
     "awards": [],
-    "dateOfDeath": null
+    "dateOfDeath": null,
+    "usdaId": "NDUSA000002390050",
+    "usdaKey": 2118743,
+    "lactationRecords": []
   },
   {
     "name": "Lil Pilchuck HM Expialidocious",
