@@ -34,19 +34,67 @@
     "damId": 2175097,
     "sireId": 1924035,
     "ownerAccount": {
-      "displayName": ""
+      "displayName": "Kolton Bloom"
     },
-    "colorAndMarking": "",
+    "colorAndMarking": "Black With White On Poll",
     "animalTattoo": [
       {
         "tattoo": "BFFN",
-        "tattooLocation": {}
+        "tattooLocation": {
+          "name": "RE"
+        }
       },
       {
         "tattoo": "R2",
-        "tattooLocation": {}
+        "tattooLocation": {
+          "name": "LE"
+        }
       }
     ],
-    "description": "Jewel was our first keeper doe to give us an idea of what conformation runs in the herd. Although she was maturing into a decent doe, she hated being milked and shown, so when we needed to downsize our two-year-olds she was the first to go. She now lives on a pet farm with a family that is going to give her a life she enjoys."
+    "description": "Jewel was our first keeper doe to give us an idea of what conformation runs in the herd. Although she was maturing into a decent doe, she hated being milked and shown, so when we needed to downsize our two-year-olds she was the first to go. She now lives on a pet farm with a family that is going to give her a life she enjoys.",
+    "linearAppraisals": [],
+    "awards": [],
+    "usdaId": "NDUSA000002326883",
+    "usdaKey": 2067206,
+    "lactationRecords": [
+      {
+        "startDate": "2025-04-05",
+        "isCurrent": false,
+        "lactationNumber": "1",
+        "daysInMilk": "51",
+        "stats": {
+          "milk": {
+            "achieved": "190",
+            "projected": "1346"
+          },
+          "butterfat": {
+            "achieved": "11",
+            "projected": "69"
+          },
+          "protein": {
+            "achieved": "8",
+            "projected": "52"
+          }
+        },
+        "tests": [
+          {
+            "testNumber": 1,
+            "testDate": "2025-04-19",
+            "milk": "3.9",
+            "butterfatPct": "5.3",
+            "proteinPct": "4.1",
+            "daysInMilk": "15"
+          },
+          {
+            "testNumber": 2,
+            "testDate": "2025-05-09",
+            "milk": "4.1",
+            "butterfatPct": "5.6",
+            "proteinPct": "4.2",
+            "daysInMilk": "35"
+          }
+        ]
+      }
+    ]
   }
 ]
