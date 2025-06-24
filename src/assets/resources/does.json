@@ -675,5 +675,35 @@
     "colorAndMarking": "Buckskin; Blue Eyes; Polled",
     "description": "We may end up selling this doe and keeping [this one](/for-sale/Beauty-Doe/) instead. We are going to show both of Beauty's does this summer and make our decision about who to sell in the fall.",
     "nickname": "Tulip"
+  },
+  {
+    "name": "Lil Pilchuck HM Expialidocious",
+    "dateOfBirth": "2025-03-29T19:48:55",
+    "dateOfDeath": null,
+    "normalizeId": "PD2452791",
+    "id": 2452791,
+    "sex": "Female",
+    "damId": 2174259,
+    "sireId": 2396439,
+    "ownerAccount": {
+      "displayName": "Kolton Bloom"
+    },
+    "colorAndMarking": "Chocolate With White Belt",
+    "animalTattoo": [
+      {
+        "tattoo": "BFFN",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "T5",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "awards": []
   }
 ]
