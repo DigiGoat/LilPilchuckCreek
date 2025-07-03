@@ -1011,7 +1011,7 @@
     "dateOfDeath": null
   },
   {
-    "name": "Highland Ranch AD Rein E Day",
+    "name": "CH Highland Ranch AD Rein E Day",
     "dateOfBirth": "2019-03-05T00:00:00",
     "normalizeId": "PD2020384",
     "id": 1812738,
@@ -1047,7 +1047,14 @@
         "id": 329006
       }
     ],
-    "awards": [],
+    "awards": [
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2021,
+        "awardCount": 1
+      }
+    ],
     "dateOfDeath": null
   },
   {
