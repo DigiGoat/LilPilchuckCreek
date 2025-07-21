@@ -730,6 +730,37 @@
     "nickname": "Poppy"
   },
   {
+    "name": "Lil Pilchuck HM Snapdragon",
+    "dateOfBirth": "2025-03-29T13:51:59",
+    "dateOfDeath": null,
+    "normalizeId": "PD2458102",
+    "id": 2458102,
+    "sex": "Female",
+    "damId": 2293211,
+    "sireId": 2396439,
+    "ownerAccount": {
+      "displayName": "Kolton Bloom"
+    },
+    "colorAndMarking": "Light Buckskin With White Belt, White On Face, Brown Eyes",
+    "animalTattoo": [
+      {
+        "tattoo": "BFFN",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "T6",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "awards": [],
+    "nickname": "Snappy"
+  },
+  {
     "name": "Lil Pilchuck AS Pacific Dahlia",
     "dateOfBirth": "2025-04-05T13:45:49",
     "dateOfDeath": null,
@@ -760,37 +791,6 @@
     "awards": [],
     "nickname": "Dahlia",
     "description": "We may end up keeping this doe and selling [this one](/does/Tulip/) instead. We are going to show both of Beauty's does this summer and make our decision about who to sell in the fall."
-  },
-  {
-    "name": "Lil Pilchuck HM Snapdragon",
-    "dateOfBirth": "2025-03-29T13:51:59",
-    "dateOfDeath": null,
-    "normalizeId": "PD2458102",
-    "id": 2458102,
-    "sex": "Female",
-    "damId": 2293211,
-    "sireId": 2396439,
-    "ownerAccount": {
-      "displayName": "Kolton Bloom"
-    },
-    "colorAndMarking": "Light Buckskin With White Belt, White On Face, Brown Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "BFFN",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "T6",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "awards": [],
-    "nickname": "Snappy"
   },
   {
     "name": "Lil Pilchuck AS Tulipa Humilis",
