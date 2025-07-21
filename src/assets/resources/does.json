@@ -737,5 +737,95 @@
     "colorAndMarking": "Buckskin; Blue Eyes; Polled",
     "description": "We may end up selling this doe and keeping [this one](/for-sale/Beauty-Doe/) instead. We are going to show both of Beauty's does this summer and make our decision about who to sell in the fall.",
     "nickname": "Tulip"
+  },
+  {
+    "name": "Lil Pilchuck AS Pacific Dahlia",
+    "dateOfBirth": "2025-04-05T13:45:49",
+    "dateOfDeath": null,
+    "normalizeId": "PD2458101",
+    "id": 2458101,
+    "sex": "Female",
+    "damId": 2332175,
+    "sireId": 1924035,
+    "ownerAccount": {
+      "displayName": "Kolton Bloom"
+    },
+    "colorAndMarking": "Buckskin With Frosted Ears, White On Poll, Scattered White, Brown Eyes",
+    "animalTattoo": [
+      {
+        "tattoo": "BFFN",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "T8",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "awards": []
+  },
+  {
+    "name": "Lil Pilchuck HM Snapdragon",
+    "dateOfBirth": "2025-03-29T13:51:59",
+    "dateOfDeath": null,
+    "normalizeId": "PD2458102",
+    "id": 2458102,
+    "sex": "Female",
+    "damId": 2293211,
+    "sireId": 2396439,
+    "ownerAccount": {
+      "displayName": "Kolton Bloom"
+    },
+    "colorAndMarking": "Light Buckskin With White Belt, White On Face, Brown Eyes",
+    "animalTattoo": [
+      {
+        "tattoo": "BFFN",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "T6",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "awards": []
+  },
+  {
+    "name": "Lil Pilchuck AS Tulipa Humilis",
+    "dateOfBirth": "2025-04-05T13:31:02",
+    "dateOfDeath": null,
+    "normalizeId": "PD2458103",
+    "id": 2458103,
+    "sex": "Female",
+    "damId": 2332175,
+    "sireId": 1924035,
+    "ownerAccount": {
+      "displayName": "Kolton Bloom"
+    },
+    "colorAndMarking": "Buckskin With Frosted Ears And White On Poll, Blue Eyes",
+    "animalTattoo": [
+      {
+        "tattoo": "BFFN",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "T7",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "awards": []
   }
 ]
