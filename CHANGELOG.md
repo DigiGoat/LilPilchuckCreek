@@ -1,3 +1,12 @@
+## 5.6.2-beta.1
+* The Firebase deploy comment now includes what triggered the run
+
+## 5.6.1-beta.1
+* Fixed a bug with how the adga package version was managed
+
+## 5.6.0-beta.2
+* Fixed a bug causing the sync workflow to not run on triggers other than the schedule
+
 ## 5.6.0-beta.1
 * Lactation data is now updated automatically!
   * Your website will now check with the CDCB daily to see if there is new lactation data available
