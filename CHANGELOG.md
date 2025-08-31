@@ -1,3 +1,10 @@
+## 5.6.5-beta.2
+* Fixed a bug causing the sync workflow to fail
+  * It wasn't saving the updated lactation records
+
+## 5.6.5-beta.1
+* Reverted `5.6.1-beta.1` as it was causing issues with the sync workflow. The adga package is now automatically stripped of the beta tag during the release process again.
+
 ## 5.6.4-beta.4
 * Modified how the sync workflow records if there are changes to remove some breaking errors
 
