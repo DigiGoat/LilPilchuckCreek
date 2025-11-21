@@ -161,5 +161,29 @@
     "linearAppraisals": [],
     "description": "Jewel was our first doe registered under our farm name. She currently is our 2nd heaviest milker (with the first being [Mystic](/does/Mystic) which isn't even a fair comparison). She is also very nice conformationally. The reason she's for sale is that she is currently skittish. It always gets better once she's handled during show season, but our operation's just gotten too big that we need to make cuts. So she has to go. She has some good genetics behind her, is rather pretty, and will be very friendly if handled regularly.",
     "price": "SOLD"
+  },
+  {
+    "name": "TUA Farms RMI Sugar N Spice",
+    "dateOfBirth": "2023-02-16T16:01:16",
+    "dateOfDeath": null,
+    "normalizeId": "PD2315360",
+    "id": 2315360,
+    "sex": "Female",
+    "damId": 2161423,
+    "sireId": 2242886,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [
+      {
+        "tattoo": "TUA",
+        "tattooLocation": {}
+      },
+      {
+        "tattoo": "R7",
+        "tattooLocation": {}
+      }
+    ]
   }
 ]
