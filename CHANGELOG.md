@@ -1,3 +1,23 @@
+## 6.0.3-beta.1
+* Improved website syncing
+  * The deploy workflow will no longer auto-disable after 60 days of inactivity
+
+## 6.0.2-beta.2
+* Fixed a bug causing custom pages not to render if navigating from one to another (it was staying on the first page's content)
+
+## 6.0.2-beta.1
+* Some back-end improvements to custom pages
+
+## 6.0.1-beta.1
+* Fixed a bug causing the sync workflow not to run
+
+## 6.0.0-beta.1
+* Added custom pages!
+  * These are pages that can be whatever you'd like them to be!
+
+## 5.6.7-beta.1
+* Improved how lists are displayed
+
 ## 5.6.6-beta.7
 * bcc'd digigoat@lilpilchuckcreek.org on email notifications
 
