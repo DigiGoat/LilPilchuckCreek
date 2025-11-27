@@ -1,3 +1,11 @@
+## 6.0.5-beta.1
+* Updated the deploy workflow so that if it is triggered by the sync workflow, it will only deploy if there were changes committed during the sync or during the build process
+  * This prevents unnecessary deploys when there are no changes to the website
+
+## 6.0.4-beta.1
+* Updated bootstrap from `5.3.3` to `5.3.8`
+  * This is a library used for fonts and styles
+
 ## 6.0.3-beta.2
 * Fixed a bug causing the website not to deploy after a sync when using firebase
 
