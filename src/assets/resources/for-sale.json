@@ -1,16 +1,5 @@
 [
   {
-    "name": "Beauty Wether",
-    "dateOfBirth": "April 5 2025",
-    "sex": "Male",
-    "pet": true,
-    "price": "SOLD",
-    "damId": "PD2332175",
-    "sireId": "PD2131517",
-    "description": "Blue eyes & likely polled",
-    "colorAndMarking": "Black w/ White"
-  },
-  {
     "name": "Jewel Wether",
     "dateOfBirth": "april 5 2025",
     "sex": "Male",
