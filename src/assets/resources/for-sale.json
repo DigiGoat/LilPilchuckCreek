@@ -1,38 +1,5 @@
 [
   {
-    "name": "Lil Pilchuck Creek Ameth Jewel",
-    "dateOfBirth": "2023-04-17T09:08:14",
-    "dateOfDeath": null,
-    "normalizeId": "PD2326883",
-    "id": 2326883,
-    "sex": "Female",
-    "damId": 2175097,
-    "sireId": 1924035,
-    "ownerAccount": {
-      "displayName": "Kolton Bloom"
-    },
-    "colorAndMarking": "Black With White On Poll",
-    "animalTattoo": [
-      {
-        "tattoo": "BFFN",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "R2",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "nickname": "Jewel",
-    "awards": [],
-    "linearAppraisals": [],
-    "description": "Jewel was our first doe registered under our farm name. She currently is our 2nd heaviest milker (with the first being [Mystic](/does/Mystic) which isn't even a fair comparison). She is also very nice conformationally. The reason she's for sale is that she is currently skittish. It always gets better once she's handled during show season, but our operation's just gotten too big that we need to make cuts. So she has to go. She has some good genetics behind her, is rather pretty, and will be very friendly if handled regularly.",
-    "price": "SOLD"
-  },
-  {
     "name": "TUA Farms RMI Sugar N Spice",
     "dateOfBirth": "2023-02-16T16:01:16",
     "dateOfDeath": null,
