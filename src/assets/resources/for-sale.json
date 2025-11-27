@@ -1,15 +1,5 @@
 [
   {
-    "name": "Sugar Wether",
-    "dateOfBirth": "march 29 2025",
-    "sex": "Male",
-    "pet": true,
-    "price": "SOLD",
-    "damId": "PD2315360",
-    "sireId": "PD1851708",
-    "colorAndMarking": "Black w/ White Belt; Frosted Ears"
-  },
-  {
     "name": "Sky Wether",
     "nickname": "Bert",
     "dateOfBirth": "march 29 2025",
