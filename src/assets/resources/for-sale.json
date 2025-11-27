@@ -1,15 +1,5 @@
 [
   {
-    "name": "Mystic Wether",
-    "dateOfBirth": "march 29 2025",
-    "sex": "Male",
-    "pet": true,
-    "price": "SOLD",
-    "damId": "PD2174259",
-    "sireId": "PD2396439",
-    "colorAndMarking": "Buckskin w/ White Belt"
-  },
-  {
     "name": "Sugar Wether",
     "dateOfBirth": "march 29 2025",
     "sex": "Male",
