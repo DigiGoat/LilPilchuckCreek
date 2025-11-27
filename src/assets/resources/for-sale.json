@@ -1,17 +1,5 @@
 [
   {
-    "name": "Sky Wether",
-    "nickname": "Bert",
-    "dateOfBirth": "march 29 2025",
-    "sex": "Male",
-    "pet": true,
-    "damId": "PD2293211",
-    "sireId": "PD2396439",
-    "price": "SOLD",
-    "colorAndMarking": "Buckskin w/ Abundant White",
-    "description": "Bert was born on the night of Cedarcrest Middle School's production of Mary Poppins. So logically, he had to be named Bert since he looks like he's covered in soot"
-  },
-  {
     "name": "Sugar Doe",
     "dateOfBirth": "march 29 2025",
     "damId": "PD2315360",
