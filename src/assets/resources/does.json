@@ -440,6 +440,91 @@
     ]
   },
   {
+    "name": "Smiling Goat Farm Foggy Mtntop",
+    "dateOfBirth": "2023-04-28T07:33:12",
+    "dateOfDeath": null,
+    "normalizeId": "PD2314269",
+    "id": 2314269,
+    "sex": "Female",
+    "damId": 1812739,
+    "sireId": 1644023,
+    "ownerAccount": {
+      "displayName": "Kolton Bloom"
+    },
+    "colorAndMarking": "Brown With Small White Spot, Frosting",
+    "animalTattoo": [
+      {
+        "tattoo": "SGG7",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      {
+        "tattoo": "R11",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2024-06-13T00:00:00",
+        "generalAppearance": "A",
+        "dairyStrength": "G",
+        "bodyCapacity": "G",
+        "mammarySystem": "G",
+        "finalScore": 81,
+        "isPermanent": false,
+        "id": 324085
+      }
+    ],
+    "usdaId": "NDUSA000002314269",
+    "usdaKey": 2055090,
+    "lactationRecords": [
+      {
+        "startDate": "2025-04-30",
+        "isCurrent": false,
+        "lactationNumber": "2",
+        "daysInMilk": "61",
+        "stats": {
+          "milk": {
+            "achieved": "110",
+            "projected": "791"
+          },
+          "butterfat": {
+            "achieved": "8",
+            "projected": "51"
+          },
+          "protein": {
+            "achieved": "6",
+            "projected": "30"
+          }
+        },
+        "tests": [
+          {
+            "testNumber": 1,
+            "testDate": "2025-05-11",
+            "milk": "2.1",
+            "butterfatPct": "7.2",
+            "proteinPct": "4.7",
+            "daysInMilk": "12"
+          },
+          {
+            "testNumber": 2,
+            "testDate": "2025-06-15",
+            "milk": "1.8",
+            "butterfatPct": "7.3",
+            "proteinPct": "4.3",
+            "daysInMilk": "47"
+          }
+        ]
+      }
+    ],
+    "awards": [],
+    "nickname": "Millie"
+  },
+  {
     "name": "Little Redhouse Zayushka",
     "dateOfBirth": "2023-03-09T16:28:33",
     "normalizeId": "PD2293424",
@@ -1000,90 +1085,5 @@
     "usdaId": "NDUSA000002458101",
     "usdaKey": 2183959,
     "lactationRecords": []
-  },
-  {
-    "name": "Smiling Goat Farm Foggy Mtntop",
-    "dateOfBirth": "2023-04-28T07:33:12",
-    "dateOfDeath": null,
-    "normalizeId": "PD2314269",
-    "id": 2314269,
-    "sex": "Female",
-    "damId": 1812739,
-    "sireId": 1644023,
-    "ownerAccount": {
-      "displayName": "Kolton Bloom"
-    },
-    "colorAndMarking": "Brown With Small White Spot, Frosting",
-    "animalTattoo": [
-      {
-        "tattoo": "SGG7",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "R11",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2024-06-13T00:00:00",
-        "generalAppearance": "A",
-        "dairyStrength": "G",
-        "bodyCapacity": "G",
-        "mammarySystem": "G",
-        "finalScore": 81,
-        "isPermanent": false,
-        "id": 324085
-      }
-    ],
-    "usdaId": "NDUSA000002314269",
-    "usdaKey": 2055090,
-    "lactationRecords": [
-      {
-        "startDate": "2025-04-30",
-        "isCurrent": false,
-        "lactationNumber": "2",
-        "daysInMilk": "61",
-        "stats": {
-          "milk": {
-            "achieved": "110",
-            "projected": "791"
-          },
-          "butterfat": {
-            "achieved": "8",
-            "projected": "51"
-          },
-          "protein": {
-            "achieved": "6",
-            "projected": "30"
-          }
-        },
-        "tests": [
-          {
-            "testNumber": 1,
-            "testDate": "2025-05-11",
-            "milk": "2.1",
-            "butterfatPct": "7.2",
-            "proteinPct": "4.7",
-            "daysInMilk": "12"
-          },
-          {
-            "testNumber": 2,
-            "testDate": "2025-06-15",
-            "milk": "1.8",
-            "butterfatPct": "7.3",
-            "proteinPct": "4.3",
-            "daysInMilk": "47"
-          }
-        ]
-      }
-    ],
-    "awards": [],
-    "nickname": "Millie"
   }
 ]
