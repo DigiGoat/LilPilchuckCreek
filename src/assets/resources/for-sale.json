@@ -9,18 +9,36 @@
     "damId": 2161423,
     "sireId": 2242886,
     "ownerAccount": {
-      "displayName": ""
+      "displayName": "Kolton Bloom"
     },
-    "colorAndMarking": "",
+    "colorAndMarking": "Black With Minimal White",
     "animalTattoo": [
       {
         "tattoo": "TUA",
-        "tattooLocation": {}
+        "tattooLocation": {
+          "name": "RE"
+        }
       },
       {
         "tattoo": "R7",
-        "tattooLocation": {}
+        "tattooLocation": {
+          "name": "LE"
+        }
       }
-    ]
+    ],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2024-06-12T00:00:00",
+        "generalAppearance": "A",
+        "dairyStrength": "A",
+        "bodyCapacity": "A",
+        "mammarySystem": "G",
+        "finalScore": 77,
+        "isPermanent": false,
+        "id": 324082
+      }
+    ],
+    "awards": []
   }
 ]
