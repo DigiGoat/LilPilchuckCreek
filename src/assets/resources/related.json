@@ -70,23 +70,6 @@
     "dateOfDeath": null
   },
   {
-    "name": "Little RedHouse Zayushka",
-    "dateOfBirth": "2023-03-09T16:28:33",
-    "normalizeId": "PD2293424",
-    "id": 2293424,
-    "sex": "Female",
-    "damId": 2168575,
-    "sireId": 2157990,
-    "ownerAccount": {
-      "displayName": "Kolton Bloom"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": [],
-    "dateOfDeath": null
-  },
-  {
     "name": "Little RedHouse Bluebird Sky",
     "dateOfBirth": "2023-03-10T16:26:58",
     "normalizeId": "PD2293211",
@@ -204,7 +187,7 @@
     "damId": 1896985,
     "sireId": 1723848,
     "ownerAccount": {
-      "displayName": "Wendy Webster"
+      "displayName": "Jordan Beery"
     },
     "colorAndMarking": "",
     "animalTattoo": [],
@@ -582,6 +565,46 @@
         "awardCount": 1
       }
     ],
+    "dateOfDeath": null
+  },
+  {
+    "name": "Highland Ranch AD Cascade Fern",
+    "dateOfBirth": "2019-03-05T00:00:00",
+    "normalizeId": "PD2020385",
+    "id": 1812739,
+    "sex": "Female",
+    "damId": 1572539,
+    "sireId": 1730006,
+    "ownerAccount": {
+      "displayName": "Frances Amend"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-08-10T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": "V",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 285533
+      },
+      {
+        "lactationNumber": 5,
+        "appraisalDate": "2024-06-13T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": true,
+        "id": 324084
+      }
+    ],
+    "awards": [],
     "dateOfDeath": null
   },
   {
@@ -1317,6 +1340,36 @@
     "dateOfDeath": null
   },
   {
+    "name": "Leisure Time ZZ All Dressed UP",
+    "dateOfBirth": "2018-03-04T00:00:00",
+    "normalizeId": "PD1937691",
+    "id": 1730006,
+    "sex": "Male",
+    "damId": 1487307,
+    "sireId": 1644245,
+    "ownerAccount": {
+      "displayName": "Amber Mclernon"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
+    ],
+    "dateOfDeath": null
+  },
+  {
     "name": "Hetlandcreek PD Steel Guitar",
     "dateOfBirth": "2018-02-05T00:00:00",
     "normalizeId": "PD1931533",
@@ -1935,6 +1988,88 @@
     "dateOfDeath": "2024-12-27T20:31:59"
   },
   {
+    "name": "Highland Ranch 8SR Ravenna ",
+    "dateOfBirth": "2016-03-23T00:00:00",
+    "normalizeId": "PD1780344",
+    "id": 1572539,
+    "sex": "Female",
+    "damId": 1477710,
+    "sireId": 1513663,
+    "ownerAccount": {
+      "displayName": "Zane & Jennifer Merrick"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2017-06-07T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "+",
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 250348
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 260685
+      },
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2019-06-17T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 269782
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milk Competition",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Butterfat)",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Protein)",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Milk)",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
+    ],
+    "dateOfDeath": null
+  },
+  {
     "name": "GCH Hetlandcreek HB Swan Harmonica",
     "dateOfBirth": "2016-03-15T00:00:00",
     "normalizeId": "PD1772229",
@@ -1946,7 +2081,7 @@
       "displayName": "Trenne Earl"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": 1,
@@ -2017,7 +2152,7 @@
       "displayName": "Elisabeth Olsen"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": 1,
@@ -2632,6 +2767,7 @@
   {
     "name": "Rosasharn AX Noble Prince",
     "dateOfBirth": "2011-05-01T00:00:00",
+    "dateOfDeath": "2016-02-25T00:00:00",
     "normalizeId": "PD1574754",
     "id": 1366576,
     "sex": "Male",
@@ -2703,19 +2839,19 @@
         "awardYear": 2011,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": "2016-02-25T00:00:00"
+    ]
   },
   {
     "name": "Rosasharn BB Honey Moon",
     "dateOfBirth": "2010-03-15T00:00:00",
+    "dateOfDeath": "2024-02-25T19:31:49",
     "normalizeId": "PD1520305",
     "id": 1312026,
     "sex": "Female",
     "damId": 1112741,
     "sireId": 1219502,
     "ownerAccount": {
-      "displayName": "Bruce & Terry Sentas"
+      "displayName": ""
     },
     "colorAndMarking": "",
     "animalTattoo": {},
@@ -2774,7 +2910,6 @@
         "awardYear": 2012,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": null
+    ]
   }
 ]
