@@ -91,12 +91,18 @@
     "damId": 1834015,
     "sireId": 1894947,
     "ownerAccount": {
-      "displayName": ""
+      "displayName": "Kolton Bloom"
     },
     "colorAndMarking": "Chamoisee With Abundant White",
     "nickname": "Winslow",
     "animalTattoo": {
       "0": {
+        "tattoo": "MSM2",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      "1": {
         "tattoo": "S7",
         "tattooLocation": {
           "name": "LE"
