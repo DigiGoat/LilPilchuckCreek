@@ -43,189 +43,7 @@
     "awards": [],
     "dateOfDeath": null,
     "usdaId": "NDUSA000002174259",
-    "usdaKey": 1913267,
-    "lactationRecords": [
-      {
-        "startDate": "2024-03-21",
-        "isCurrent": false,
-        "lactationNumber": "2",
-        "daysInMilk": "276",
-        "stats": {
-          "milk": {
-            "achieved": "1310",
-            "projected": "1441"
-          },
-          "butterfat": {
-            "achieved": "80",
-            "projected": "85"
-          },
-          "protein": {
-            "achieved": "56",
-            "projected": "57"
-          }
-        },
-        "tests": [
-          {
-            "testNumber": 1,
-            "testDate": "2024-04-03",
-            "milk": "6.5",
-            "butterfatPct": "6.3",
-            "proteinPct": "3.7",
-            "daysInMilk": "14"
-          },
-          {
-            "testNumber": 2,
-            "testDate": "2024-05-02",
-            "milk": "7.1",
-            "butterfatPct": "6.1",
-            "proteinPct": "3.5",
-            "daysInMilk": "43"
-          },
-          {
-            "testNumber": 3,
-            "testDate": "2024-06-27",
-            "milk": "5.5",
-            "butterfatPct": "6.1",
-            "proteinPct": "3.7",
-            "daysInMilk": "99"
-          },
-          {
-            "testNumber": 4,
-            "testDate": "2024-07-18",
-            "milk": "5.0",
-            "butterfatPct": "5.3",
-            "proteinPct": "3.8",
-            "daysInMilk": "120"
-          },
-          {
-            "testNumber": 5,
-            "testDate": "2024-08-18",
-            "milk": "4.5",
-            "butterfatPct": "5.4",
-            "proteinPct": "4.2",
-            "daysInMilk": "151"
-          },
-          {
-            "testNumber": 6,
-            "testDate": "2024-09-13",
-            "milk": "4.4",
-            "butterfatPct": "5.6",
-            "proteinPct": "4.5",
-            "daysInMilk": "177"
-          },
-          {
-            "testNumber": 7,
-            "testDate": "2024-10-04",
-            "milk": "3.0",
-            "butterfatPct": "6.9",
-            "proteinPct": "5.3",
-            "daysInMilk": "198"
-          },
-          {
-            "testNumber": 8,
-            "testDate": "2024-11-19",
-            "milk": "3.1",
-            "butterfatPct": "6.7",
-            "proteinPct": "5.3",
-            "daysInMilk": "244"
-          }
-        ]
-      },
-      {
-        "startDate": "2025-03-29",
-        "isCurrent": true,
-        "lactationNumber": "3",
-        "daysInMilk": "228",
-        "stats": {
-          "milk": {
-            "achieved": "1160",
-            "projected": "1395"
-          },
-          "butterfat": {
-            "achieved": "73",
-            "projected": "90"
-          },
-          "protein": {
-            "achieved": "47",
-            "projected": "59"
-          }
-        },
-        "tests": [
-          {
-            "testNumber": 1,
-            "testDate": "2025-04-19",
-            "milk": "6.1",
-            "butterfatPct": "5.6",
-            "proteinPct": "3.5",
-            "daysInMilk": "22"
-          },
-          {
-            "testNumber": 2,
-            "testDate": "2025-05-09",
-            "milk": "6.1",
-            "butterfatPct": "5.5",
-            "proteinPct": "3.5",
-            "daysInMilk": "42"
-          },
-          {
-            "testNumber": 3,
-            "testDate": "2025-05-30",
-            "milk": "5.4",
-            "butterfatPct": "5.6",
-            "proteinPct": "3.6",
-            "daysInMilk": "63"
-          },
-          {
-            "testNumber": 4,
-            "testDate": "2025-06-18",
-            "milk": "5.6",
-            "butterfatPct": "5.5",
-            "proteinPct": "3.7",
-            "daysInMilk": "82"
-          },
-          {
-            "testNumber": 5,
-            "testDate": "2025-07-27",
-            "milk": "5.3",
-            "butterfatPct": "6.0",
-            "proteinPct": "4.0",
-            "daysInMilk": "121"
-          },
-          {
-            "testNumber": 6,
-            "testDate": "2025-08-15",
-            "milk": "4.8",
-            "butterfatPct": "6.6",
-            "proteinPct": "4.1",
-            "daysInMilk": "140"
-          },
-          {
-            "testNumber": 7,
-            "testDate": "2025-09-20",
-            "milk": "4.9",
-            "butterfatPct": "6.7",
-            "proteinPct": "4.5",
-            "daysInMilk": "176"
-          },
-          {
-            "testNumber": 8,
-            "testDate": "2025-10-11",
-            "milk": "4.4",
-            "butterfatPct": "7.7",
-            "proteinPct": "4.7",
-            "daysInMilk": "197"
-          },
-          {
-            "testNumber": 9,
-            "testDate": "2025-11-11",
-            "milk": "2.9",
-            "butterfatPct": "7.6",
-            "proteinPct": "5.5",
-            "daysInMilk": "228"
-          }
-        ]
-      }
-    ]
+    "usdaKey": 1913267
   },
   {
     "name": "TUA Farms RMI Sugar N Spice",
@@ -271,173 +89,7 @@
     "awards": [],
     "dateOfDeath": null,
     "usdaId": "NDUSA000002315360",
-    "usdaKey": 2056127,
-    "lactationRecords": [
-      {
-        "startDate": "2024-05-19",
-        "isCurrent": false,
-        "lactationNumber": "1",
-        "daysInMilk": "196",
-        "stats": {
-          "milk": {
-            "achieved": "370",
-            "projected": "581"
-          },
-          "butterfat": {
-            "achieved": "26",
-            "projected": "40"
-          },
-          "protein": {
-            "achieved": "17",
-            "projected": "25"
-          }
-        },
-        "tests": [
-          {
-            "testNumber": 1,
-            "testDate": "2024-06-27",
-            "milk": "2.8",
-            "butterfatPct": "6.6",
-            "proteinPct": "3.6",
-            "daysInMilk": "40"
-          },
-          {
-            "testNumber": 2,
-            "testDate": "2024-07-18",
-            "milk": "2.5",
-            "butterfatPct": "5.7",
-            "proteinPct": "3.8",
-            "daysInMilk": "61"
-          },
-          {
-            "testNumber": 3,
-            "testDate": "2024-08-18",
-            "milk": "2.2",
-            "butterfatPct": "6.3",
-            "proteinPct": "4.4",
-            "daysInMilk": "92"
-          },
-          {
-            "testNumber": 4,
-            "testDate": "2024-09-13",
-            "milk": "1.8",
-            "butterfatPct": "7.2",
-            "proteinPct": "5.0",
-            "daysInMilk": "118"
-          },
-          {
-            "testNumber": 5,
-            "testDate": "2024-10-04",
-            "milk": "1.3",
-            "butterfatPct": "7.9",
-            "proteinPct": "5.6",
-            "daysInMilk": "139"
-          },
-          {
-            "testNumber": 6,
-            "testDate": "2024-11-19",
-            "milk": "0.8",
-            "butterfatPct": "9.4",
-            "proteinPct": "5.9",
-            "daysInMilk": "185"
-          }
-        ]
-      },
-      {
-        "startDate": "2025-03-29",
-        "isCurrent": true,
-        "lactationNumber": "2",
-        "daysInMilk": "228",
-        "stats": {
-          "milk": {
-            "achieved": "480",
-            "projected": "566"
-          },
-          "butterfat": {
-            "achieved": "33",
-            "projected": "45"
-          },
-          "protein": {
-            "achieved": "25",
-            "projected": "27"
-          }
-        },
-        "tests": [
-          {
-            "testNumber": 1,
-            "testDate": "2025-04-19",
-            "milk": "3.7",
-            "butterfatPct": "5.4",
-            "proteinPct": "4.0",
-            "daysInMilk": "22"
-          },
-          {
-            "testNumber": 2,
-            "testDate": "2025-05-09",
-            "milk": "3.4",
-            "butterfatPct": "5.5",
-            "proteinPct": "4.0",
-            "daysInMilk": "42"
-          },
-          {
-            "testNumber": 3,
-            "testDate": "2025-05-30",
-            "milk": "2.6",
-            "butterfatPct": "7.1",
-            "proteinPct": "4.3",
-            "daysInMilk": "63"
-          },
-          {
-            "testNumber": 4,
-            "testDate": "2025-06-18",
-            "milk": "2.1",
-            "butterfatPct": "6.9",
-            "proteinPct": "4.3",
-            "daysInMilk": "82"
-          },
-          {
-            "testNumber": 5,
-            "testDate": "2025-07-27",
-            "milk": "2.2",
-            "butterfatPct": "7.0",
-            "proteinPct": "4.8",
-            "daysInMilk": "121"
-          },
-          {
-            "testNumber": 6,
-            "testDate": "2025-08-15",
-            "milk": "1.8",
-            "butterfatPct": "7.9",
-            "proteinPct": "4.9",
-            "daysInMilk": "140"
-          },
-          {
-            "testNumber": 7,
-            "testDate": "2025-09-20",
-            "milk": "1.5",
-            "butterfatPct": "9.9",
-            "proteinPct": "5.8",
-            "daysInMilk": "176"
-          },
-          {
-            "testNumber": 8,
-            "testDate": "2025-10-11",
-            "milk": "1.0",
-            "butterfatPct": "9.9",
-            "proteinPct": "5.9",
-            "daysInMilk": "197"
-          },
-          {
-            "testNumber": 9,
-            "testDate": "2025-11-11",
-            "milk": "0.7",
-            "butterfatPct": "9.9",
-            "proteinPct": "5.9",
-            "daysInMilk": "228"
-          }
-        ]
-      }
-    ]
+    "usdaKey": 2056127
   },
   {
     "name": "Smiling Goat Farm Foggy Mtntop",
@@ -481,46 +133,6 @@
     ],
     "usdaId": "NDUSA000002314269",
     "usdaKey": 2055090,
-    "lactationRecords": [
-      {
-        "startDate": "2025-04-30",
-        "isCurrent": false,
-        "lactationNumber": "2",
-        "daysInMilk": "61",
-        "stats": {
-          "milk": {
-            "achieved": "110",
-            "projected": "791"
-          },
-          "butterfat": {
-            "achieved": "8",
-            "projected": "51"
-          },
-          "protein": {
-            "achieved": "6",
-            "projected": "30"
-          }
-        },
-        "tests": [
-          {
-            "testNumber": 1,
-            "testDate": "2025-05-11",
-            "milk": "2.1",
-            "butterfatPct": "7.2",
-            "proteinPct": "4.7",
-            "daysInMilk": "12"
-          },
-          {
-            "testNumber": 2,
-            "testDate": "2025-06-15",
-            "milk": "1.8",
-            "butterfatPct": "7.3",
-            "proteinPct": "4.3",
-            "daysInMilk": "47"
-          }
-        ]
-      }
-    ],
     "awards": [],
     "nickname": "Millie"
   },
@@ -555,103 +167,7 @@
     "awards": [],
     "dateOfDeath": null,
     "usdaId": "NDUSA000002293424",
-    "usdaKey": 2045007,
-    "lactationRecords": [
-      {
-        "startDate": "2025-04-02",
-        "isCurrent": true,
-        "lactationNumber": "1",
-        "daysInMilk": "224",
-        "stats": {
-          "milk": {
-            "achieved": "610",
-            "projected": "751"
-          },
-          "butterfat": {
-            "achieved": "42",
-            "projected": "55"
-          },
-          "protein": {
-            "achieved": "27",
-            "projected": "36"
-          }
-        },
-        "tests": [
-          {
-            "testNumber": 1,
-            "testDate": "2025-04-19",
-            "milk": "3.9",
-            "butterfatPct": "5.1",
-            "proteinPct": "4.2",
-            "daysInMilk": "18"
-          },
-          {
-            "testNumber": 2,
-            "testDate": "2025-05-09",
-            "milk": "3.3",
-            "butterfatPct": "5.2",
-            "proteinPct": "4.1",
-            "daysInMilk": "38"
-          },
-          {
-            "testNumber": 3,
-            "testDate": "2025-05-30",
-            "milk": "3.2",
-            "butterfatPct": "6.7",
-            "proteinPct": "4.4",
-            "daysInMilk": "59"
-          },
-          {
-            "testNumber": 4,
-            "testDate": "2025-06-18",
-            "milk": "3.4",
-            "butterfatPct": "6.9",
-            "proteinPct": "4.5",
-            "daysInMilk": "78"
-          },
-          {
-            "testNumber": 5,
-            "testDate": "2025-07-27",
-            "milk": "3.2",
-            "butterfatPct": "6.8",
-            "proteinPct": "4.7",
-            "daysInMilk": "117"
-          },
-          {
-            "testNumber": 6,
-            "testDate": "2025-08-15",
-            "milk": "2.4",
-            "butterfatPct": "7.3",
-            "proteinPct": "4.7",
-            "daysInMilk": "136"
-          },
-          {
-            "testNumber": 7,
-            "testDate": "2025-09-20",
-            "milk": "2.2",
-            "butterfatPct": "8.4",
-            "proteinPct": "5.4",
-            "daysInMilk": "172"
-          },
-          {
-            "testNumber": 8,
-            "testDate": "2025-10-11",
-            "milk": "1.5",
-            "butterfatPct": "9.6",
-            "proteinPct": "5.7",
-            "daysInMilk": "193"
-          },
-          {
-            "testNumber": 9,
-            "testDate": "2025-11-11",
-            "milk": "1.3",
-            "butterfatPct": "9.2",
-            "proteinPct": "5.8",
-            "daysInMilk": "224"
-          }
-        ]
-      }
-    ]
+    "usdaKey": 2045007
   },
   {
     "name": "Little Redhouse Bluebird Sky",
@@ -685,103 +201,7 @@
     "awards": [],
     "dateOfDeath": null,
     "usdaId": "NDUSA000002293211",
-    "usdaKey": 2049237,
-    "lactationRecords": [
-      {
-        "startDate": "2025-03-29",
-        "isCurrent": true,
-        "lactationNumber": "1",
-        "daysInMilk": "228",
-        "stats": {
-          "milk": {
-            "achieved": "480",
-            "projected": "593"
-          },
-          "butterfat": {
-            "achieved": "33",
-            "projected": "44"
-          },
-          "protein": {
-            "achieved": "23",
-            "projected": "28"
-          }
-        },
-        "tests": [
-          {
-            "testNumber": 1,
-            "testDate": "2025-04-19",
-            "milk": "2.8",
-            "butterfatPct": "5.8",
-            "proteinPct": "3.7",
-            "daysInMilk": "22"
-          },
-          {
-            "testNumber": 2,
-            "testDate": "2025-05-09",
-            "milk": "3.0",
-            "butterfatPct": "5.8",
-            "proteinPct": "3.9",
-            "daysInMilk": "42"
-          },
-          {
-            "testNumber": 3,
-            "testDate": "2025-05-30",
-            "milk": "2.8",
-            "butterfatPct": "5.8",
-            "proteinPct": "4.1",
-            "daysInMilk": "63"
-          },
-          {
-            "testNumber": 4,
-            "testDate": "2025-06-18",
-            "milk": "2.5",
-            "butterfatPct": "5.8",
-            "proteinPct": "4.2",
-            "daysInMilk": "82"
-          },
-          {
-            "testNumber": 5,
-            "testDate": "2025-07-27",
-            "milk": "2.3",
-            "butterfatPct": "6.6",
-            "proteinPct": "4.6",
-            "daysInMilk": "121"
-          },
-          {
-            "testNumber": 6,
-            "testDate": "2025-08-15",
-            "milk": "1.7",
-            "butterfatPct": "7.7",
-            "proteinPct": "5.0",
-            "daysInMilk": "140"
-          },
-          {
-            "testNumber": 7,
-            "testDate": "2025-09-20",
-            "milk": "1.5",
-            "butterfatPct": "8.7",
-            "proteinPct": "5.8",
-            "daysInMilk": "176"
-          },
-          {
-            "testNumber": 8,
-            "testDate": "2025-10-11",
-            "milk": "1.2",
-            "butterfatPct": "9.8",
-            "proteinPct": "5.8",
-            "daysInMilk": "197"
-          },
-          {
-            "testNumber": 9,
-            "testDate": "2025-11-11",
-            "milk": "1.1",
-            "butterfatPct": "9.5",
-            "proteinPct": "5.8",
-            "daysInMilk": "228"
-          }
-        ]
-      }
-    ]
+    "usdaKey": 2049237
   },
   {
     "name": "Leisure Time TL Black Beauty",
@@ -815,103 +235,7 @@
     "awards": [],
     "dateOfDeath": null,
     "usdaId": "NDUSA000002332175",
-    "usdaKey": 2072511,
-    "lactationRecords": [
-      {
-        "startDate": "2025-04-05",
-        "isCurrent": true,
-        "lactationNumber": "1",
-        "daysInMilk": "221",
-        "stats": {
-          "milk": {
-            "achieved": "630",
-            "projected": "788"
-          },
-          "butterfat": {
-            "achieved": "44",
-            "projected": "55"
-          },
-          "protein": {
-            "achieved": "26",
-            "projected": "34"
-          }
-        },
-        "tests": [
-          {
-            "testNumber": 1,
-            "testDate": "2025-04-19",
-            "milk": "3.6",
-            "butterfatPct": "5.5",
-            "proteinPct": "3.7",
-            "daysInMilk": "15"
-          },
-          {
-            "testNumber": 2,
-            "testDate": "2025-05-09",
-            "milk": "4.0",
-            "butterfatPct": "5.5",
-            "proteinPct": "3.6",
-            "daysInMilk": "35"
-          },
-          {
-            "testNumber": 3,
-            "testDate": "2025-05-30",
-            "milk": "3.7",
-            "butterfatPct": "5.3",
-            "proteinPct": "3.7",
-            "daysInMilk": "56"
-          },
-          {
-            "testNumber": 4,
-            "testDate": "2025-06-18",
-            "milk": "4.2",
-            "butterfatPct": "5.5",
-            "proteinPct": "3.6",
-            "daysInMilk": "75"
-          },
-          {
-            "testNumber": 5,
-            "testDate": "2025-07-27",
-            "milk": "3.3",
-            "butterfatPct": "5.8",
-            "proteinPct": "4.2",
-            "daysInMilk": "114"
-          },
-          {
-            "testNumber": 6,
-            "testDate": "2025-08-15",
-            "milk": "2.3",
-            "butterfatPct": "7.6",
-            "proteinPct": "4.2",
-            "daysInMilk": "133"
-          },
-          {
-            "testNumber": 7,
-            "testDate": "2025-09-20",
-            "milk": "2.0",
-            "butterfatPct": "9.5",
-            "proteinPct": "5.2",
-            "daysInMilk": "169"
-          },
-          {
-            "testNumber": 8,
-            "testDate": "2025-10-11",
-            "milk": "1.5",
-            "butterfatPct": "9.7",
-            "proteinPct": "5.5",
-            "daysInMilk": "190"
-          },
-          {
-            "testNumber": 9,
-            "testDate": "2025-11-11",
-            "milk": "1.4",
-            "butterfatPct": "9.3",
-            "proteinPct": "5.9",
-            "daysInMilk": "221"
-          }
-        ]
-      }
-    ]
+    "usdaKey": 2072511
   },
   {
     "name": "Lil Pilchuck AS Princess Fiona",
@@ -945,8 +269,7 @@
     "awards": [],
     "dateOfDeath": null,
     "usdaId": "NDUSA000002390049",
-    "usdaKey": 2118742,
-    "lactationRecords": []
+    "usdaKey": 2118742
   },
   {
     "name": "Lil Pilchuck AS Frosty Blizard",
@@ -980,8 +303,7 @@
     "awards": [],
     "dateOfDeath": null,
     "usdaId": "NDUSA000002390050",
-    "usdaKey": 2118743,
-    "lactationRecords": []
+    "usdaKey": 2118743
   },
   {
     "name": "Lil Pilchuck HM Expialidocious",
@@ -1014,8 +336,7 @@
     "awards": [],
     "nickname": "Poppy",
     "usdaId": "NDUSA000002452791",
-    "usdaKey": 2194770,
-    "lactationRecords": []
+    "usdaKey": 2194770
   },
   {
     "name": "Lil Pilchuck HM Snapdragon",
@@ -1048,8 +369,7 @@
     "awards": [],
     "nickname": "Snappy",
     "usdaId": "NDUSA000002458102",
-    "usdaKey": 2183960,
-    "lactationRecords": []
+    "usdaKey": 2183960
   },
   {
     "name": "Lil Pilchuck AS Pacific Dahlia",
@@ -1083,7 +403,6 @@
     "nickname": "Dahlia",
     "description": "We may end up keeping this doe and selling [this one](/does/Tulip/) instead. We are going to show both of Beauty's does this summer and make our decision about who to sell in the fall.",
     "usdaId": "NDUSA000002458101",
-    "usdaKey": 2183959,
-    "lactationRecords": []
+    "usdaKey": 2183959
   }
 ]
