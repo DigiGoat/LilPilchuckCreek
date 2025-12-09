@@ -95,7 +95,7 @@
     "damId": 1812738,
     "sireId": 1894947,
     "ownerAccount": {
-      "displayName": "Christine Harris"
+      "displayName": "Jennifer & Randy Orcutt"
     },
     "colorAndMarking": "",
     "animalTattoo": [],
@@ -191,30 +191,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2023-08-01T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 305429
-      },
-      {
-        "lactationNumber": 2,
-        "appraisalDate": "2024-06-11T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 89,
-        "isPermanent": false,
-        "id": 323975
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [],
     "dateOfDeath": null
   },
@@ -231,30 +208,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2023-06-21T00:00:00",
-        "generalAppearance": "v",
-        "dairyStrength": "g",
-        "bodyCapacity": "v",
-        "mammarySystem": "v",
-        "finalScore": 85,
-        "isPermanent": false,
-        "id": 305234
-      },
-      {
-        "lactationNumber": 3,
-        "appraisalDate": "2024-09-26T00:00:00",
-        "generalAppearance": "G",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 327446
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [],
     "dateOfDeath": null
   },
@@ -348,19 +302,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-12T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "+",
-        "bodyCapacity": "V",
-        "mammarySystem": " ",
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 286297
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*B",
@@ -408,30 +350,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-11T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "+",
-        "mammarySystem": "+",
-        "finalScore": 83,
-        "isPermanent": false,
-        "id": 286128
-      },
-      {
-        "lactationNumber": 3,
-        "appraisalDate": "2023-07-31T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 91,
-        "isPermanent": false,
-        "id": 304407
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M",
@@ -473,19 +392,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-10T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "E",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 285736
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [],
     "dateOfDeath": null
   },
@@ -502,19 +409,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-12T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "+",
-        "finalScore": 82,
-        "isPermanent": false,
-        "id": 285723
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M",
@@ -580,30 +475,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-10T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "+",
-        "mammarySystem": "V",
-        "finalScore": 85,
-        "isPermanent": false,
-        "id": 285533
-      },
-      {
-        "lactationNumber": 5,
-        "appraisalDate": "2024-06-13T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 86,
-        "isPermanent": true,
-        "id": 324084
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [],
     "dateOfDeath": null
   },
@@ -620,41 +492,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-11T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 285465
-      },
-      {
-        "lactationNumber": 3,
-        "appraisalDate": "2023-08-01T00:00:00",
-        "generalAppearance": "G",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 88,
-        "isPermanent": false,
-        "id": 303847
-      },
-      {
-        "lactationNumber": 4,
-        "appraisalDate": "2024-06-13T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 86,
-        "isPermanent": true,
-        "id": 324157
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [],
     "dateOfDeath": null
   },
@@ -688,41 +526,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2019-06-17T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "+",
-        "mammarySystem": "V",
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 269655
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-10T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 90,
-        "isPermanent": false,
-        "id": 285064
-      },
-      {
-        "lactationNumber": 6,
-        "appraisalDate": "2024-06-12T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 89,
-        "isPermanent": true,
-        "id": 324080
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -764,30 +568,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2019-06-17T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "E",
-        "bodyCapacity": "+",
-        "mammarySystem": null,
-        "finalScore": 84,
-        "isPermanent": false,
-        "id": 269984
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-10T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "E",
-        "bodyCapacity": "V",
-        "mammarySystem": " ",
-        "finalScore": 85,
-        "isPermanent": false,
-        "id": 284591
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*B",
@@ -811,41 +592,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2015-06-07T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 226603
-      },
-      {
-        "lactationNumber": 2,
-        "appraisalDate": "2016-06-09T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 238170
-      },
-      {
-        "lactationNumber": 3,
-        "appraisalDate": "2018-07-13T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 91,
-        "isPermanent": false,
-        "id": 260893
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M",
@@ -893,30 +640,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2014-08-16T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": null,
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 223843
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2015-06-07T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": null,
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 226600
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "+B (AR)",
@@ -946,41 +670,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-11T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "E",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 286246
-      },
-      {
-        "lactationNumber": 3,
-        "appraisalDate": "2023-07-27T00:00:00",
-        "generalAppearance": "G",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 304599
-      },
-      {
-        "lactationNumber": 4,
-        "appraisalDate": "2024-06-13T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "E",
-        "finalScore": 89,
-        "isPermanent": false,
-        "id": 324156
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M",
@@ -1046,30 +736,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-10T00:00:00",
-        "generalAppearance": "E",
-        "dairyStrength": "E",
-        "bodyCapacity": "V",
-        "mammarySystem": "E",
-        "finalScore": 89,
-        "isPermanent": false,
-        "id": 285532
-      },
-      {
-        "lactationNumber": 4,
-        "appraisalDate": "2024-06-12T00:00:00",
-        "generalAppearance": "E",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 90,
-        "isPermanent": false,
-        "id": 329006
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "CH",
@@ -1093,19 +760,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-12T00:00:00",
-        "generalAppearance": "A",
-        "dairyStrength": "+",
-        "bodyCapacity": "A",
-        "mammarySystem": "+",
-        "finalScore": 76,
-        "isPermanent": false,
-        "id": 285454
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [],
     "dateOfDeath": null
   },
@@ -1200,30 +855,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-11T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "+",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 284939
-      },
-      {
-        "lactationNumber": 3,
-        "appraisalDate": "2023-07-31T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 88,
-        "isPermanent": true,
-        "id": 303461
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M",
@@ -1259,52 +891,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2019-06-18T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "E",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 85,
-        "isPermanent": false,
-        "id": 276021
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-11T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 284938
-      },
-      {
-        "lactationNumber": 5,
-        "appraisalDate": "2023-07-31T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 89,
-        "isPermanent": false,
-        "id": 303460
-      },
-      {
-        "lactationNumber": 6,
-        "appraisalDate": "2024-06-13T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 89,
-        "isPermanent": true,
-        "id": 324106
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M",
@@ -1399,41 +986,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2019-06-17T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 85,
-        "isPermanent": false,
-        "id": 269654
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-11T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 88,
-        "isPermanent": false,
-        "id": 284888
-      },
-      {
-        "lactationNumber": 5,
-        "appraisalDate": "2023-07-31T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 90,
-        "isPermanent": true,
-        "id": 303424
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M",
@@ -1475,30 +1028,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2018-10-05T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "+",
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 264138
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2022-10-18T00:00:00",
-        "generalAppearance": "E",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": true,
-        "id": 292569
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M",
@@ -1540,19 +1070,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2019-06-20T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "E",
-        "bodyCapacity": "V",
-        "mammarySystem": null,
-        "finalScore": 85,
-        "isPermanent": false,
-        "id": 270776
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "+B (AR)",
@@ -1582,41 +1100,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-09-29T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "A",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 284609
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2023-06-21T00:00:00",
-        "generalAppearance": "g",
-        "dairyStrength": "g",
-        "bodyCapacity": "v",
-        "mammarySystem": "v",
-        "finalScore": 85,
-        "isPermanent": false,
-        "id": 303238
-      },
-      {
-        "lactationNumber": 6,
-        "appraisalDate": "2024-09-26T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 88,
-        "isPermanent": true,
-        "id": 327449
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -1670,41 +1154,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2018-07-20T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 261907
-      },
-      {
-        "lactationNumber": 2,
-        "appraisalDate": "2019-06-17T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 269653
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2022-04-08T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "G",
-        "finalScore": 85,
-        "isPermanent": true,
-        "id": 292475
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M",
@@ -1740,19 +1190,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2018-07-20T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "+",
-        "mammarySystem": null,
-        "finalScore": 84,
-        "isPermanent": false,
-        "id": 260609
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "+B (ST)",
@@ -1788,30 +1226,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2019-06-17T00:00:00",
-        "generalAppearance": "E",
-        "dairyStrength": "E",
-        "bodyCapacity": "V",
-        "mammarySystem": "E",
-        "finalScore": 89,
-        "isPermanent": false,
-        "id": 269783
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-10T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 91,
-        "isPermanent": false,
-        "id": 284588
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "GCH",
@@ -1847,52 +1262,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2018-07-20T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "+",
-        "finalScore": 84,
-        "isPermanent": false,
-        "id": 260606
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2019-06-18T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "E",
-        "finalScore": 88,
-        "isPermanent": false,
-        "id": 270344
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-11T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 284587
-      },
-      {
-        "lactationNumber": 6,
-        "appraisalDate": "2023-07-31T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 90,
-        "isPermanent": true,
-        "id": 303227
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -2000,41 +1370,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2017-06-07T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "+",
-        "finalScore": 83,
-        "isPermanent": false,
-        "id": 250348
-      },
-      {
-        "lactationNumber": 2,
-        "appraisalDate": "2018-07-20T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "E",
-        "finalScore": 88,
-        "isPermanent": false,
-        "id": 260685
-      },
-      {
-        "lactationNumber": 3,
-        "appraisalDate": "2019-06-17T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 88,
-        "isPermanent": false,
-        "id": 269782
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -2082,30 +1418,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": {},
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2018-07-20T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 89,
-        "isPermanent": false,
-        "id": 261906
-      },
-      {
-        "lactationNumber": 2,
-        "appraisalDate": "2019-06-17T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 90,
-        "isPermanent": false,
-        "id": 269652
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "GCH",
@@ -2153,41 +1466,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": {},
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2017-06-19T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "+",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 84,
-        "isPermanent": false,
-        "id": 250654
-      },
-      {
-        "lactationNumber": 2,
-        "appraisalDate": "2018-08-04T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 89,
-        "isPermanent": false,
-        "id": 262740
-      },
-      {
-        "lactationNumber": 3,
-        "appraisalDate": "2019-06-20T00:00:00",
-        "generalAppearance": "A",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 270772
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -2235,30 +1514,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": {},
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2016-09-01T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": null,
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 244928
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2018-07-20T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "E",
-        "bodyCapacity": "V",
-        "mammarySystem": null,
-        "finalScore": 84,
-        "isPermanent": false,
-        "id": 260600
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*B",
@@ -2282,41 +1538,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": {},
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2016-05-26T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 85,
-        "isPermanent": false,
-        "id": 237676
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2017-06-08T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 90,
-        "isPermanent": false,
-        "id": 248625
-      },
-      {
-        "lactationNumber": 4,
-        "appraisalDate": "2019-04-16T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 91,
-        "isPermanent": false,
-        "id": 267256
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -2394,52 +1616,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": {},
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2016-09-01T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 88,
-        "isPermanent": false,
-        "id": 244920
-      },
-      {
-        "lactationNumber": 2,
-        "appraisalDate": "2017-06-07T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 89,
-        "isPermanent": false,
-        "id": 250473
-      },
-      {
-        "lactationNumber": 3,
-        "appraisalDate": "2018-07-20T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 90,
-        "isPermanent": false,
-        "id": 260595
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2019-06-18T00:00:00",
-        "generalAppearance": "E",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 91,
-        "isPermanent": true,
-        "id": 270339
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M (ST)",
@@ -2511,30 +1688,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": {},
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2015-06-16T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "+",
-        "finalScore": 83,
-        "isPermanent": false,
-        "id": 227698
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-12T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 87,
-        "isPermanent": true,
-        "id": 284256
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M",
@@ -2618,19 +1772,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": {},
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2014-08-16T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": null,
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 220455
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "+B (AR)",
@@ -2660,52 +1802,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": {},
-    "linearAppraisals": [
-      {
-        "lactationNumber": 2,
-        "appraisalDate": "2014-08-16T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 220447
-      },
-      {
-        "lactationNumber": 3,
-        "appraisalDate": "2016-06-09T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "+",
-        "finalScore": 85,
-        "isPermanent": false,
-        "id": 238164
-      },
-      {
-        "lactationNumber": 4,
-        "appraisalDate": "2017-06-12T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 249627
-      },
-      {
-        "lactationNumber": 7,
-        "appraisalDate": "2018-07-13T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 88,
-        "isPermanent": true,
-        "id": 260889
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "SGCH",
@@ -2778,30 +1875,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": {},
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2012-08-15T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "+",
-        "mammarySystem": null,
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 201459
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2013-07-25T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": null,
-        "finalScore": 88,
-        "isPermanent": false,
-        "id": 208622
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "++B (AR)",
@@ -2855,30 +1929,7 @@
     },
     "colorAndMarking": "",
     "animalTattoo": {},
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2012-08-15T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 201447
-      },
-      {
-        "lactationNumber": 2,
-        "appraisalDate": "2013-07-25T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "E",
-        "bodyCapacity": "V",
-        "mammarySystem": "+",
-        "finalScore": 84,
-        "isPermanent": false,
-        "id": 208606
-      }
-    ],
+    "linearAppraisals": [],
     "awards": [
       {
         "awardCode": "*M (ST)",
