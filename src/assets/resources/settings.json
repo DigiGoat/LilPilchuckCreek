@@ -1,1 +1,15 @@
-{}
+{
+  "analytics": {
+    "gtag": "G-MGXLCR5HYS",
+    "clarity": "ng4ccmnim4"
+  },
+  "firebase": {
+    "projectId": "lilpilchuckcreek",
+    "apiKey": "AIzaSyD8q-NrOm_K8KL35LXBQ-fqESG4xcyXw3Y",
+    "authDomain": "lilpilchuckcreek.firebaseapp.com",
+    "storageBucket": "lilpilchuckcreek.firebasestorage.app",
+    "messagingSenderId": "1058270437322",
+    "appId": "1:1058270437322:web:4b1eb7bd67e6db8db93933"
+  },
+  "url": "https://lilpilchuckcreek.org/"
+}
