@@ -1085,5 +1085,19 @@
     "usdaId": "NDUSA000002458101",
     "usdaKey": 2183959,
     "lactationRecords": []
+  },
+  {
+    "name": "Hetlandcreek ILM Star Magnolia",
+    "dateOfBirth": "2018-05-13T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD1956973",
+    "id": 1749308,
+    "sex": "Female",
+    "damId": 1644246,
+    "sireId": 1466770,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": ""
   }
 ]
