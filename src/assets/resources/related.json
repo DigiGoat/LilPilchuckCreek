@@ -822,6 +822,54 @@
     "dateOfDeath": null
   },
   {
+    "name": "Hetlandcreek Sharp Dressed Man",
+    "dateOfBirth": "2017-04-03T00:00:00",
+    "normalizeId": "PD1851930",
+    "id": 1644245,
+    "sex": "Male",
+    "damId": 1410083,
+    "sireId": 1466770,
+    "ownerAccount": {
+      "displayName": "Kristine Struve-Hagan"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "+",
+        "mammarySystem": null,
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 260609
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ],
+    "dateOfDeath": null
+  },
+  {
     "name": "Stayawhile HC Forged Steel",
     "dateOfBirth": "2017-02-03T00:00:00",
     "normalizeId": "PD1851708",
@@ -867,6 +915,77 @@
       }
     ],
     "dateOfDeath": "2025-06-01T14:02:02"
+  },
+  {
+    "name": "GCH Hetlandcreek HB Swan Harmonica",
+    "dateOfBirth": "2016-03-15T00:00:00",
+    "normalizeId": "PD1772229",
+    "id": 1564444,
+    "sex": "Female",
+    "damId": 1345760,
+    "sireId": 1438166,
+    "ownerAccount": {
+      "displayName": "Trenne Earl"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2019-06-17T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 269652
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 261906
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Butterfat)",
+        "awardYear": 2018,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2018,
+        "awardCount": 6
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Protein)",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Alethia ET I'M A Love Machine",
@@ -1764,54 +1883,6 @@
     "dateOfDeath": null
   },
   {
-    "name": "Hetlandcreek Sharp Dressed Man",
-    "dateOfBirth": "2017-04-03T00:00:00",
-    "normalizeId": "PD1851930",
-    "id": 1644245,
-    "sex": "Male",
-    "damId": 1410083,
-    "sireId": 1466770,
-    "ownerAccount": {
-      "displayName": "Kristine Struve-Hagan"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2018-07-20T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "+",
-        "mammarySystem": null,
-        "finalScore": 84,
-        "isPermanent": false,
-        "id": 260609
-      }
-    ],
-    "awards": [
-      {
-        "awardCode": "+B (ST)",
-        "awardDescription": "1 AR Buck And 2 AR/ST Does",
-        "awardYear": 2021,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2020,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "+B (AR)",
-        "awardDescription": "3 AR Does - Different Dams",
-        "awardYear": 2020,
-        "awardCount": 1
-      }
-    ],
-    "dateOfDeath": null
-  },
-  {
     "name": "GCH Almar Acres RK Idaho Girl",
     "dateOfBirth": "2017-03-04T00:00:00",
     "normalizeId": "PD1851421",
@@ -2011,7 +2082,7 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [],
     "awards": [
       {
@@ -2099,77 +2170,6 @@
       {
         "awardCode": "*M (ST)",
         "awardDescription": "*Milker Owner Sample (Milk)",
-        "awardYear": 2018,
-        "awardCount": 1
-      }
-    ],
-    "dateOfDeath": null
-  },
-  {
-    "name": "GCH Hetlandcreek HB Swan Harmonica",
-    "dateOfBirth": "2016-03-15T00:00:00",
-    "normalizeId": "PD1772229",
-    "id": 1564444,
-    "sex": "Female",
-    "damId": 1345760,
-    "sireId": 1438166,
-    "ownerAccount": {
-      "displayName": "Trenne Earl"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": {},
-    "linearAppraisals": [
-      {
-        "lactationNumber": 2,
-        "appraisalDate": "2019-06-17T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 90,
-        "isPermanent": false,
-        "id": 269652
-      },
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2018-07-20T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 89,
-        "isPermanent": false,
-        "id": 261906
-      }
-    ],
-    "awards": [
-      {
-        "awardCode": "GCH",
-        "awardDescription": "Grand Champion",
-        "awardYear": 2019,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "CH",
-        "awardDescription": "Champion",
-        "awardYear": 2019,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Butterfat)",
-        "awardYear": 2018,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2018,
-        "awardCount": 6
-      },
-      {
-        "awardCode": "*M (ST)",
-        "awardDescription": "*Milker Owner Sample (Protein)",
         "awardYear": 2018,
         "awardCount": 1
       }
@@ -2713,6 +2713,70 @@
     "dateOfDeath": null
   },
   {
+    "name": "Poppy Patch HB Honey Bear",
+    "dateOfBirth": "2013-04-22T00:00:00",
+    "dateOfDeath": "2022-02-12T11:11:54",
+    "normalizeId": "PD1646227",
+    "id": 1438166,
+    "sex": "Male",
+    "damId": 1315503,
+    "sireId": 1270743,
+    "ownerAccount": {
+      "displayName": "Dixie Davis"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-09-01T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 244915
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-06-02T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "+",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 226640
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-08-23T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 84,
+        "isPermanent": false,
+        "id": 220185
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2017,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
     "name": "Fuji Farm ATS MI Incentivo",
     "dateOfBirth": "2013-04-07T00:00:00",
     "dateOfDeath": null,
@@ -2750,6 +2814,71 @@
         "awardCode": "+B (ST)",
         "awardDescription": "1 AR Buck And 2 AR/ST Does",
         "awardYear": 2018,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "Algedi Farm CK Seirene Song",
+    "dateOfBirth": "2012-05-18T00:00:00",
+    "dateOfDeath": "2018-03-11T00:00:00",
+    "normalizeId": "PD1618182",
+    "id": 1410083,
+    "sex": "Female",
+    "damId": 1197712,
+    "sireId": 1314577,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2015-06-02T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 226590
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2014-08-23T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 220213
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2014,
+        "awardCount": 6
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2014,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2014,
         "awardCount": 1
       }
     ]
@@ -3092,6 +3221,99 @@
         "awardCode": "*B",
         "awardDescription": "*Buck",
         "awardYear": 2011,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "GCH Algedi Farm DJ Melodica",
+    "dateOfBirth": "2011-04-30T00:00:00",
+    "dateOfDeath": "2019-07-02T00:00:00",
+    "normalizeId": "PD1553971",
+    "id": 1345760,
+    "sex": "Female",
+    "damId": 1231758,
+    "sireId": 1148220,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": 5,
+        "appraisalDate": "2018-07-20T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": true,
+        "id": 261903
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2016-09-01T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 244870
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-06-02T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 226589
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2014-08-23T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "A",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 220212
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2015,
+        "awardCount": 5
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2015,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2015,
         "awardCount": 1
       }
     ]
