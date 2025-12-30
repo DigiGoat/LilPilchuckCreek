@@ -134,5 +134,19 @@
       }
     ],
     "nickname": "Jewel"
+  },
+  {
+    "name": "Hetlandcreek ZZ Shooting Star",
+    "dateOfBirth": "2019-04-06T00:00:00",
+    "dateOfDeath": null,
+    "normalizeId": "PD2016365",
+    "id": 1808722,
+    "sex": "Male",
+    "damId": 1564444,
+    "sireId": 1644245,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": ""
   }
 ]
