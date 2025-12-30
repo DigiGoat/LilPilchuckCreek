@@ -147,6 +147,23 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Buckskin With Minimal White",
+    "animalTattoo": {
+      "0": {
+        "tattoo": "L2",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2018,
+        "awardCount": 1
+      }
+    ]
   }
 ]
