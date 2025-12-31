@@ -93,7 +93,7 @@
     "lactationRecords": [
       {
         "startDate": "2019-05-07",
-        "isCurrent": false,
+        "isCurrent": true,
         "lactationNumber": "1",
         "daysInMilk": "31",
         "stats": {
