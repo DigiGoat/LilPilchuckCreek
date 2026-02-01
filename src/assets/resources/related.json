@@ -568,7 +568,7 @@
     "dateOfDeath": null
   },
   {
-    "name": "Highland Ranch AD Cascade Fern",
+    "name": "CH Highland Ranch AD Cascade Fern",
     "dateOfBirth": "2019-03-05T00:00:00",
     "normalizeId": "PD2020385",
     "id": 1812739,
@@ -604,7 +604,14 @@
         "id": 285533
       }
     ],
-    "awards": [],
+    "awards": [
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2024,
+        "awardCount": 1
+      }
+    ],
     "dateOfDeath": null
   },
   {
