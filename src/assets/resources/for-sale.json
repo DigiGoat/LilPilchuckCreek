@@ -17,6 +17,11 @@
     "sireId": "PD2016365"
   },
   {
-    "name": "Maggie Buck 3"
+    "name": "Maggie Buck 3",
+    "dateOfBirth": "3/12/2026",
+    "sex": "Male",
+    "pet": true,
+    "damId": "PD1956973",
+    "sireId": "PD2016365"
   }
 ]
