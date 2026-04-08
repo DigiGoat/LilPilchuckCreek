@@ -25,7 +25,10 @@
     "sireId": "PD2016365"
   },
   {
-    "name": "Fiona Doe 1"
+    "name": "Fiona Doe 1",
+    "dateOfBirth": "3/6/2026",
+    "damId": "PD2390049",
+    "sireId": "PD2401466"
   },
   {
     "name": "Fiona Doe 2"
