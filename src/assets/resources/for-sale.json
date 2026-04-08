@@ -83,7 +83,10 @@
     "sireId": "PD2131517"
   },
   {
-    "name": "Millie Doe 3"
+    "name": "Millie Doe 3",
+    "dateOfBirth": "4/5/2026",
+    "damId": "PD2314269",
+    "sireId": "PD2131517"
   },
   {
     "name": "Millie Buck 1"
