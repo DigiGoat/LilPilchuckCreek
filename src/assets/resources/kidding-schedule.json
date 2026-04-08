@@ -4,7 +4,8 @@
     "sire": "PD2401466",
     "exposed": "10/16/2025",
     "due": "March 10, 2026",
-    "description": "**Ultrasound: 3**"
+    "description": "**Ultrasound: 3**\n### Kidded\n* 2 Bucks\n* 2 Does",
+    "kidded": "March 10, 2026"
   },
   {
     "dam": "PD2332175",
@@ -18,27 +19,29 @@
     "sire": "PD2401466",
     "exposed": "10/10/2025",
     "due": "March 3, 2026",
-    "description": "**Ultrasound: 3**"
+    "description": "**Ultrasound: 3**\n### Kidded\n* 2 Does\n* 1 Buck",
+    "kidded": "March 6, 2026"
   },
   {
     "dam": "PD2390050",
     "sire": "PD2401466",
     "exposed": "11/11/2025",
     "due": "April 5, 2026",
-    "description": "**Ultrasound: 4**"
+    "description": "**Ultrasound: 4**\n## Kidded\n* 3 Does\n* 1 Buck"
   },
   {
     "dam": "PD2314269",
     "exposed": "11/11/2025",
     "due": "April 5, 2026",
     "sire": "PD2131517",
-    "description": "**Ultrasound: 3-4**"
+    "description": "**Ultrasound: 3-4**\n### Kidded\n* 3 Does\n* 1 Buck",
+    "kidded": "April 5, 2026"
   },
   {
     "dam": "PD1956973",
     "sire": "PD2016365",
     "exposed": "10/16/2024",
     "due": "March 10, 2025",
-    "description": "**Ultrasound: 3-5**"
+    "description": "**Ultrasound: 3-5**\n\n### Kidded\n* 3 Bucks"
   }
 ]
