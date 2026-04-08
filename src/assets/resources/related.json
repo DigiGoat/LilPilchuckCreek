@@ -1,5 +1,22 @@
 [
   {
+    "name": "Highland Ranch VP Winslow",
+    "dateOfBirth": "2024-05-04T18:03:06",
+    "normalizeId": "PD2401466",
+    "id": 2401466,
+    "sex": "Male",
+    "damId": 1834015,
+    "sireId": 1894947,
+    "ownerAccount": {
+      "displayName": "Kolton Bloom"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [],
+    "awards": [],
+    "dateOfDeath": null
+  },
+  {
     "name": "Long Acres Farm Red Hot Magma",
     "dateOfBirth": "2024-04-08T12:42:55",
     "normalizeId": "PD2396439",
@@ -21,6 +38,40 @@
         "awardCount": 1
       }
     ],
+    "dateOfDeath": null
+  },
+  {
+    "name": "Lil Pilchuck AS Frosty Blizard",
+    "dateOfBirth": "2024-05-19T18:34:32",
+    "normalizeId": "PD2390050",
+    "id": 2390050,
+    "sex": "Female",
+    "damId": 2315360,
+    "sireId": 1924035,
+    "ownerAccount": {
+      "displayName": "Kolton Bloom"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [],
+    "awards": [],
+    "dateOfDeath": null
+  },
+  {
+    "name": "Lil Pilchuck AS Princess Fiona",
+    "dateOfBirth": "2024-03-21T18:25:47",
+    "normalizeId": "PD2390049",
+    "id": 2390049,
+    "sex": "Female",
+    "damId": 2174259,
+    "sireId": 1924035,
+    "ownerAccount": {
+      "displayName": "Kolton Bloom"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [],
+    "awards": [],
     "dateOfDeath": null
   },
   {
@@ -66,6 +117,52 @@
         "id": 324082
       }
     ],
+    "awards": [],
+    "dateOfDeath": null
+  },
+  {
+    "name": "Smiling Goat Farm Foggy Mtntop",
+    "dateOfBirth": "2023-04-28T07:33:12",
+    "normalizeId": "PD2314269",
+    "id": 2314269,
+    "sex": "Female",
+    "damId": 1812739,
+    "sireId": 1644023,
+    "ownerAccount": {
+      "displayName": "Kolton Bloom"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2024-06-13T00:00:00",
+        "generalAppearance": "A",
+        "dairyStrength": "G",
+        "bodyCapacity": "G",
+        "mammarySystem": "G",
+        "finalScore": 81,
+        "isPermanent": false,
+        "id": 324085
+      }
+    ],
+    "awards": [],
+    "dateOfDeath": null
+  },
+  {
+    "name": "Little RedHouse Zayushka",
+    "dateOfBirth": "2023-03-09T16:28:33",
+    "normalizeId": "PD2293424",
+    "id": 2293424,
+    "sex": "Female",
+    "damId": 2168575,
+    "sireId": 2157990,
+    "ownerAccount": {
+      "displayName": "Kolton Bloom"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [],
     "awards": [],
     "dateOfDeath": null
   },
@@ -1783,7 +1880,7 @@
       "displayName": "Courtney Boyer"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -1825,7 +1922,7 @@
       "displayName": "Amy York"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": 6,
@@ -1913,7 +2010,7 @@
       "displayName": "Elianna Mielbrecht"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -1972,7 +2069,7 @@
       "displayName": "Kristine Struve-Hagan"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": 6,
@@ -2059,7 +2156,7 @@
       "displayName": "Belinda Cardinal"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [],
     "awards": [
       {
@@ -2305,6 +2402,7 @@
   {
     "name": "Camanna RA Uliana",
     "dateOfBirth": "2015-03-17T00:00:00",
+    "dateOfDeath": null,
     "normalizeId": "PD1730236",
     "id": 1522367,
     "sex": "Female",
@@ -2381,12 +2479,12 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": null
+    ]
   },
   {
     "name": "Leisure Time GL Satyr ",
     "dateOfBirth": "2015-04-15T00:00:00",
+    "dateOfDeath": null,
     "normalizeId": "PD1725045",
     "id": 1517170,
     "sex": "Male",
@@ -2428,12 +2526,12 @@
         "awardYear": 2019,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": null
+    ]
   },
   {
     "name": "SGCH Joyful Hearts KR Phoebe",
     "dateOfBirth": "2015-01-03T00:00:00",
+    "dateOfDeath": "2023-01-03T13:31:27",
     "normalizeId": "PD1711454",
     "id": 1503562,
     "sex": "Female",
@@ -2540,12 +2638,12 @@
         "awardYear": 2016,
         "awardCount": 2
       }
-    ],
-    "dateOfDeath": "2023-01-03T13:31:27"
+    ]
   },
   {
     "name": "SGCH Leisure Time TW Silver Joy",
     "dateOfBirth": "2014-06-02T00:00:00",
+    "dateOfDeath": null,
     "normalizeId": "PD1695216",
     "id": 1487302,
     "sex": "Female",
@@ -2657,12 +2755,12 @@
         "awardYear": 2016,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": null
+    ]
   },
   {
     "name": "SG 5 Fold Farm CC Ginger Snap",
     "dateOfBirth": "2014-04-11T00:00:00",
+    "dateOfDeath": null,
     "normalizeId": "PD1686232",
     "id": 1478293,
     "sex": "Female",
@@ -2728,8 +2826,7 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": null
+    ]
   },
   {
     "name": "Poppy Patch HB Honey Bear",
