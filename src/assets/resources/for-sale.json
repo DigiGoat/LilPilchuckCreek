@@ -45,6 +45,11 @@
     "sireId": "PD2401466"
   },
   {
-    "name": "Zaya Buck 1"
+    "name": "Zaya Buck 1",
+    "dateOfBirth": "3/10/2026",
+    "sex": "Male",
+    "pet": true,
+    "damId": "PD2293424",
+    "sireId": "PD2401466"
   }
 ]
