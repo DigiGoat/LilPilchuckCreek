@@ -89,6 +89,11 @@
     "sireId": "PD2131517"
   },
   {
-    "name": "Millie Buck 1"
+    "name": "Millie Buck 1",
+    "dateOfBirth": "4/5/2026",
+    "sex": "Male",
+    "pet": true,
+    "damId": "PD2314269",
+    "sireId": "PD2131517"
   }
 ]
