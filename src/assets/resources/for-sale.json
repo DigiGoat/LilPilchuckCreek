@@ -53,7 +53,10 @@
     "sireId": "PD2401466"
   },
   {
-    "name": "Frost Doe 1"
+    "name": "Frost Doe 1",
+    "damId": "PD2390050",
+    "sireId": "PD2401466",
+    "dateOfBirth": "4/5/2026"
   },
   {
     "name": "Frost Doe 2"
