@@ -37,6 +37,11 @@
     "sireId": "PD2401466"
   },
   {
-    "name": "Fiona Buck 1"
+    "name": "Fiona Buck 1",
+    "dateOfBirth": "3/3/2026",
+    "sex": "Male",
+    "pet": true,
+    "damId": "PD2390049",
+    "sireId": "PD2401466"
   }
 ]
