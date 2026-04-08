@@ -49,7 +49,7 @@
     "damId": 2161423,
     "sireId": 2242886,
     "ownerAccount": {
-      "displayName": "Kolton Bloom"
+      "displayName": "Ashby Roth"
     },
     "colorAndMarking": "",
     "animalTattoo": [],
@@ -691,7 +691,7 @@
     "damId": 1644246,
     "sireId": 1466770,
     "ownerAccount": {
-      "displayName": "Long Acres Farm"
+      "displayName": "Kolton Bloom"
     },
     "colorAndMarking": "",
     "animalTattoo": [],
@@ -1402,7 +1402,19 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2025-06-14T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 86,
+        "isPermanent": true,
+        "id": 329144
+      }
+    ],
     "awards": [
       {
         "awardCode": "+B (AR)",
