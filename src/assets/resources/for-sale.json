@@ -1,6 +1,11 @@
 [
   {
-    "name": "Maggie Buck 1"
+    "name": "Maggie Buck 1",
+    "dateOfBirth": "3/12/2026",
+    "sex": "Male",
+    "pet": true,
+    "damId": "PD1956973",
+    "sireId": "PD2016365"
   },
   {
     "name": "Maggie Buck 2"
