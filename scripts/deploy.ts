@@ -21,7 +21,7 @@ const log = {
 
 const config: Record<string, string | Record<string, string | Record<string, string>>> = JSON.parse(readFileSync(join(__dirname, '../src/assets/resources/config.json'), 'utf-8'));
 const settings: Settings = JSON.parse(readFileSync(join(__dirname, '../src/assets/resources/settings.json'), 'utf-8'));
-const customPages: { title: string; content: string }[] = JSON.parse(readFileSync(join(__dirname, '../src/assets/resources/custom-pages.json'), 'utf-8'));
+const customPages: { title: string; content: string; }[] = JSON.parse(readFileSync(join(__dirname, '../src/assets/resources/custom-pages.json'), 'utf-8'));
 if (ci) {
   log.info('Applying Settings To Config...');
   if (process.env['GITHUB_OUTPUT'] && settings.firebase?.projectId) {
@@ -258,7 +258,9 @@ function build() {
   log.debug('Compiling Project');
   const base = url?.pathname;
   try {
-    execSync(`yarn build ${base ? `--base-href ${base}${base.endsWith('/') ? '' : '/'}` : ''}`);
+    execSync(`yarn build ${base ? `--base-href ${base}${base.endsWith('/') ? '' : '/'}` : ''}`, {
+      maxBuffer: 10 * 1024 * 1024, // Increase buffer size from 1MB to 10MB to handle large build output
+    });
   } catch (error) {
     log.error('Failed to Compile Project:', error, (error as Record<string, string>).stderr.toString());
     process.exit(1);

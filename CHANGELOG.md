@@ -1,3 +1,6 @@
+## 7.1.1-beta.1
+* Fixed a bug causing deploys to fail if there were too many goats
+
 ## 7.1.0-beta.1
 * Added the ability to restrict images to only be viewed in the US
 
