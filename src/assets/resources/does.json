@@ -432,6 +432,36 @@
             "daysInMilk": "180"
           }
         ]
+      },
+      {
+        "startDate": "2026-03-12",
+        "isCurrent": true,
+        "lactationNumber": "7",
+        "daysInMilk": "39",
+        "stats": {
+          "milk": {
+            "achieved": "130",
+            "projected": "1179"
+          },
+          "butterfat": {
+            "achieved": "9",
+            "projected": "69"
+          },
+          "protein": {
+            "achieved": "5",
+            "projected": "42"
+          }
+        },
+        "tests": [
+          {
+            "testNumber": 1,
+            "testDate": "2026-04-19",
+            "milk": "3.7",
+            "butterfatPct": "6.0",
+            "proteinPct": "3.7",
+            "daysInMilk": "39"
+          }
+        ]
       }
     ]
   },
@@ -874,6 +904,36 @@
             "daysInMilk": "224"
           }
         ]
+      },
+      {
+        "startDate": "2026-03-10",
+        "isCurrent": true,
+        "lactationNumber": "2",
+        "daysInMilk": "41",
+        "stats": {
+          "milk": {
+            "achieved": "140",
+            "projected": "1214"
+          },
+          "butterfat": {
+            "achieved": "9",
+            "projected": "70"
+          },
+          "protein": {
+            "achieved": "6",
+            "projected": "45"
+          }
+        },
+        "tests": [
+          {
+            "testNumber": 1,
+            "testDate": "2026-04-19",
+            "milk": "3.8",
+            "butterfatPct": "5.7",
+            "proteinPct": "4.0",
+            "daysInMilk": "41"
+          }
+        ]
       }
     ]
   },
@@ -1170,7 +1230,38 @@
     "dateOfDeath": null,
     "usdaId": "NDUSA000002390049",
     "usdaKey": 2118742,
-    "lactationRecords": []
+    "lactationRecords": [
+      {
+        "startDate": "2026-03-06",
+        "isCurrent": true,
+        "lactationNumber": "1",
+        "daysInMilk": "45",
+        "stats": {
+          "milk": {
+            "achieved": "190",
+            "projected": "1435"
+          },
+          "butterfat": {
+            "achieved": "12",
+            "projected": "82"
+          },
+          "protein": {
+            "achieved": "7",
+            "projected": "50"
+          }
+        },
+        "tests": [
+          {
+            "testNumber": 1,
+            "testDate": "2026-04-19",
+            "milk": "4.7",
+            "butterfatPct": "6.0",
+            "proteinPct": "3.6",
+            "daysInMilk": "45"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Lil Pilchuck AS Frosty Blizard",
@@ -1205,7 +1296,38 @@
     "dateOfDeath": null,
     "usdaId": "NDUSA000002390050",
     "usdaKey": 2118743,
-    "lactationRecords": []
+    "lactationRecords": [
+      {
+        "startDate": "2026-04-05",
+        "isCurrent": true,
+        "lactationNumber": "1",
+        "daysInMilk": "15",
+        "stats": {
+          "milk": {
+            "achieved": "50",
+            "projected": "1504"
+          },
+          "butterfat": {
+            "achieved": "3",
+            "projected": "77"
+          },
+          "protein": {
+            "achieved": "2",
+            "projected": "54"
+          }
+        },
+        "tests": [
+          {
+            "testNumber": 1,
+            "testDate": "2026-04-19",
+            "milk": "4.4",
+            "butterfatPct": "5.8",
+            "proteinPct": "4.0",
+            "daysInMilk": "15"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Lil Pilchuck HM Expialidocious",
