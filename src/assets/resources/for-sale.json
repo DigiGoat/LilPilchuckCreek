@@ -50,7 +50,9 @@
     "sex": "Male",
     "pet": true,
     "damId": "PD2390049",
-    "sireId": "PD2401466"
+    "sireId": "PD2401466",
+    "colorAndMarking": "Buckskin with extensive white",
+    "price": "PENDING"
   },
   {
     "name": "Zaya Buck 1",
