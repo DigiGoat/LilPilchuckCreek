@@ -93,7 +93,9 @@
     "name": "Millie Doe 2",
     "dateOfBirth": "4/5/2026",
     "damId": "PD2314269",
-    "sireId": "PD2131517"
+    "sireId": "PD2131517",
+    "price": "PENDING",
+    "pet": true
   },
   {
     "name": "Millie Doe 3",
