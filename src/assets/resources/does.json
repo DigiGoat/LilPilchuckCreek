@@ -1443,38 +1443,5 @@
     "damId": "PD2293424",
     "sireId": "PD2401466",
     "sex": "Female"
-  },
-  {
-    "name": "Lil Pilchuck AS Tulipa Humilis",
-    "dateOfBirth": "2025-04-05T13:31:02",
-    "dateOfDeath": null,
-    "normalizeId": "PD2458103",
-    "id": 2458103,
-    "sex": "Female",
-    "damId": 2332175,
-    "sireId": 1924035,
-    "ownerAccount": {
-      "displayName": "Kolton Bloom"
-    },
-    "colorAndMarking": "Buckskin With Frosted Ears And White On Poll, Blue Eyes",
-    "animalTattoo": [
-      {
-        "tattoo": "BFFN",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      {
-        "tattoo": "T7",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    ],
-    "linearAppraisals": [],
-    "usdaId": "NDUSA000002458103",
-    "usdaKey": 2183961,
-    "lactationRecords": [],
-    "awards": []
   }
 ]
