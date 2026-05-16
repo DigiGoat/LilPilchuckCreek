@@ -121,7 +121,9 @@
     "nickname": "Bambi",
     "price": "RETAINED",
     "description": "Chamoisee with white on pole",
-    "dateOfBirth": ""
+    "dateOfBirth": "",
+    "damId": "PD2293424",
+    "sireId": "PD2401466"
   },
   {
     "name": "Beauty Doe 1",
