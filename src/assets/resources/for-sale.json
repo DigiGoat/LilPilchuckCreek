@@ -5,7 +5,8 @@
     "sex": "Male",
     "pet": true,
     "damId": "PD1956973",
-    "sireId": "PD2016365"
+    "sireId": "PD2016365",
+    "price": "SOLD"
   },
   {
     "name": "Maggie Buck 2",
