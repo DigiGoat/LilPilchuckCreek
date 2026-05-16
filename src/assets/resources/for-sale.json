@@ -60,7 +60,8 @@
     "sex": "Male",
     "pet": true,
     "damId": "PD2293424",
-    "sireId": "PD2401466"
+    "sireId": "PD2401466",
+    "price": "PENDING"
   },
   {
     "name": "Frost Doe 1",
