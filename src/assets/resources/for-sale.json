@@ -134,6 +134,10 @@
     "price": ""
   },
   {
-    "name": "Beauty Doe 2"
+    "name": "Beauty Doe 2",
+    "dateOfBirth": "April 21, 2026",
+    "colorAndMarking": "Chamoisee with abundant white",
+    "damId": "PD2332175",
+    "sireId": "PD2401466"
   }
 ]
