@@ -101,7 +101,10 @@
     "name": "Millie Doe 3",
     "dateOfBirth": "4/5/2026",
     "damId": "PD2314269",
-    "sireId": "PD2131517"
+    "sireId": "PD2131517",
+    "price": "PENDING",
+    "pet": true,
+    "colorAndMarking": "Buckskin with blue eyes"
   },
   {
     "name": "Millie Buck 1",
