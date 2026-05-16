@@ -124,7 +124,12 @@
     "dateOfBirth": ""
   },
   {
-    "name": "Beauty Doe 1"
+    "name": "Beauty Doe 1",
+    "dateOfBirth": "04/21/2026",
+    "colorAndMarking": "Black and white with blue eyes",
+    "damId": "PD2332175",
+    "sireId": "PD2401466",
+    "price": ""
   },
   {
     "name": "Beauty Doe 2"
