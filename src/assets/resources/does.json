@@ -1357,5 +1357,29 @@
     "damId": "PD2293424",
     "sireId": "PD2401466",
     "sex": "Female"
+  },
+  {
+    "name": "Lil Pilchuck Blonde Affogato",
+    "dateOfBirth": "2026-04-05T10:45:56",
+    "dateOfDeath": null,
+    "normalizeId": "PD2511270",
+    "id": 2511270,
+    "sex": "Female",
+    "damId": 2390050,
+    "sireId": 2401466,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [
+      {
+        "tattoo": "BFFN",
+        "tattooLocation": {}
+      },
+      {
+        "tattoo": "V14",
+        "tattooLocation": {}
+      }
+    ]
   }
 ]
