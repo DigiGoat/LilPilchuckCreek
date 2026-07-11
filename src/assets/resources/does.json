@@ -1368,19 +1368,27 @@
     "damId": 2390050,
     "sireId": 2401466,
     "ownerAccount": {
-      "displayName": ""
+      "displayName": "Kolton Bloom"
     },
-    "colorAndMarking": "",
+    "colorAndMarking": "Chamoisee With White On Poll",
     "animalTattoo": [
       {
         "tattoo": "BFFN",
-        "tattooLocation": {}
+        "tattooLocation": {
+          "name": "RE"
+        }
       },
       {
         "tattoo": "V14",
-        "tattooLocation": {}
+        "tattooLocation": {
+          "name": "LE"
+        }
       }
-    ]
+    ],
+    "nickname": "Blondie",
+    "description": "We weren't planning to keep a kid out of a first freshener this year ... and then Blondie was born. Blondie is long, level, and just catches the eye as she's on the move. Her dam, Frost, has also caught our attention peaking at 5.3 pounds of milk! Frost also has a beautiful first freshener udder with strong attachments and nice rear udder arch. Blondie will be participating in her first ADGA Show at Evergreen State Fair in August.",
+    "awards": [],
+    "linearAppraisals": []
   },
   {
     "name": "Lil Pilchuck Ahana Kumakaia",
