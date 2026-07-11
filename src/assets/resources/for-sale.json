@@ -1,14 +1,5 @@
 [
   {
-    "name": "Zaya Buck 1",
-    "dateOfBirth": "3/10/2026",
-    "sex": "Male",
-    "pet": true,
-    "damId": "PD2293424",
-    "sireId": "PD2401466",
-    "price": "PENDING"
-  },
-  {
     "name": "Frost Doe 1",
     "damId": "PD2390050",
     "sireId": "PD2401466",
