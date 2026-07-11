@@ -1400,18 +1400,26 @@
     "damId": 2332175,
     "sireId": 2401466,
     "ownerAccount": {
-      "displayName": ""
+      "displayName": "Kolton Bloom"
     },
-    "colorAndMarking": "",
+    "colorAndMarking": "Black With Random White",
     "animalTattoo": [
       {
         "tattoo": "BFFN",
-        "tattooLocation": {}
+        "tattooLocation": {
+          "name": "RE"
+        }
       },
       {
         "tattoo": "V16",
-        "tattooLocation": {}
+        "tattooLocation": {
+          "name": "LE"
+        }
       }
-    ]
+    ],
+    "nickname": "Kai",
+    "description": "Beauty gave us 2 very attractive doelings to choose from this year. Kai has stunning markings, but she is also wide and level. Kai's sister, Sunny, joined the Hanni Mountain Farm herd. Hopefully the sisters will be competing against each other in the show ring in 2027!",
+    "awards": [],
+    "linearAppraisals": []
   }
 ]
