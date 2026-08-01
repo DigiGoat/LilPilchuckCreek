@@ -9,17 +9,30 @@
     "damId": 1749308,
     "sireId": 1644023,
     "ownerAccount": {
-      "displayName": ""
+      "displayName": "Kolton Bloom"
     },
-    "colorAndMarking": "",
+    "colorAndMarking": "Buckskin w/ Poll & Minimal White",
     "animalTattoo": [
       {
         "tattoo": "1LAF",
-        "tattooLocation": {}
+        "tattooLocation": {
+          "name": "RE"
+        }
       },
       {
         "tattoo": "S24",
-        "tattooLocation": {}
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    ],
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2024,
+        "awardCount": 1
       }
     ]
   }
