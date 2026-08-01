@@ -530,7 +530,32 @@
         "id": 324083
       }
     ],
-    "awards": [],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2025,
+        "awardCount": 8
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2025,
+        "awardCount": 1
+      }
+    ],
     "dateOfDeath": null,
     "usdaId": "NDUSA000002174259",
     "usdaKey": 1913267,
@@ -745,7 +770,32 @@
       "displayName": "Kolton Bloom"
     },
     "linearAppraisals": [],
-    "awards": [],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2023,
+        "awardCount": 9
+      }
+    ],
     "dateOfDeath": null,
     "usdaId": "NDUSA000002293424",
     "usdaKey": 2045007,
@@ -930,7 +980,26 @@
     },
     "description": "Sky is like a puppy dog, just the sweetest and most affectionate goat in the pasture. Unfortunately, she ended up with a blown teat so she will just remain a pasture pet on the farm. ",
     "linearAppraisals": [],
-    "awards": [],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2025,
+        "awardCount": 1
+      }
+    ],
     "dateOfDeath": null,
     "usdaId": "NDUSA000002293211",
     "usdaKey": 2049237,
@@ -1060,7 +1129,32 @@
     },
     "description": "Our first goat to receive a leg, Beauty is developing to be a very promising goat. She not only won *Best Junior Doe* at the `Barn In The USA` show, but she also took *Reserve Junior Doe* in a ring the day before. She continues to place well, placing first in the 3 year old class under Kris Fraley at the NEWDGA show. Her udder is high and tight with beautiful rear udder arch. She obtained her milk star at a first freshener and is projected to produce >1100 pounds in 2026.",
     "linearAppraisals": [],
-    "awards": [],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2022,
+        "awardCount": 5
+      }
+    ],
     "dateOfDeath": null,
     "usdaId": "NDUSA000002332175",
     "usdaKey": 2072511,
