@@ -208,7 +208,26 @@
         "id": 324082
       }
     ],
-    "awards": [],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2022,
+        "awardCount": 7
+      }
+    ],
     "dateOfDeath": null,
     "usdaId": "NDUSA000002315360",
     "usdaKey": 2056127,
