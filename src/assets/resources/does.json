@@ -770,7 +770,32 @@
       "displayName": "Kolton Bloom"
     },
     "linearAppraisals": [],
-    "awards": [],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2023,
+        "awardCount": 9
+      }
+    ],
     "dateOfDeath": null,
     "usdaId": "NDUSA000002293424",
     "usdaKey": 2045007,
