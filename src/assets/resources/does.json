@@ -437,19 +437,19 @@
         "startDate": "2026-03-12",
         "isCurrent": true,
         "lactationNumber": "7",
-        "daysInMilk": "117",
+        "daysInMilk": "142",
         "stats": {
           "milk": {
-            "achieved": "360",
-            "projected": "786"
+            "achieved": "400",
+            "projected": "693"
           },
           "butterfat": {
-            "achieved": "22",
-            "projected": "51"
+            "achieved": "25",
+            "projected": "48"
           },
           "protein": {
-            "achieved": "14",
-            "projected": "31"
+            "achieved": "16",
+            "projected": "28"
           }
         },
         "tests": [
@@ -484,6 +484,14 @@
             "butterfatPct": "6.1",
             "proteinPct": "4.1",
             "daysInMilk": "117"
+          },
+          {
+            "testNumber": 5,
+            "testDate": "2026-07-31",
+            "milk": "1.5",
+            "butterfatPct": "8.2",
+            "proteinPct": "4.9",
+            "daysInMilk": "142"
           }
         ]
       }
@@ -898,19 +906,19 @@
         "startDate": "2026-03-10",
         "isCurrent": true,
         "lactationNumber": "2",
-        "daysInMilk": "119",
+        "daysInMilk": "144",
         "stats": {
           "milk": {
-            "achieved": "420",
-            "projected": "1030"
+            "achieved": "500",
+            "projected": "954"
           },
           "butterfat": {
-            "achieved": "25",
-            "projected": "65"
+            "achieved": "30",
+            "projected": "60"
           },
           "protein": {
-            "achieved": "18",
-            "projected": "43"
+            "achieved": "22",
+            "projected": "42"
           }
         },
         "tests": [
@@ -945,6 +953,14 @@
             "butterfatPct": "6.1",
             "proteinPct": "4.3",
             "daysInMilk": "119"
+          },
+          {
+            "testNumber": 5,
+            "testDate": "2026-07-31",
+            "milk": "2.8",
+            "butterfatPct": "6.1",
+            "proteinPct": "4.7",
+            "daysInMilk": "144"
           }
         ]
       }
@@ -1257,19 +1273,19 @@
         "startDate": "2026-04-21",
         "isCurrent": true,
         "lactationNumber": "2",
-        "daysInMilk": "77",
+        "daysInMilk": "102",
         "stats": {
           "milk": {
-            "achieved": "320",
-            "projected": "1187"
+            "achieved": "420",
+            "projected": "1064"
           },
           "butterfat": {
-            "achieved": "20",
-            "projected": "72"
+            "achieved": "26",
+            "projected": "69"
           },
           "protein": {
-            "achieved": "13",
-            "projected": "44"
+            "achieved": "17",
+            "projected": "43"
           }
         },
         "tests": [
@@ -1296,6 +1312,14 @@
             "butterfatPct": "6.1",
             "proteinPct": "3.7",
             "daysInMilk": "77"
+          },
+          {
+            "testNumber": 4,
+            "testDate": "2026-07-31",
+            "milk": "3.2",
+            "butterfatPct": "7.1",
+            "proteinPct": "4.6",
+            "daysInMilk": "102"
           }
         ]
       }
@@ -1339,19 +1363,19 @@
         "startDate": "2026-03-06",
         "isCurrent": true,
         "lactationNumber": "1",
-        "daysInMilk": "123",
+        "daysInMilk": "148",
         "stats": {
           "milk": {
-            "achieved": "510",
-            "projected": "1162"
+            "achieved": "590",
+            "projected": "1092"
           },
           "butterfat": {
-            "achieved": "32",
-            "projected": "72"
+            "achieved": "37",
+            "projected": "68"
           },
           "protein": {
-            "achieved": "20",
-            "projected": "46"
+            "achieved": "23",
+            "projected": "44"
           }
         },
         "tests": [
@@ -1386,6 +1410,14 @@
             "butterfatPct": "6.0",
             "proteinPct": "4.1",
             "daysInMilk": "123"
+          },
+          {
+            "testNumber": 5,
+            "testDate": "2026-07-31",
+            "milk": "3.1",
+            "butterfatPct": "6.0",
+            "proteinPct": "4.4",
+            "daysInMilk": "148"
           }
         ]
       }
@@ -1429,19 +1461,19 @@
         "startDate": "2026-04-05",
         "isCurrent": true,
         "lactationNumber": "1",
-        "daysInMilk": "93",
+        "daysInMilk": "118",
         "stats": {
           "milk": {
-            "achieved": "410",
-            "projected": "1291"
+            "achieved": "500",
+            "projected": "1132"
           },
           "butterfat": {
-            "achieved": "26",
-            "projected": "76"
+            "achieved": "31",
+            "projected": "67"
           },
           "protein": {
-            "achieved": "17",
-            "projected": "51"
+            "achieved": "20",
+            "projected": "46"
           }
         },
         "tests": [
@@ -1476,6 +1508,14 @@
             "butterfatPct": "6.2",
             "proteinPct": "4.1",
             "daysInMilk": "93"
+          },
+          {
+            "testNumber": 5,
+            "testDate": "2026-07-31",
+            "milk": "2.7",
+            "butterfatPct": "5.6",
+            "proteinPct": "4.3",
+            "daysInMilk": "118"
           }
         ]
       }
