@@ -110,7 +110,14 @@
       }
     },
     "linearAppraisals": [],
-    "awards": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2025,
+        "awardCount": 1
+      }
+    ],
     "dateOfDeath": null
   }
 ]
