@@ -1159,16 +1159,16 @@
         "awardCount": 1
       },
       {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2025,
+        "awardCount": 5
+      },
+      {
         "awardCode": "*M (AR)",
         "awardDescription": "*Milker (AR) Milk",
         "awardYear": 2025,
         "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2022,
-        "awardCount": 5
       }
     ],
     "dateOfDeath": null,
@@ -1665,7 +1665,10 @@
     "nickname": "Blondie",
     "description": "We weren't planning to keep a kid out of a first freshener this year ... and then Blondie was born. Blondie is long, level, and just catches the eye as she's on the move. Her dam, Frost, has also caught our attention peaking at 5.3 pounds of milk! Frost also has a beautiful first freshener udder with strong attachments and nice rear udder arch. Blondie will be participating in her first ADGA Show at Evergreen State Fair in August.",
     "awards": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "usdaId": "NDUSA000002511270",
+    "usdaKey": 2234774,
+    "lactationRecords": []
   },
   {
     "name": "Lil Pilchuck Ahana Kumakaia",
@@ -1697,6 +1700,9 @@
     "nickname": "Kai",
     "description": "Beauty gave us 2 very attractive doelings to choose from this year. Kai has stunning markings, but she is also wide and level. Kai's sister, Sunny, joined the Hanni Mountain Farm herd. Hopefully the sisters will be competing against each other in the show ring in 2027!",
     "awards": [],
-    "linearAppraisals": []
+    "linearAppraisals": [],
+    "usdaId": "NDUSA000002511272",
+    "usdaKey": 2234776,
+    "lactationRecords": []
   }
 ]
