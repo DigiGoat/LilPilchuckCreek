@@ -8,7 +8,7 @@
     "damId": 1834015,
     "sireId": 1894947,
     "ownerAccount": {
-      "displayName": "Kolton Bloom"
+      "displayName": ""
     },
     "colorAndMarking": "",
     "animalTattoo": [],
@@ -21,7 +21,7 @@
         "awardCount": 1
       }
     ],
-    "dateOfDeath": null
+    "dateOfDeath": "2026-09-04T19:08:45"
   },
   {
     "name": "Long Acres Farm Red Hot Magma",
@@ -155,84 +155,6 @@
     "dateOfDeath": null
   },
   {
-    "name": "Little RedHouse Zayushka",
-    "dateOfBirth": "2023-03-09T16:28:33",
-    "normalizeId": "PD2293424",
-    "id": 2293424,
-    "sex": "Female",
-    "damId": 2168575,
-    "sireId": 2157990,
-    "ownerAccount": {
-      "displayName": "Kolton Bloom"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": [
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2023,
-        "awardCount": 9
-      }
-    ],
-    "dateOfDeath": null
-  },
-  {
-    "name": "Little RedHouse Bluebird Sky",
-    "dateOfBirth": "2023-03-10T16:26:58",
-    "normalizeId": "PD2293211",
-    "id": 2293211,
-    "sex": "Female",
-    "damId": 1808723,
-    "sireId": 1929176,
-    "ownerAccount": {
-      "displayName": "Kolton Bloom"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": [
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2025,
-        "awardCount": 1
-      }
-    ],
-    "dateOfDeath": null
-  },
-  {
     "name": "Highland Ranch VP Rein Me In",
     "dateOfBirth": "2022-03-04T13:23:57",
     "normalizeId": "PD2242886",
@@ -270,7 +192,14 @@
     "colorAndMarking": "",
     "animalTattoo": [],
     "linearAppraisals": [],
-    "awards": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2023,
+        "awardCount": 1
+      }
+    ],
     "dateOfDeath": null
   },
   {
@@ -365,7 +294,7 @@
     "damId": 1896985,
     "sireId": 1723848,
     "ownerAccount": {
-      "displayName": "Jordan Beery"
+      "displayName": "Wendy Webster"
     },
     "colorAndMarking": "",
     "animalTattoo": [],
@@ -511,30 +440,6 @@
         "awardCode": "*B",
         "awardDescription": "*Buck",
         "awardYear": 2021,
-        "awardCount": 1
-      }
-    ],
-    "dateOfDeath": null
-  },
-  {
-    "name": "Redstone Warlock Raynman",
-    "dateOfBirth": "2020-10-19T00:00:00",
-    "normalizeId": "PD2136638",
-    "id": 1929176,
-    "sex": "Male",
-    "damId": 1722358,
-    "sireId": 1891024,
-    "ownerAccount": {
-      "displayName": "Trenne Earl"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": [
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2020,
         "awardCount": 1
       }
     ],
@@ -824,57 +729,6 @@
         "awardCount": 1
       }
     ],
-    "dateOfDeath": null
-  },
-  {
-    "name": "Hetlandcreek ZZ Blackbird Fly",
-    "dateOfBirth": "2019-04-06T00:00:00",
-    "normalizeId": "PD2016366",
-    "id": 1808723,
-    "sex": "Female",
-    "damId": 1564444,
-    "sireId": 1644245,
-    "ownerAccount": {
-      "displayName": "Trenne Earl"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 4,
-        "appraisalDate": "2024-06-13T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 86,
-        "isPermanent": true,
-        "id": 324157
-      },
-      {
-        "lactationNumber": 3,
-        "appraisalDate": "2023-08-01T00:00:00",
-        "generalAppearance": "G",
-        "dairyStrength": "E",
-        "bodyCapacity": "E",
-        "mammarySystem": "E",
-        "finalScore": 88,
-        "isPermanent": false,
-        "id": 303847
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-11T00:00:00",
-        "generalAppearance": "+",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 285465
-      }
-    ],
-    "awards": [],
     "dateOfDeath": null
   },
   {
@@ -1192,16 +1046,16 @@
         "awardCount": 1
       },
       {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2019,
+        "awardCount": 6
+      },
+      {
         "awardCode": "*M (ST)",
         "awardDescription": "*Milker Owner Sample (Butterfat)",
         "awardYear": 2018,
         "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2018,
-        "awardCount": 6
       },
       {
         "awardCode": "*M (ST)",
@@ -1227,6 +1081,18 @@
     "animalTattoo": [],
     "linearAppraisals": [],
     "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "3 *M Does",
+        "awardYear": 2024,
+        "awardCount": 1
+      },
       {
         "awardCode": "*B",
         "awardDescription": "*Buck",
@@ -1433,6 +1299,18 @@
     ],
     "awards": [
       {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Protein)",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Butterfat)",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
         "awardCode": "*M",
         "awardDescription": "*Milker Gen. Ancestry",
         "awardYear": 2021,
@@ -1453,30 +1331,6 @@
       {
         "awardCode": "*M (AR)",
         "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2021,
-        "awardCount": 1
-      }
-    ],
-    "dateOfDeath": null
-  },
-  {
-    "name": "Redstone IMAX Warlock",
-    "dateOfBirth": "2019-08-09T00:00:00",
-    "normalizeId": "PD2098546",
-    "id": 1891024,
-    "sex": "Male",
-    "damId": 1422930,
-    "sireId": 1546645,
-    "ownerAccount": {
-      "displayName": "Karyn Dufloth"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [],
-    "awards": [
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
         "awardYear": 2021,
         "awardCount": 1
       }
@@ -1522,6 +1376,18 @@
     ],
     "awards": [
       {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
         "awardCode": "*M (AR)",
         "awardDescription": "*Milker (AR) Protein",
         "awardYear": 2025,
@@ -1543,18 +1409,6 @@
         "awardCode": "*M (AR)",
         "awardDescription": "*Milker (AR) Milk",
         "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "GCH",
-        "awardDescription": "Grand Champion",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "CH",
-        "awardDescription": "Champion",
-        "awardYear": 2021,
         "awardCount": 1
       }
     ],
@@ -1729,6 +1583,12 @@
       }
     ],
     "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker Owner Sample (Protein)",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
       {
         "awardCode": "*M",
         "awardDescription": "*Milker Gen. Ancestry",
@@ -1992,71 +1852,6 @@
     "dateOfDeath": null
   },
   {
-    "name": "Redstone DHRV Rayna James",
-    "dateOfBirth": "2017-01-23T00:00:00",
-    "normalizeId": "PD1930043",
-    "id": 1722358,
-    "sex": "Female",
-    "damId": 1604536,
-    "sireId": 1541697,
-    "ownerAccount": {
-      "displayName": "Alexis Bachrach"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2022-10-18T00:00:00",
-        "generalAppearance": "E",
-        "dairyStrength": "V",
-        "bodyCapacity": "E",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": true,
-        "id": 292569
-      },
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2018-10-05T00:00:00",
-        "generalAppearance": "V",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "+",
-        "finalScore": 86,
-        "isPermanent": false,
-        "id": 264138
-      }
-    ],
-    "awards": [
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2018,
-        "awardCount": 7
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2018,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Butterfat",
-        "awardYear": 2018,
-        "awardCount": 1
-      },
-      {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Milk",
-        "awardYear": 2018,
-        "awardCount": 1
-      }
-    ],
-    "dateOfDeath": null
-  },
-  {
     "name": "Old Mountain Farm M Bold N",
     "dateOfBirth": "2018-01-28T00:00:00",
     "normalizeId": "PD1920263",
@@ -2154,6 +1949,12 @@
         "awardCount": 1
       },
       {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 5
+      },
+      {
         "awardCode": "*M (AR)",
         "awardDescription": "*Milker (AR) Protein",
         "awardYear": 2020,
@@ -2176,12 +1977,6 @@
         "awardDescription": "*Milker Owner Sample (Protein)",
         "awardYear": 2019,
         "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2019,
-        "awardCount": 5
       },
       {
         "awardCode": "*M (ST)",
@@ -2231,15 +2026,15 @@
     ],
     "awards": [
       {
-        "awardCode": "*M (AR)",
-        "awardDescription": "*Milker (AR) Protein",
-        "awardYear": 2025,
-        "awardCount": 1
-      },
-      {
         "awardCode": "GCH",
         "awardDescription": "Grand Champion",
         "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2025,
         "awardCount": 1
       },
       {
@@ -2374,7 +2169,7 @@
       "displayName": "Belinda Cardinal"
     },
     "colorAndMarking": "",
-    "animalTattoo": {},
+    "animalTattoo": [],
     "linearAppraisals": [],
     "awards": [
       {
@@ -2422,7 +2217,7 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": {},
+    "animalTattoo": [],
     "linearAppraisals": [],
     "awards": [
       {
@@ -2446,7 +2241,7 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": {},
+    "animalTattoo": [],
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -2488,7 +2283,7 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": {},
+    "animalTattoo": [],
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -2553,7 +2348,7 @@
       "displayName": "Elisabeth Olsen"
     },
     "colorAndMarking": "",
-    "animalTattoo": {},
+    "animalTattoo": [],
     "linearAppraisals": [
       {
         "lactationNumber": 3,
@@ -2591,6 +2386,12 @@
     ],
     "awards": [
       {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 4
+      },
+      {
         "awardCode": "*M (AR)",
         "awardDescription": "*Milker (AR) Protein",
         "awardYear": 2019,
@@ -2607,12 +2408,6 @@
         "awardDescription": "*Milker (AR) Milk",
         "awardYear": 2019,
         "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2018,
-        "awardCount": 4
       },
       {
         "awardCode": "*M (ST)",
@@ -2635,7 +2430,7 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": {},
+    "animalTattoo": [],
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -2991,7 +2786,6 @@
   {
     "name": "Poppy Patch HB Honey Bear",
     "dateOfBirth": "2013-04-22T00:00:00",
-    "dateOfDeath": "2022-02-12T11:11:54",
     "normalizeId": "PD1646227",
     "id": 1438166,
     "sex": "Male",
@@ -3050,12 +2844,12 @@
         "awardYear": 2017,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": "2022-02-12T11:11:54"
   },
   {
     "name": "Fuji Farm ATS MI Incentivo",
     "dateOfBirth": "2013-04-07T00:00:00",
-    "dateOfDeath": null,
     "normalizeId": "PD1645763",
     "id": 1437700,
     "sex": "Male",
@@ -3092,12 +2886,12 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "Algedi Farm CK Seirene Song",
     "dateOfBirth": "2012-05-18T00:00:00",
-    "dateOfDeath": "2018-03-11T00:00:00",
     "normalizeId": "PD1618182",
     "id": 1410083,
     "sex": "Female",
@@ -3134,16 +2928,16 @@
     ],
     "awards": [
       {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2017,
+        "awardCount": 6
+      },
+      {
         "awardCode": "*M (AR)",
         "awardDescription": "*Milker (AR) Milk",
         "awardYear": 2015,
         "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2014,
-        "awardCount": 6
       },
       {
         "awardCode": "*M (AR)",
@@ -3157,12 +2951,12 @@
         "awardYear": 2014,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": "2018-03-11T00:00:00"
   },
   {
     "name": "GCH Alethia CTO Eye Of The Tiger",
     "dateOfBirth": "2012-04-18T00:00:00",
-    "dateOfDeath": "2021-10-26T09:54:42",
     "normalizeId": "PD1604044",
     "id": 1395894,
     "sex": "Male",
@@ -3175,6 +2969,12 @@
     "animalTattoo": {},
     "linearAppraisals": [],
     "awards": [
+      {
+        "awardCode": "++B (AR)",
+        "awardDescription": "3 AR Does And 2 AR Bucks",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
       {
         "awardCode": "+B (ST)",
         "awardDescription": "1 ST Buck And 2 AR/ST Does",
@@ -3205,12 +3005,12 @@
         "awardYear": 2019,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": "2021-10-26T09:54:42"
   },
   {
     "name": "SGCH Alethia MH Dew Ya Love Me",
     "dateOfBirth": "2012-02-14T00:00:00",
-    "dateOfDeath": null,
     "normalizeId": "PD1588056",
     "id": 1379888,
     "sex": "Female",
@@ -3264,16 +3064,16 @@
         "awardCount": 1
       },
       {
-        "awardCode": "GCH",
-        "awardDescription": "Grand Champion",
-        "awardYear": 2020,
-        "awardCount": 1
-      },
-      {
         "awardCode": "*M",
         "awardDescription": "*Milker Gen. Ancestry",
         "awardYear": 2020,
         "awardCount": 6
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2020,
+        "awardCount": 1
       },
       {
         "awardCode": "*M (AR)",
@@ -3311,12 +3111,12 @@
         "awardYear": 2016,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": null
   },
   {
     "name": "SGCH AGS Honey Goat Blondie",
     "dateOfBirth": "2011-05-26T00:00:00",
-    "dateOfDeath": "2021-09-14T11:06:25",
     "normalizeId": "PD1582972",
     "id": 1374801,
     "sex": "Female",
@@ -3428,7 +3228,8 @@
         "awardYear": 2015,
         "awardCount": 1
       }
-    ]
+    ],
+    "dateOfDeath": "2021-09-14T11:06:25"
   },
   {
     "name": "Rosasharn AX Noble Prince",
@@ -3569,16 +3370,16 @@
     ],
     "awards": [
       {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2019,
+        "awardCount": 5
+      },
+      {
         "awardCode": "GCH",
         "awardDescription": "Grand Champion",
         "awardYear": 2015,
         "awardCount": 1
-      },
-      {
-        "awardCode": "*M",
-        "awardDescription": "*Milker Gen. Ancestry",
-        "awardYear": 2015,
-        "awardCount": 5
       },
       {
         "awardCode": "*M (AR)",
