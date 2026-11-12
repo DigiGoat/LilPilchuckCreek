@@ -81,43 +81,5 @@
       }
     ],
     "dateOfDeath": null
-  },
-  {
-    "name": "Highland Ranch VP Winslow",
-    "dateOfBirth": "2024-05-04T18:03:06",
-    "normalizeId": "PD2401466",
-    "id": 2401466,
-    "sex": "Male",
-    "damId": 1834015,
-    "sireId": 1894947,
-    "ownerAccount": {
-      "displayName": "Kolton Bloom"
-    },
-    "colorAndMarking": "Chamoisee With Abundant White",
-    "nickname": "Winslow",
-    "animalTattoo": {
-      "0": {
-        "tattoo": "MSM2",
-        "tattooLocation": {
-          "name": "RE"
-        }
-      },
-      "1": {
-        "tattoo": "S7",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    },
-    "linearAppraisals": [],
-    "awards": [
-      {
-        "awardCode": "*B",
-        "awardDescription": "*Buck",
-        "awardYear": 2025,
-        "awardCount": 1
-      }
-    ],
-    "dateOfDeath": null
   }
 ]
