@@ -203,35 +203,6 @@
     "dateOfDeath": null
   },
   {
-    "name": "Gillis Family Farm Crystal",
-    "dateOfBirth": "2021-05-26T00:00:00",
-    "normalizeId": "PD2175097",
-    "id": 2175097,
-    "sex": "Female",
-    "damId": 1808133,
-    "sireId": 1905303,
-    "ownerAccount": {
-      "displayName": "Kolton Bloom"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": 1,
-        "appraisalDate": "2023-07-31T00:00:00",
-        "generalAppearance": "G",
-        "dairyStrength": "V",
-        "bodyCapacity": "V",
-        "mammarySystem": "V",
-        "finalScore": 87,
-        "isPermanent": false,
-        "id": 305567
-      }
-    ],
-    "awards": [],
-    "dateOfDeath": null
-  },
-  {
     "name": "Gillis Family Farm Mystic",
     "dateOfBirth": "2021-05-08T00:00:00",
     "normalizeId": "PD2174259",
@@ -506,6 +477,48 @@
         "awardDescription": "*Buck",
         "awardYear": 2019,
         "awardCount": 1
+      }
+    ],
+    "dateOfDeath": null
+  },
+  {
+    "name": "Gypsy Moon FF Three Days Grace",
+    "dateOfBirth": "2020-02-29T00:00:00",
+    "normalizeId": "PD2107875",
+    "id": 1900373,
+    "sex": "Female",
+    "damId": 1752646,
+    "sireId": 1508348,
+    "ownerAccount": {
+      "displayName": "Flintlock Farms"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2023,
+        "awardCount": 8
       }
     ],
     "dateOfDeath": null
@@ -823,6 +836,60 @@
       }
     ],
     "dateOfDeath": null
+  },
+  {
+    "name": "GCH Phoenix Farm Castiel",
+    "dateOfBirth": "2016-03-23T00:00:00",
+    "normalizeId": "PD1906623",
+    "id": 1698938,
+    "sex": "Male",
+    "damId": 1304975,
+    "sireId": 1441708,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2019-08-15T00:00:00",
+        "generalAppearance": "+",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 274454
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2024,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2017,
+        "awardCount": 1
+      }
+    ],
+    "dateOfDeath": "2026-01-25T08:13:46"
   },
   {
     "name": "Hetlandcreek JDI Rose'",
@@ -1415,35 +1482,6 @@
     "dateOfDeath": null
   },
   {
-    "name": "TUA Farms SH Minuette",
-    "dateOfBirth": "2019-04-17T00:00:00",
-    "normalizeId": "PD2015776",
-    "id": 1808133,
-    "sex": "Female",
-    "damId": 1739428,
-    "sireId": 1597887,
-    "ownerAccount": {
-      "displayName": "Stephanie Vierling"
-    },
-    "colorAndMarking": "",
-    "animalTattoo": [],
-    "linearAppraisals": [
-      {
-        "lactationNumber": null,
-        "appraisalDate": "2021-08-12T00:00:00",
-        "generalAppearance": "A",
-        "dairyStrength": "+",
-        "bodyCapacity": "A",
-        "mammarySystem": "+",
-        "finalScore": 76,
-        "isPermanent": false,
-        "id": 285454
-      }
-    ],
-    "awards": [],
-    "dateOfDeath": null
-  },
-  {
     "name": "Leisure Time PD Copper Penny",
     "dateOfBirth": "2018-02-24T00:00:00",
     "normalizeId": "PD1962296",
@@ -1492,6 +1530,42 @@
         "awardCode": "*B",
         "awardDescription": "*Buck",
         "awardYear": 2018,
+        "awardCount": 1
+      }
+    ],
+    "dateOfDeath": null
+  },
+  {
+    "name": "Gypsy Moon Hott Miata",
+    "dateOfBirth": "2018-04-13T00:00:00",
+    "normalizeId": "PD1960311",
+    "id": 1752646,
+    "sex": "Female",
+    "damId": 1536434,
+    "sireId": 1435706,
+    "ownerAccount": {
+      "displayName": "Julie Heinrich"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2023,
+        "awardCount": 7
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2023,
         "awardCount": 1
       }
     ],
@@ -2430,7 +2504,7 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -2464,6 +2538,36 @@
       }
     ],
     "dateOfDeath": null
+  },
+  {
+    "name": "Pixie Hollow NF Fix-IT Felix",
+    "dateOfBirth": "2014-12-22T00:00:00",
+    "normalizeId": "PD1716238",
+    "id": 1508348,
+    "sex": "Male",
+    "damId": 1343406,
+    "sireId": 1409737,
+    "ownerAccount": {
+      "displayName": "Teena Bagwell"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2020,
+        "awardCount": 1
+      }
+    ],
+    "dateOfDeath": "2020-08-15T22:41:00"
   },
   {
     "name": "SGCH Joyful Hearts KR Phoebe",
@@ -2784,6 +2888,66 @@
     "dateOfDeath": null
   },
   {
+    "name": "Castle Rock Iceberg",
+    "dateOfBirth": "2013-02-17T00:00:00",
+    "normalizeId": "PD1649747",
+    "id": 1441708,
+    "sex": "Male",
+    "damId": 1297447,
+    "sireId": 1303530,
+    "ownerAccount": {
+      "displayName": "Emily Kern"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "++B (AR)",
+        "awardDescription": "3 AR Does And 2 AR Bucks",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "3 AR Does - Different Dams",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (AR)",
+        "awardDescription": "2 AR Bucks",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "++B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2020,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "3 *M Does",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "+B (ST)",
+        "awardDescription": "1 AR Buck And 2 AR/ST Does",
+        "awardYear": 2019,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2013,
+        "awardCount": 1
+      }
+    ],
+    "dateOfDeath": null
+  },
+  {
     "name": "Poppy Patch HB Honey Bear",
     "dateOfBirth": "2013-04-22T00:00:00",
     "normalizeId": "PD1646227",
@@ -2957,6 +3121,7 @@
   {
     "name": "GCH Alethia CTO Eye Of The Tiger",
     "dateOfBirth": "2012-04-18T00:00:00",
+    "dateOfDeath": "2021-10-26T09:54:42",
     "normalizeId": "PD1604044",
     "id": 1395894,
     "sex": "Male",
@@ -3005,12 +3170,12 @@
         "awardYear": 2019,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": "2021-10-26T09:54:42"
+    ]
   },
   {
     "name": "SGCH Alethia MH Dew Ya Love Me",
     "dateOfBirth": "2012-02-14T00:00:00",
+    "dateOfDeath": null,
     "normalizeId": "PD1588056",
     "id": 1379888,
     "sex": "Female",
@@ -3111,12 +3276,12 @@
         "awardYear": 2016,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": null
+    ]
   },
   {
     "name": "SGCH AGS Honey Goat Blondie",
     "dateOfBirth": "2011-05-26T00:00:00",
+    "dateOfDeath": "2021-09-14T11:06:25",
     "normalizeId": "PD1582972",
     "id": 1374801,
     "sex": "Female",
@@ -3228,8 +3393,7 @@
         "awardYear": 2015,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": "2021-09-14T11:06:25"
+    ]
   },
   {
     "name": "Rosasharn AX Noble Prince",
@@ -3451,6 +3615,123 @@
         "awardDescription": "*Milker Gen. Ancestry",
         "awardYear": 2012,
         "awardCount": 4
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2012,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2012,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2012,
+        "awardCount": 1
+      }
+    ]
+  },
+  {
+    "name": "SGCH Phoenix Farm Summer Bird",
+    "dateOfBirth": "2010-03-18T00:00:00",
+    "dateOfDeath": "2020-07-12T00:00:00",
+    "normalizeId": "PD1513258",
+    "id": 1304975,
+    "sex": "Female",
+    "damId": 1261500,
+    "sireId": 1200142,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2015-05-13T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": true,
+        "id": 232977
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2014-07-24T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 219260
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2013-07-23T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 208520
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2012-08-26T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "E",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 202217
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "SG",
+        "awardDescription": "Superior Genetics",
+        "awardYear": 2014,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2015,
+        "awardCount": 4
+      },
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2017,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "SGCH",
+        "awardDescription": "Superior Genetics Grand Champion",
+        "awardYear": 2013,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2013,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2013,
+        "awardCount": 1
       },
       {
         "awardCode": "*M (AR)",
