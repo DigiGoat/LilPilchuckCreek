@@ -55,6 +55,25 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Chocolate Buckskin With Extensive White",
+    "description": "On lease from Little RedHouse Farm. \nThis little guy is such a gentleman! We are using Gatsby to improve front end assemblies and strengthen udder attachments. ",
+    "nickname": "Gatsby",
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2023,
+        "awardCount": 1
+      }
+    ],
+    "animalTattoo": {
+      "0": {
+        "tattoo": "S12",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "linearAppraisals": []
   }
 ]
