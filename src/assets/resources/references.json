@@ -413,6 +413,24 @@
     "ownerAccount": {
       "displayName": ""
     },
-    "colorAndMarking": ""
+    "colorAndMarking": "Gold With White",
+    "description": "Owned by Little RedHouse Farm. Picture courtesy of Little RedHouse Farm.\nhttps://littleredhousefarm.com/the-gentlemen-1",
+    "linearAppraisals": [],
+    "animalTattoo": {
+      "0": {
+        "tattoo": "T16",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    },
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2022,
+        "awardCount": 1
+      }
+    ]
   }
 ]
