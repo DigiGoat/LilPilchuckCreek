@@ -400,5 +400,19 @@
       }
     ],
     "dateOfDeath": null
+  },
+  {
+    "name": "Bridge Acres K Eleuthero",
+    "dateOfBirth": "2025-01-25T11:04:24",
+    "dateOfDeath": null,
+    "normalizeId": "PD2451146",
+    "id": 2451146,
+    "sex": "Male",
+    "damId": 1924478,
+    "sireId": 2377929,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": ""
   }
 ]
