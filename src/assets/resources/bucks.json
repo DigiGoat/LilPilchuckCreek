@@ -42,5 +42,19 @@
     ],
     "awards": [],
     "dateOfDeath": null
+  },
+  {
+    "name": "Drewem C Gatsbys Americandream",
+    "dateOfBirth": "2024-01-18T20:19:12",
+    "dateOfDeath": null,
+    "normalizeId": "PD2356556",
+    "id": 2356556,
+    "sex": "Male",
+    "damId": 1900373,
+    "sireId": 1698938,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": ""
   }
 ]
