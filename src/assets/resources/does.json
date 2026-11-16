@@ -1575,5 +1575,19 @@
     "usdaId": "NDUSA000002511272",
     "usdaKey": 2234776,
     "lactationRecords": []
+  },
+  {
+    "name": "Deserthardt HB Hidden Gold",
+    "dateOfBirth": "2025-02-18T09:09:07",
+    "dateOfDeath": null,
+    "normalizeId": "PD2425396",
+    "id": 2425396,
+    "sex": "Female",
+    "damId": 2354119,
+    "sireId": 2370661,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": ""
   }
 ]
