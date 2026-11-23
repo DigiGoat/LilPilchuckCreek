@@ -1507,6 +1507,32 @@
     "lactationRecords": []
   },
   {
+    "name": "Deserthardt HB Hidden Gold",
+    "dateOfBirth": "2025-02-18T09:09:07",
+    "dateOfDeath": null,
+    "normalizeId": "PD2425396",
+    "id": 2425396,
+    "sex": "Female",
+    "damId": 2354119,
+    "sireId": 2370661,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "Chamoisee w/ Brown Eyes",
+    "nickname": "Rose",
+    "description": "We are so fortunate to have the opportunity to add Rose to our herd! The first time I saw Rose I was drawn to her. She took Junior Champion in both rings at the Barn in the USA show at a 4 month old in 2025. Our very own Frost took Reserve Champion behind Rose at that show. Rose is so sweet and has incredible General Appearance. We are excited to see her freshen in Spring 2027 at start working on her final 2 Champion legs!",
+    "awards": [],
+    "linearAppraisals": [],
+    "animalTattoo": {
+      "0": {
+        "tattoo": "T13",
+        "tattooLocation": {
+          "name": "LE"
+        }
+      }
+    }
+  },
+  {
     "name": "Lil Pilchuck Blonde Affogato",
     "dateOfBirth": "2026-04-05T10:45:56",
     "dateOfDeath": null,
@@ -1575,31 +1601,5 @@
     "usdaId": "NDUSA000002511272",
     "usdaKey": 2234776,
     "lactationRecords": []
-  },
-  {
-    "name": "Deserthardt HB Hidden Gold",
-    "dateOfBirth": "2025-02-18T09:09:07",
-    "dateOfDeath": null,
-    "normalizeId": "PD2425396",
-    "id": 2425396,
-    "sex": "Female",
-    "damId": 2354119,
-    "sireId": 2370661,
-    "ownerAccount": {
-      "displayName": ""
-    },
-    "colorAndMarking": "Chamoisee w/ Brown Eyes",
-    "nickname": "Rose",
-    "description": "We are so fortunate to have the opportunity to add Rose to our herd! The first time I saw Rose I was drawn to her. She took Junior Champion in both rings at the Barn in the USA show at a 4 month old in 2025. Our very own Frost took Reserve Champion behind Rose at that show. Rose is so sweet and has incredible General Appearance. We are excited to see her freshen in Spring 2027 at start working on her final 2 Champion legs!",
-    "awards": [],
-    "linearAppraisals": [],
-    "animalTattoo": {
-      "0": {
-        "tattoo": "T13",
-        "tattooLocation": {
-          "name": "LE"
-        }
-      }
-    }
   }
 ]
