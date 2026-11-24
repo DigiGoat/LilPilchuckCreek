@@ -82,7 +82,19 @@
         }
       }
     },
-    "linearAppraisals": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2026-07-25T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 340945
+      }
+    ],
     "awards": [
       {
         "awardCode": "*B",
@@ -351,7 +363,19 @@
         }
       }
     },
-    "linearAppraisals": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2026-07-25T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 340940
+      }
+    ],
     "awards": [
       {
         "awardCode": "*B",
