@@ -916,20 +916,20 @@
       },
       {
         "startDate": "2026-03-10",
-        "isCurrent": true,
+        "isCurrent": false,
         "lactationNumber": "2",
-        "daysInMilk": "195",
+        "daysInMilk": "235",
         "stats": {
           "milk": {
-            "achieved": "630",
+            "achieved": "700",
             "projected": "869"
           },
           "butterfat": {
-            "achieved": "38",
+            "achieved": "44",
             "projected": "57"
           },
           "protein": {
-            "achieved": "28",
+            "achieved": "32",
             "projected": "39"
           }
         },
@@ -1162,20 +1162,20 @@
       },
       {
         "startDate": "2026-04-21",
-        "isCurrent": true,
+        "isCurrent": false,
         "lactationNumber": "2",
-        "daysInMilk": "153",
+        "daysInMilk": "193",
         "stats": {
           "milk": {
-            "achieved": "560",
+            "achieved": "630",
             "projected": "891"
           },
           "butterfat": {
-            "achieved": "35",
+            "achieved": "41",
             "projected": "61"
           },
           "protein": {
-            "achieved": "22",
+            "achieved": "26",
             "projected": "38"
           }
         },
@@ -1280,20 +1280,20 @@
     "lactationRecords": [
       {
         "startDate": "2026-03-06",
-        "isCurrent": true,
+        "isCurrent": false,
         "lactationNumber": "1",
-        "daysInMilk": "199",
+        "daysInMilk": "239",
         "stats": {
           "milk": {
-            "achieved": "730",
+            "achieved": "810",
             "projected": "983"
           },
           "butterfat": {
-            "achieved": "46",
+            "achieved": "52",
             "projected": "63"
           },
           "protein": {
-            "achieved": "29",
+            "achieved": "33",
             "projected": "41"
           }
         },
@@ -1406,20 +1406,20 @@
     "lactationRecords": [
       {
         "startDate": "2026-04-05",
-        "isCurrent": true,
+        "isCurrent": false,
         "lactationNumber": "1",
-        "daysInMilk": "169",
+        "daysInMilk": "209",
         "stats": {
           "milk": {
-            "achieved": "630",
+            "achieved": "710",
             "projected": "990"
           },
           "butterfat": {
-            "achieved": "39",
+            "achieved": "46",
             "projected": "62"
           },
           "protein": {
-            "achieved": "27",
+            "achieved": "31",
             "projected": "42"
           }
         },
