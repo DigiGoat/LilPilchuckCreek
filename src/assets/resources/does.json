@@ -777,7 +777,19 @@
     "ownerAccount": {
       "displayName": "Kolton Bloom"
     },
-    "linearAppraisals": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2026-07-25T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 92,
+        "isPermanent": false,
+        "id": 340935
+      }
+    ],
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -1011,7 +1023,19 @@
       "displayName": "Kolton Bloom"
     },
     "description": "Our first goat to receive a leg, Beauty is developing to be a very promising goat. She not only won *Best Junior Doe* at the `Barn In The USA` show, but she also took *Reserve Junior Doe* in a ring the day before. She continues to place well, placing first in the 3 year old class under Kris Fraley at the NEWDGA show. Her udder is high and tight with beautiful rear udder arch. She obtained her milk star at a first freshener and is projected to produce >1100 pounds in 2026.",
-    "linearAppraisals": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2026-07-25T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 340936
+      }
+    ],
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -1236,7 +1260,19 @@
     ],
     "nickname": "Fiona",
     "description": "We've been waiting a few years for a doeling out of Mystic, and the wait is finally over! Fiona freshened with a beautiful, productive udder. On her first milk test she was the top producer on the farm! We are excited to see how she does in the showring.",
-    "linearAppraisals": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2026-07-25T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 340937
+      }
+    ],
     "awards": [],
     "dateOfDeath": null,
     "usdaId": "NDUSA000002390049",
@@ -1350,7 +1386,19 @@
       "displayName": "Kolton Bloom"
     },
     "description": "Named after her frosted ears, Frost is one of the first **Lil Pilchuck Creek** does. Frost freshened with a beautiful, productive mammary  with great attachments and a really nice rear udder arch. She surprised us with her desire to milk, peaking at 5.3 pounds per day at 2 months fresh! She has also held her own in the showring consistently placing Top 10 in large, competitive classes. ",
-    "linearAppraisals": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2026-07-25T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 340938
+      }
+    ],
     "awards": [],
     "dateOfDeath": null,
     "usdaId": "NDUSA000002390050",
@@ -1516,7 +1564,7 @@
     "damId": 2354119,
     "sireId": 2370661,
     "ownerAccount": {
-      "displayName": ""
+      "displayName": "Lil Pilchuck Creek Farm"
     },
     "colorAndMarking": "Chamoisee w/ Brown Eyes",
     "nickname": "Rose",
@@ -1525,12 +1573,21 @@
     "linearAppraisals": [],
     "animalTattoo": {
       "0": {
+        "tattoo": "ANH1",
+        "tattooLocation": {
+          "name": "RE"
+        }
+      },
+      "1": {
         "tattoo": "T13",
         "tattooLocation": {
           "name": "LE"
         }
       }
-    }
+    },
+    "usdaId": "NDUSA000002425396",
+    "usdaKey": 2157750,
+    "lactationRecords": []
   },
   {
     "name": "Lil Pilchuck Blonde Affogato",
