@@ -12,7 +12,19 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2026-07-25T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": null,
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 340940
+      }
+    ],
     "awards": [
       {
         "awardCode": "*B",
@@ -60,8 +72,115 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2026-07-25T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 340938
+      }
+    ],
+    "awards": [],
+    "dateOfDeath": null
+  },
+  {
+    "name": "Wolfivan Kava Kava Root",
+    "dateOfBirth": "2024-03-17T22:46:13",
+    "normalizeId": "PD2377929",
+    "id": 2377929,
+    "sex": "Male",
+    "damId": 1869544,
+    "sireId": 2232402,
+    "ownerAccount": {
+      "displayName": "Kelley Hines"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2024,
+        "awardCount": 1
+      }
+    ],
+    "dateOfDeath": null
+  },
+  {
+    "name": "Amores Farm HP Heart Breaker",
+    "dateOfBirth": "2024-03-02T07:38:48",
+    "normalizeId": "PD2370661",
+    "id": 2370661,
+    "sex": "Male",
+    "damId": 2233152,
+    "sireId": 1880884,
+    "ownerAccount": {
+      "displayName": "Amberly Nicole Hardt"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
     "linearAppraisals": [],
     "awards": [],
+    "dateOfDeath": null
+  },
+  {
+    "name": "Deserthardt PH Gold Advisory",
+    "dateOfBirth": "2024-02-02T13:07:00",
+    "normalizeId": "PD2354119",
+    "id": 2354119,
+    "sex": "Female",
+    "damId": 2285538,
+    "sireId": 2279302,
+    "ownerAccount": {
+      "displayName": "Amberly Nicole Hardt"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2025-06-09T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "A",
+        "bodyCapacity": "G",
+        "mammarySystem": "G",
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 333218
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2025,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2024,
+        "awardCount": 7
+      }
+    ],
     "dateOfDeath": null
   },
   {
@@ -77,7 +196,19 @@
     },
     "colorAndMarking": "",
     "animalTattoo": [],
-    "linearAppraisals": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2026-07-25T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 91,
+        "isPermanent": false,
+        "id": 340936
+      }
+    ],
     "awards": [
       {
         "awardCode": "*M (AR)",
@@ -417,6 +548,72 @@
     "dateOfDeath": null
   },
   {
+    "name": "GCH Gotta B Kid N Juniper",
+    "dateOfBirth": "2020-03-23T00:00:00",
+    "normalizeId": "PD2131960",
+    "id": 1924478,
+    "sex": "Female",
+    "damId": 1732081,
+    "sireId": 1678590,
+    "ownerAccount": {
+      "displayName": "Emily Puentes"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 5,
+        "appraisalDate": "2026-04-07T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "G",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 336696
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "CH",
+        "awardDescription": "Champion",
+        "awardYear": 2025,
+        "awardCount": 1
+      }
+    ],
+    "dateOfDeath": null
+  },
+  {
     "name": "Timbuckdoe Farm AW Aleut Storm",
     "dateOfBirth": "2020-03-12T00:00:00",
     "normalizeId": "PD2131517",
@@ -626,6 +823,17 @@
     "colorAndMarking": "",
     "animalTattoo": [],
     "linearAppraisals": [
+      {
+        "lactationNumber": 6,
+        "appraisalDate": "2026-07-22T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 86,
+        "isPermanent": false,
+        "id": 342190
+      },
       {
         "lactationNumber": null,
         "appraisalDate": "2021-08-10T00:00:00",
@@ -1317,6 +1525,183 @@
     "dateOfDeath": "2020-03-09T00:00:00"
   },
   {
+    "name": "Deserthardt GS Seeking Gold",
+    "dateOfBirth": "2023-02-14T06:03:03",
+    "normalizeId": "PD2285538",
+    "id": 2285538,
+    "sex": "Female",
+    "damId": 1898665,
+    "sireId": 2231026,
+    "ownerAccount": {
+      "displayName": "Amberly Nicole Hardt"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2025-06-09T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "G",
+        "bodyCapacity": "G",
+        "mammarySystem": "V",
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 331740
+      },
+      {
+        "lactationNumber": 1,
+        "appraisalDate": "2024-04-16T00:00:00",
+        "generalAppearance": "G",
+        "dairyStrength": "G",
+        "bodyCapacity": "A",
+        "mammarySystem": "G",
+        "finalScore": 83,
+        "isPermanent": false,
+        "id": 322543
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2024,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2024,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2024,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2024,
+        "awardCount": 6
+      }
+    ],
+    "dateOfDeath": null
+  },
+  {
+    "name": "Creosote Ranch FT Playinhookey",
+    "dateOfBirth": "2023-01-27T07:51:21",
+    "normalizeId": "PD2279302",
+    "id": 2279302,
+    "sex": "Male",
+    "damId": 1942275,
+    "sireId": 2225667,
+    "ownerAccount": {
+      "displayName": "Amberly Nicole Hardt"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2023,
+        "awardCount": 1
+      }
+    ],
+    "dateOfDeath": null
+  },
+  {
+    "name": "Amores Farm Fancy Love",
+    "dateOfBirth": "2022-03-17T20:42:41",
+    "normalizeId": "PD2233152",
+    "id": 2233152,
+    "sex": "Female",
+    "damId": 1876084,
+    "sireId": 1524780,
+    "ownerAccount": {
+      "displayName": "Lazaro & Sandra Amores"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 3,
+        "appraisalDate": "2025-06-06T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 92,
+        "isPermanent": false,
+        "id": 330894
+      },
+      {
+        "lactationNumber": 2,
+        "appraisalDate": "2024-04-20T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 89,
+        "isPermanent": false,
+        "id": 322701
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2023-05-23T00:00:00",
+        "generalAppearance": "v",
+        "dairyStrength": "e",
+        "bodyCapacity": "e",
+        "mammarySystem": "v",
+        "finalScore": 88,
+        "isPermanent": false,
+        "id": 306561
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2025,
+        "awardCount": 2
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2025,
+        "awardCount": 1
+      }
+    ],
+    "dateOfDeath": null
+  },
+  {
+    "name": "Wolfivan Rumors And Gossip",
+    "dateOfBirth": "2022-04-07T14:54:12",
+    "normalizeId": "PD2232402",
+    "id": 2232402,
+    "sex": "Male",
+    "damId": 1810733,
+    "sireId": 2182155,
+    "ownerAccount": {
+      "displayName": "Julie Cummings"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2022,
+        "awardCount": 1
+      }
+    ],
+    "dateOfDeath": null
+  },
+  {
     "name": "Hetlandcreek SS Avachinsky",
     "dateOfBirth": "2020-03-25T00:00:00",
     "normalizeId": "PD2104507",
@@ -1330,6 +1715,17 @@
     "colorAndMarking": "",
     "animalTattoo": [],
     "linearAppraisals": [
+      {
+        "lactationNumber": 6,
+        "appraisalDate": "2026-07-22T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 340718
+      },
       {
         "lactationNumber": 4,
         "appraisalDate": "2024-06-13T00:00:00",
@@ -1365,6 +1761,12 @@
       }
     ],
     "awards": [
+      {
+        "awardCode": "*M (ST)",
+        "awardDescription": "*Milker (ST) Milker (Progeny)",
+        "awardYear": 2023,
+        "awardCount": 1
+      },
       {
         "awardCode": "*M (ST)",
         "awardDescription": "*Milker Owner Sample (Protein)",
@@ -1405,6 +1807,105 @@
     "dateOfDeath": null
   },
   {
+    "name": "Agape'S Prize Hard Pressed",
+    "dateOfBirth": "2020-04-07T00:00:00",
+    "normalizeId": "PD2088406",
+    "id": 1880884,
+    "sex": "Male",
+    "damId": 1657282,
+    "sireId": 1733586,
+    "ownerAccount": {
+      "displayName": "Jackie Bouwkamp"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [],
+    "awards": [],
+    "dateOfDeath": null
+  },
+  {
+    "name": "GCH Wolfivan CQ Ginger Root",
+    "dateOfBirth": "2020-02-16T00:00:00",
+    "normalizeId": "PD2077057",
+    "id": 1869544,
+    "sex": "Female",
+    "damId": 1503562,
+    "sireId": 1462954,
+    "ownerAccount": {
+      "displayName": "Renee Wolf"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [
+      {
+        "lactationNumber": 5,
+        "appraisalDate": "2025-06-11T00:00:00",
+        "generalAppearance": "E",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 92,
+        "isPermanent": true,
+        "id": 329516
+      },
+      {
+        "lactationNumber": 4,
+        "appraisalDate": "2024-04-19T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 92,
+        "isPermanent": false,
+        "id": 322653
+      },
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2021-07-07T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "E",
+        "mammarySystem": "E",
+        "finalScore": 87,
+        "isPermanent": false,
+        "id": 285989
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Milk",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "GCH",
+        "awardDescription": "Grand Champion",
+        "awardYear": 2022,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M",
+        "awardDescription": "*Milker Gen. Ancestry",
+        "awardYear": 2021,
+        "awardCount": 3
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Protein",
+        "awardYear": 2021,
+        "awardCount": 1
+      },
+      {
+        "awardCode": "*M (AR)",
+        "awardDescription": "*Milker (AR) Butterfat",
+        "awardYear": 2021,
+        "awardCount": 1
+      }
+    ],
+    "dateOfDeath": null
+  },
+  {
     "name": "GCH Highland Ranch AD Rein E Day",
     "dateOfBirth": "2019-03-05T00:00:00",
     "normalizeId": "PD2020384",
@@ -1418,6 +1919,17 @@
     "colorAndMarking": "",
     "animalTattoo": [],
     "linearAppraisals": [
+      {
+        "lactationNumber": 7,
+        "appraisalDate": "2026-07-27T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "E",
+        "bodyCapacity": "E",
+        "mammarySystem": "V",
+        "finalScore": 90,
+        "isPermanent": false,
+        "id": 342191
+      },
       {
         "lactationNumber": 4,
         "appraisalDate": "2024-06-12T00:00:00",
@@ -1570,6 +2082,23 @@
       }
     ],
     "dateOfDeath": null
+  },
+  {
+    "name": "Gotta B Kid N Jessica Jones",
+    "dateOfBirth": "2018-01-27T00:00:00",
+    "normalizeId": "PD1939765",
+    "id": 1732081,
+    "sex": "Female",
+    "damId": 1493711,
+    "sireId": 1617540,
+    "ownerAccount": {
+      "displayName": ""
+    },
+    "colorAndMarking": "",
+    "animalTattoo": [],
+    "linearAppraisals": [],
+    "awards": [],
+    "dateOfDeath": "2024-07-07T11:12:53"
   },
   {
     "name": "Agape'S Prize Sulaymaan Quinn",
@@ -1813,7 +2342,7 @@
       "displayName": "Brittany C Mathis"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [],
     "awards": [
       {
@@ -1837,7 +2366,7 @@
       "displayName": "Kristine Struve-Hagan"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": 5,
@@ -1937,7 +2466,7 @@
       "displayName": "Courtney Boyer"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -1968,6 +2497,42 @@
     "dateOfDeath": null
   },
   {
+    "name": "Dragonfly Sol Rhaegal",
+    "dateOfBirth": "2017-04-06T00:00:00",
+    "normalizeId": "PD1886215",
+    "id": 1678590,
+    "sex": "Male",
+    "damId": 1387294,
+    "sireId": 1311036,
+    "ownerAccount": {
+      "displayName": "Joanne Karohl"
+    },
+    "colorAndMarking": "",
+    "animalTattoo": {},
+    "linearAppraisals": [
+      {
+        "lactationNumber": null,
+        "appraisalDate": "2018-04-15T00:00:00",
+        "generalAppearance": "V",
+        "dairyStrength": "V",
+        "bodyCapacity": "V",
+        "mammarySystem": null,
+        "finalScore": 85,
+        "isPermanent": false,
+        "id": 256256
+      }
+    ],
+    "awards": [
+      {
+        "awardCode": "*B",
+        "awardDescription": "*Buck",
+        "awardYear": 2017,
+        "awardCount": 1
+      }
+    ],
+    "dateOfDeath": null
+  },
+  {
     "name": "TUA Farms SP Sweet N Sassy",
     "dateOfBirth": "2017-03-06T00:00:00",
     "normalizeId": "PD1855937",
@@ -1979,7 +2544,7 @@
       "displayName": "Amy York"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": 6,
@@ -2073,7 +2638,7 @@
       "displayName": "Elianna Mielbrecht"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -2138,7 +2703,7 @@
       "displayName": "Kristine Struve-Hagan"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": 6,
@@ -2243,7 +2808,7 @@
       "displayName": "Belinda Cardinal"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [],
     "awards": [
       {
@@ -2291,7 +2856,7 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [],
     "awards": [
       {
@@ -2306,6 +2871,7 @@
   {
     "name": "Hetlandcreek Just Dew IT Again",
     "dateOfBirth": "2016-03-01T00:00:00",
+    "dateOfDeath": "2017-07-17T00:00:00",
     "normalizeId": "PD1771696",
     "id": 1563911,
     "sex": "Male",
@@ -2315,7 +2881,7 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -2342,12 +2908,12 @@
         "awardYear": 2016,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": "2017-07-17T00:00:00"
+    ]
   },
   {
     "name": "Rosasharn PF Princess Riesling",
     "dateOfBirth": "2015-04-03T00:00:00",
+    "dateOfDeath": null,
     "normalizeId": "PD1733790",
     "id": 1525925,
     "sex": "Female",
@@ -2357,7 +2923,7 @@
       "displayName": ""
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": null,
@@ -2407,12 +2973,12 @@
         "awardYear": 2016,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": null
+    ]
   },
   {
     "name": "Camanna RA Uliana",
     "dateOfBirth": "2015-03-17T00:00:00",
+    "dateOfDeath": null,
     "normalizeId": "PD1730236",
     "id": 1522367,
     "sex": "Female",
@@ -2422,7 +2988,7 @@
       "displayName": "Elisabeth Olsen"
     },
     "colorAndMarking": "",
-    "animalTattoo": [],
+    "animalTattoo": {},
     "linearAppraisals": [
       {
         "lactationNumber": 3,
@@ -2489,12 +3055,12 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": null
+    ]
   },
   {
     "name": "Leisure Time GL Satyr ",
     "dateOfBirth": "2015-04-15T00:00:00",
+    "dateOfDeath": null,
     "normalizeId": "PD1725045",
     "id": 1517170,
     "sex": "Male",
@@ -2536,12 +3102,12 @@
         "awardYear": 2019,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": null
+    ]
   },
   {
     "name": "Pixie Hollow NF Fix-IT Felix",
     "dateOfBirth": "2014-12-22T00:00:00",
+    "dateOfDeath": "2020-08-15T22:41:00",
     "normalizeId": "PD1716238",
     "id": 1508348,
     "sex": "Male",
@@ -2566,12 +3132,12 @@
         "awardYear": 2020,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": "2020-08-15T22:41:00"
+    ]
   },
   {
     "name": "SGCH Joyful Hearts KR Phoebe",
     "dateOfBirth": "2015-01-03T00:00:00",
+    "dateOfDeath": "2023-01-03T13:31:27",
     "normalizeId": "PD1711454",
     "id": 1503562,
     "sex": "Female",
@@ -2678,12 +3244,12 @@
         "awardYear": 2016,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": "2023-01-03T13:31:27"
+    ]
   },
   {
     "name": "SGCH Leisure Time TW Silver Joy",
     "dateOfBirth": "2014-06-02T00:00:00",
+    "dateOfDeath": null,
     "normalizeId": "PD1695216",
     "id": 1487302,
     "sex": "Female",
@@ -2813,12 +3379,12 @@
         "awardYear": 2016,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": null
+    ]
   },
   {
     "name": "SG 5 Fold Farm CC Ginger Snap",
     "dateOfBirth": "2014-04-11T00:00:00",
+    "dateOfDeath": null,
     "normalizeId": "PD1686232",
     "id": 1478293,
     "sex": "Female",
@@ -2884,12 +3450,12 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": null
+    ]
   },
   {
     "name": "Castle Rock Iceberg",
     "dateOfBirth": "2013-02-17T00:00:00",
+    "dateOfDeath": null,
     "normalizeId": "PD1649747",
     "id": 1441708,
     "sex": "Male",
@@ -2944,12 +3510,12 @@
         "awardYear": 2013,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": null
+    ]
   },
   {
     "name": "Poppy Patch HB Honey Bear",
     "dateOfBirth": "2013-04-22T00:00:00",
+    "dateOfDeath": "2022-02-12T11:11:54",
     "normalizeId": "PD1646227",
     "id": 1438166,
     "sex": "Male",
@@ -3008,12 +3574,12 @@
         "awardYear": 2017,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": "2022-02-12T11:11:54"
+    ]
   },
   {
     "name": "Fuji Farm ATS MI Incentivo",
     "dateOfBirth": "2013-04-07T00:00:00",
+    "dateOfDeath": null,
     "normalizeId": "PD1645763",
     "id": 1437700,
     "sex": "Male",
@@ -3050,12 +3616,12 @@
         "awardYear": 2018,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": null
+    ]
   },
   {
     "name": "Algedi Farm CK Seirene Song",
     "dateOfBirth": "2012-05-18T00:00:00",
+    "dateOfDeath": "2018-03-11T00:00:00",
     "normalizeId": "PD1618182",
     "id": 1410083,
     "sex": "Female",
@@ -3115,8 +3681,7 @@
         "awardYear": 2014,
         "awardCount": 1
       }
-    ],
-    "dateOfDeath": "2018-03-11T00:00:00"
+    ]
   },
   {
     "name": "GCH Alethia CTO Eye Of The Tiger",
